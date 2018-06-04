@@ -24,7 +24,6 @@
     <meta property="business:contact_data:region" content="9016">
     <meta property="business:contact_data:postal_code" content="9016">
     <meta property="business:contact_data:country_name" content="Switzerland">
-    <link rel="apple-touch-icon" href="icon.png">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
     <link href="https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif" rel="stylesheet">
