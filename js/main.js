@@ -1,6 +1,7 @@
 $(document).ready(function () {
     
-    //Responsive Navigation
+    //Dropdown Navigation
+    
     $('.dropdown').mouseenter(function() {
         $(this).children('div').stop(true, true).slideDown('slow');
     });
@@ -8,5 +9,7 @@ $(document).ready(function () {
     $('.dropdown').mouseleave(function() {
         $('.dropdown-nav').stop(true, true).slideUp('slow');
     });
-
+    
+    
+    
 });

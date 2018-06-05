@@ -101,32 +101,92 @@ textarea {
    ========================================================================== */
 
 .main-container {
+    width: 96%;
+    margin: 0px 2%;
+    
 }
 
-a {
+h1, .nav {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Serif', serif;
+    font-weight: lighter;
+    font-size: 28px;
+    letter-spacing: 0.8px;
+    color: #19489a;
+    line-height: 1.6;
+}
+
+.nav{
+    font-size: 19px;
+    padding-top: 6px;
+    display: block;
+}
+
+h1 span {
+    color: rgba(0, 0, 0, 0.4);
+    line-height: 3;
+}
+
+.content-left {
+    position: relative;
+    margin-top: 120px;
+    margin-bottom: 80px;
+    padding-left: 32px;
+    margin-right: 33.2%;
+}
+.content-right {
+    position: relative;
+    margin-top: 80px;
+    padding-left: 32px;
+    margin-left: 33.2%;
+}
+
+.content-nav {
+    position: relative;
+    overflow: hidden;
+    padding: 8px;
+    margin-bottom: 26px;
+    cursor: pointer;
+}
+
+/* ==========================================================================
+   nav
+   ========================================================================== */
+
+a, p.subnav-titel {
     margin: 0;
     padding: 0;
     font-family: 'PT Sans', sans-serif;
-    font-size: 16px;
+    font-weight: lighter;
+    font-size: 15px;
     text-decoration: none;
     letter-spacing: 0.4px;
-    color: #143C82;
+    color: #19489a;
+}
+
+p.subnav-titel {
+    color: rgba(0, 0, 0, 0.4);
 }
 
 .topnav{
     position: fixed;
     width: 96%;
     margin: 0px 2%;
-    background-color: aquamarine;
+    background-color: white;
+    z-index: 100;
 }
 
-.topnav a {
+.topnav a, .topnav .subnav-titel {
     display: inline-block;
-    padding: 10px;
+    padding: 8px;
     width: 100%;
 }
 
 .topnav a:hover .hover-nav {
+    padding-left: 5px;
+}
+.content-nav:hover .hover-nav {
     padding-left: 5px;
 }
 
@@ -135,27 +195,64 @@ a {
 }
 
 .line {
-    width: 20px;
+    width: 24px;
     text-align: center;
     display: inline-block;
 }
 
-.column-two {
-    width: 33.3%;
-    float: left;
+.line90deg {
+    width: 24px;
+    text-align: center;
+    display: inline-block;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
+
+/* ==========================================================================
+   image
+   ========================================================================== */
+
+
+.container-img {
+    position: relative;
+    display: block;
+    overflow: hidden:
+}
+.container-img img {
+    width: 100%;
+    height: auto;
+}
+.container-img .img2 {
+    opacity: 0;
+    -webkit-transition: opacity .75s ease-in-out;
+    transition: opacity .75s ease-in-out;
+    position: absolute;
+    top:-200%;
+    z-index: 1;
+}
+.container-img:hover .img2 {
+    top:0px;
+    opacity: 1;
+}
+
+/* ==========================================================================
+   raster-column
+   ========================================================================== */
+
 .column-one {
     width: 16.6%;
     float: left;
 }
 
+.column-two {
+    width: 33.2%;
+    float: left;
+}
 
-
-
-
-
-
-
+.column-four {
+    width: 66.4%;
+    float: left;
+}
 
 
 
