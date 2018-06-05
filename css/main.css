@@ -117,7 +117,7 @@ h1, .nav {
     line-height: 1.6;
 }
 
-.nav{
+.nav {
     font-size: 19px;
     padding-top: 6px;
     display: block;
@@ -186,6 +186,7 @@ p.subnav-titel {
 .topnav a:hover .hover-nav {
     padding-left: 5px;
 }
+
 .content-nav:hover .hover-nav {
     padding-left: 5px;
 }
@@ -209,19 +210,28 @@ p.subnav-titel {
 }
 
 /* ==========================================================================
-   image
+   accordion
    ========================================================================== */
 
+.accordion-list {
+    display: none;
+}
+
+/* ==========================================================================
+   image
+   ========================================================================== */
 
 .container-img {
     position: relative;
     display: block;
     overflow: hidden:
 }
+
 .container-img img {
     width: 100%;
     height: auto;
 }
+
 .container-img .img2 {
     opacity: 0;
     -webkit-transition: opacity .75s ease-in-out;
@@ -230,6 +240,7 @@ p.subnav-titel {
     top:-200%;
     z-index: 1;
 }
+
 .container-img:hover .img2 {
     top:0px;
     opacity: 1;
@@ -253,10 +264,6 @@ p.subnav-titel {
     width: 66.4%;
     float: left;
 }
-
-
-
-
 
 /* ==========================================================================
    Helper classes
