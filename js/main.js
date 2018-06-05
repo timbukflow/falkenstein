@@ -12,10 +12,17 @@ $(document).ready(function () {
     
     // Accordion
     
-    $('.accordionButton').click(function() {
-        $(this).siblings('.accordion-list').stop(true, true).slideToggle('slow');
+     $('.accTitle').click(function() {
+        $accordion_line = $(this).children('.line');
+        $('.line').not($accordion_line).removeClass('line90deg');
         $(this).children('.line').toggleClass('line90deg');
+        
+        $accordion_content = $(this).next('.accList');
+        $('.accList').not($accordion_content).slideUp();
+        $accordion_content.stop(true, true).slideToggle(400);
     });
+    
+    
     
     
     /*
