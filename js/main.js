@@ -13,7 +13,8 @@ $(document).ready(function () {
     // Accordion
     
     $('.accordionButton').click(function() {
-       $(this).children('.accordion-list')stop(true, true).show('slow'); 
+        $(this).siblings('.accordion-list').stop(true, true).slideToggle('slow');
+        $(this).children('.line').toggleClass('line90deg');
     });
     
     
