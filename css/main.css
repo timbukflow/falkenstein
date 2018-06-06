@@ -169,7 +169,7 @@ h1 span {
    nav
    ========================================================================== */
 
-a, p.subnav-titel {
+a, p.subnav-titel, .footer, .footer-content {
     margin: 0;
     padding: 0;
     font-family: 'PT Sans', sans-serif;
@@ -180,7 +180,7 @@ a, p.subnav-titel {
     color: #19489a;
 }
 
-p.subnav-titel {
+p.subnav-titel, .footer, .footer-content {
     color: rgba(0, 0, 0, 0.4);
 }
 
@@ -192,7 +192,7 @@ p.subnav-titel {
     z-index: 100;
 }
 
-.topnav a, .topnav .subnav-titel {
+.topnav a, .topnav .subnav-titel, footer {
     display: inline-block;
     padding: 8px;
     width: 100%;
@@ -217,12 +217,17 @@ p.subnav-titel {
     display: inline-block;
 }
 
-.line90deg {
+.lineactive {
     width: 26px;
     text-align: center;
     display: inline-block;
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.dd-nav-footer {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #19489a;
 }
 
 /* ==========================================================================
@@ -279,6 +284,24 @@ p.subnav-titel {
 .column-four {
     width: 66.4%;
     float: left;
+}
+
+/* ==========================================================================
+   footer
+   ========================================================================== */
+
+footer {
+    width: 96%;
+    margin: 0px 2%;
+}
+
+.footer-content {
+    padding: 20px 20px;
+    padding-left: 25px;
+}
+
+.footer{
+    cursor: pointer;
 }
 
 /* ==========================================================================

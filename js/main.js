@@ -4,18 +4,20 @@ $(document).ready(function () {
     
     $('.dropdown').mouseenter(function() {
         $(this).children('div').stop(true, true).slideDown('slow');
+        $('.topnav').addClass('dd-nav-footer');
     });
     
     $('.dropdown').mouseleave(function() {
         $('.dropdown-nav').stop(true, true).slideUp('slow');
+        $('.topnav').removeClass('dd-nav-footer');
     });
     
     // Accordion
     
      $('.accTitle').click(function() {
         $accordion_line = $(this).children('.line');
-        $('.line').not($accordion_line).removeClass('line90deg');
-        $(this).children('.line').toggleClass('line90deg');
+        $('.line').not($accordion_line).removeClass('lineactive');
+        $(this).children('.line').toggleClass('lineactive');
         
         $accordion_content = $(this).next('.accList');
         $('.accList').not($accordion_content).slideUp();

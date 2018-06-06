@@ -48,38 +48,8 @@
 </head>
 
 <body>
-    <header>
-        <nav class="topnav" id="myTopnav">
-            <div class="column-two"><a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Advokatur und Treuhand am Falkenstein</span></a></div>
-            <div class="column-one dropdown"><a href="index.html" target="_top" ><div class="line">&#x0007C;</div><span class="hover-nav">Team</span></a>
-                <div class="dropdown-nav">
-                    <p class="subnav-titel"><span class="line90deg">&#x0007C;</span><span class="hover-nav">Advokatur</span></p>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Rolf W. Rempfler</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Christa Rempfler</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Debora Bilgeri</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Andres Thürlimann</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Tanja Ivanovic</span></a>
-                    <p class="subnav-titel"><span class="line90deg">&#x0007C;</span><span class="hover-nav">Treuhand</span></p>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Werner Rempfler</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Maria Rempfler</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Roger Schai</span></a>                   
-                    <p class="subnav-titel"><span class="line90deg">&#x0007C;</span><span class="hover-nav">Sekretariat</span></p>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Fabienne Frei</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Franziska Sutter</span></a>
-                </div>
-            </div>
-            <div class="column-one dropdown"><a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Dienstleistung</span></a>
-                 <div class="dropdown-nav">
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Advokatur</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Treuhand</span></a>
-                    <a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Sekretariat</span></a>
-                </div>
-            </div>
-            <div class="column-one"><a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Geschichte</span></a></div>
-            <div class="column-one"><a href="index.html" target="_top"><div class="line">&#x0007C;</div><span class="hover-nav">Kontakt</span></a></div>
-        </nav>
-    </header>
+    
+    <?php $page = 'home'; include 'include/header.php'; ?>
     
     <main class="main-container">
         <section class="content-left column-four">
@@ -160,11 +130,22 @@
         </article>
     </main>
     
-  <script src="js/vendor/modernizr-3.6.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+    <footer>
+        <div class="column-two">
+            <p class="footer accTitle"><span class="line">&#x0007C;</span><span class="hover-nav">Impressum</span></p>
+            <p class="footer-content accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
+        </div>
+        <div class="column-two">
+            <p class="footer accTitle"><span class="line">&#x0007C;</span><span class="hover-nav">Disclaimer</span></p>
+            <p class="footer-content accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
+        </div> 
+    </footer>
+    
+    <script src="js/vendor/modernizr-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
  
 </body>
 
