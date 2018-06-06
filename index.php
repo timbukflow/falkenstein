@@ -55,6 +55,9 @@
         <section class="content-left column-four">
             <h1><span>Advokatur und Treuhand am Falkenstein</span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, arbeiten selbständig und unabhängig, pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Diskretion.</h1>
         </section>
+        <div class="logo-container">
+            <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
+        </div>
         <article>
             <a class="content-nav column-two" href="index.html" target="_top">
                 <div class="container-img">
@@ -118,7 +121,7 @@
             </section>
         </article>
         
-        <article class="column-four accordion">
+        <article class="column-two accordion">
             <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Panel 1</span></h3>
             <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
             
@@ -130,16 +133,7 @@
         </article>
     </main>
     
-    <footer>
-        <div class="column-two">
-            <p class="footer accTitle"><span class="line">&#x0007C;</span><span class="hover-nav">Impressum</span></p>
-            <p class="footer-content accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
-        </div>
-        <div class="column-two">
-            <p class="footer accTitle"><span class="line">&#x0007C;</span><span class="hover-nav">Disclaimer</span></p>
-            <p class="footer-content accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
-        </div> 
-    </footer>
+    <?php include 'include/footer.php'; ?>
     
     <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>

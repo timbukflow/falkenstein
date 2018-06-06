@@ -143,11 +143,12 @@ h1 span {
     padding-left: 32px;
     margin-right: 33.2%;
 }
+
 .content-right {
     position: relative;
     margin-top: 80px;
     padding-left: 32px;
-    margin-left: 33.2%;
+    
 }
 
 .content-nav {
@@ -156,6 +157,14 @@ h1 span {
     padding: 8px;
     margin-bottom: 26px;
     cursor: pointer;
+}
+
+.logo-container {
+    position: absolute;
+    right: 2%;
+    margin: 16px;
+    top: 287px;
+    
 }
 
 .accordion {
