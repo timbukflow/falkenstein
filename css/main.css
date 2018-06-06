@@ -136,19 +136,12 @@ h1 span {
     line-height: 3;
 }
 
-.content-left {
+.content-top {
     position: relative;
     margin-top: 120px;
     margin-bottom: 80px;
     padding-left: 32px;
     margin-right: 33.2%;
-}
-
-.content-right {
-    position: relative;
-    margin-top: 80px;
-    padding-left: 32px;
-    
 }
 
 .content-nav {
@@ -159,19 +152,28 @@ h1 span {
     cursor: pointer;
 }
 
-.logo-container {
-    position: absolute;
-    right: 2%;
-    margin: 16px;
-    top: 287px;
-    
+.content-left {
+    position: relative;
+    margin-top: 80px;
+    padding: 8px 32px;
+    margin-right: 33.2%;
+ 
 }
 
 .accordion {
     position: relative;
     padding: 8px;
-    margin-bottom: 0px;
+    margin-top: 40px;
+    margin-bottom: 80px;
     cursor: pointer;
+}
+
+
+.logo-container {
+    position: absolute;
+    right: 2%;
+    margin: 16px;
+    top: 287px;  
 }
 
 /* ==========================================================================
@@ -287,6 +289,11 @@ p.subnav-titel, .footer, .footer-content {
 
 .column-two {
     width: 33.2%;
+    float: left;
+}
+
+.column-five {
+    width: 83%;
     float: left;
 }
 
