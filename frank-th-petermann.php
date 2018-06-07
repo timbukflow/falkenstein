@@ -49,25 +49,33 @@
 
 <body>
     
-    <?php $page = 'home'; include 'include/header.php'; ?>
+    <?php $page = 'team'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <section class="content-top column-four">
-            <h1><span>Advokatur und Treuhand am Falkenstein</span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, arbeiten selbständig und unabhängig, pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Diskretion.</h1>
+        <section class="content-team column-three">
+            <h1>Frank Th. Petermann<br><span>Rechtsanwalt &#47; Notar</span></h1>
+            <h3>
+                <a class="contact" href="tel:0712426650">T 071 242 66 50 &#47;</a> 
+                <a class="contact" href="mailto:ftp@falkenstein.ag" target="_top">ftp@falkenstein.ag</a>
+            </h3>
         </section>
-        <div class="logo-container">
-            <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
-        </div>
+        
+        <article class="column-three accordion team">
+            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Profil</span></h3>
+            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
+            
+            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Dienstleistung</span></h3>
+            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
+            
+            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Kontakt</span></h3>
+            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
+        </article>  
+        
+        
         <article>
-            <a class="content-nav column-two" href="frank-th-petermann" target="_top">
-                <div class="container-img">
+                <div class="column-three container-img">
                     <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-th-petermann-passion.jpg" alt="frank" >
                 </div>
-                <h3 class="nav">
-                    <div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span>
-                </h3>
-            </a>
             <a class="content-nav column-two" href="index.html" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >

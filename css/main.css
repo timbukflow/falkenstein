@@ -30,12 +30,14 @@ html {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: rgb(25, 72, 154);
+    color: white;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: rgb(25, 72, 154);
+    color: white;
     text-shadow: none;
 }
 
@@ -106,7 +108,12 @@ textarea {
     
 }
 
-h1, .nav, p {
+h3 {
+    margin: 0px;
+    line-height: 2.5;
+}
+
+h1, .nav, p, a.contact {
     margin: 0;
     padding: 0;
     font-family: 'PT Serif', serif;
@@ -114,8 +121,18 @@ h1, .nav, p {
     font-size: 28px;
     letter-spacing: 0.8px;
     color: #19489a;
-    line-height: 1.6;
+    line-height: 1.65;
 }
+
+h3 span {
+    line-height: 1.85;
+}
+
+a.contact {
+    font-size: 19px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
 
 .nav {
     font-size: 19px;
@@ -124,7 +141,7 @@ h1, .nav, p {
     cursor: pointer;
 }
 
-.accordion p {
+.accordion p  {
     font-size: 19px;
     padding: 20px 20px;
     color: rgba(0, 0, 0, 0.4);
@@ -133,7 +150,6 @@ h1, .nav, p {
 
 h1 span {
     color: rgba(0, 0, 0, 0.4);
-    line-height: 3;
 }
 
 .content-top {
@@ -157,7 +173,13 @@ h1 span {
     margin-top: 80px;
     padding: 8px 32px;
     margin-right: 33.2%;
- 
+}
+
+.content-team {
+    position: relative;
+    margin-top: 120px;
+    margin-bottom: 80px;
+    padding-left: 32px;
 }
 
 .accordion {
@@ -168,6 +190,10 @@ h1 span {
     cursor: pointer;
 }
 
+.team {
+    margin-top: 120px;
+}
+
 
 .logo-container {
     position: absolute;
@@ -175,6 +201,7 @@ h1 span {
     margin: 16px;
     top: 287px;  
 }
+
 
 /* ==========================================================================
    nav
@@ -208,7 +235,7 @@ p.subnav-titel, .footer, .footer-content {
     padding: 8px;
     width: 100%;
 }
-
+/*
 .topnav a:hover .hover-nav {
     padding-left: 5px;
 }
@@ -217,6 +244,10 @@ p.subnav-titel, .footer, .footer-content {
     padding-left: 5px;
 }
 
+.nav:hover .hover-nav{
+     padding-left: 5px;
+}
+*/
 
 .dropdown-nav {
     display: none;
@@ -292,13 +323,18 @@ p.subnav-titel, .footer, .footer-content {
     float: left;
 }
 
-.column-five {
-    width: 83%;
+.column-three {
+    width: 49.8%;
     float: left;
 }
 
 .column-four {
     width: 66.4%;
+    float: left;
+}
+
+.column-five {
+    width: 83%;
     float: left;
 }
 
@@ -318,6 +354,16 @@ footer {
 
 .footer{
     cursor: pointer;
+    margin-top: 45px;
+}
+
+.logo-footer {
+    position: relative;
+}
+
+.logo-footer img {
+    position: absolute;
+    right: 0;
 }
 
 /* ==========================================================================
