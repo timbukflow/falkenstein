@@ -73,75 +73,15 @@
         
         
         <article>
-                <div class="column-three container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                </div>
-            <a class="content-nav column-two" href="index.html" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-th-petermann-passion.jpg" alt="frank" >
-                </div>
-                <h3 class="nav">
-                    <div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span>
-                </h3>
-            </a>
-            <a class="content-nav column-two" href="index.html" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-th-petermann-passion.jpg" alt="frank" >
-                </div>
-                <h3 class="nav">
-                    <div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span>
-                </h3>
-            </a>
-            <a class="content-nav column-two" href="index.html" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-th-petermann-passion.jpg" alt="frank" >
-                </div>
-                <h3 class="nav">
-                    <div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span>
-                </h3>
-            </a>
-            <a class="content-nav column-two" href="index.html" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-th-petermann-passion.jpg" alt="frank" >
-                </div>
-                <h3 class="nav">
-                    <div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span>
-                </h3>
-            </a>
-            <a class="content-nav column-two" href="index.html" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-th-petermann-passion.jpg" alt="frank" >
-                </div>
-                <h3 class="nav">
-                    <div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span>
-                </h3>
-            </a>
-            <section class="content-left column-five">
-                <h1><span>Ein Mandat ist für uns nicht einfach ein Auftrag.</span><br>Es ist der Entscheid, mit einem Klienten wenn nötig bis zu den Grenzen des Möglichen vorzustossen. Die dazu nötigen Schritte erfüllen wir sorgfältig und mit hoher Professionalität. Wir gewährleisten eine fachlich herausragende Qualität, wofür wir eine angemessene Honorierung erwarten.</h1>
+            <div class="column-three container-img content-nav">
+                <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
+            </div>
+            <div class="column-three container-img content-nav">
+                <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
+            </div>
+            <section class="content-right column-four">
+                <h1>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem "Rückbesinnen auf alte Werte" skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h1>
             </section>
-            <section class="content-left column-five">
-                <h1><span>Nicht alles, was Tradition hat, ist sinnvoll.</span><br>Liberal und aufgeklärt stehen wir Forderungen, wie dem "Rückbesinnen auf alte Werte" skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten:</h1>
-            </section>
-        </article>
-        
-        <article class="column-two accordion">
-            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Respekt</span></h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
-            
-            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Ausdauer</span></h3>
-            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
-        </article>  
-        <article class="column-two accordion">    
-            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Selbstdisziplin</span></h3>
-            <p class="accList">Kontinuierlich reflektieren wir uns und unser Handeln. Da wir uns dem Unterschied zwischen den Interessen unserer Klienten und unserer eigenen bewusst sind, und unser Handeln nach diesem Bewusstsein ausrichten, kommt es nicht zu Interessenkonflikten. Impulsivität entspricht nicht unseren Vorstellungen einer professionellen Arbeitsweise. Wir handeln ruhig und überlegt.</p>
-            
-            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Unbeugsamer Geist</span></h3>
-            <p class="accList">Wir prüfen auch unkonventionelle Lösungen, bevor wir Verfahren anhängig machen. Ist aber ein Konflikt unvermeidbar, vertreten wir unsere Klienten mit Engagement und Standfestigkeit gegenüber der Gegenpartei, Gerichten oder Verwaltungsbehörden. Und wenn nötig auch mit einer gehörigen Portion Renitenz.</p>
         </article>
     </main>
     

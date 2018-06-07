@@ -3,13 +3,27 @@ $(document).ready(function () {
     //Dropdown Navigation
     
     $('.dropdown').mouseenter(function() {
-        $(this).children('div').stop(true, true).slideDown('slow');
-        $('.topnav').addClass('dd-nav-footer');
+        $(this).children('div').stop(true, false).slideDown('slow');
+        $('.topnav').stop(true, false).addClass('dd-nav-footer');
     });
     
     $('.dropdown').mouseleave(function() {
-        $('.dropdown-nav').stop(true, true).slideUp('slow');
-        $('.topnav').removeClass('dd-nav-footer');
+        $('.dropdown-nav').stop(true, false).slideUp('slow');
+        $('.topnav').stop(true, false).removeClass('dd-nav-footer');
+    });
+    
+    //Responsive Navigation
+    
+    $('.menu').click(function() {
+        $('.menu').hide();
+        $('.topnav .navresp').css('display', 'block');
+        $('.close').css('display', 'block');
+    });
+    
+     $('.close').click(function() {
+        $('.menu').show();
+        $('.topnav .navresp').hide();
+        $('.close').hide();
     });
     
     // Accordion

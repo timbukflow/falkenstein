@@ -1,6 +1,9 @@
 <header>
     <nav class="topnav">
         
+        <a style="font-size: 16px;" class="menu">Menu</a>
+        <a style="font-size: 16px;" class="close">&#9587;</a>
+        
         <div class="column-two">
             <a href="index.php" target="_top"><span class="line <?php if ($page=='home'){echo 'lineactive';}?>">&#x0007C;</span><span class="hover-nav">Advokatur und Treuhand am Falkenstein</span></a>
         </div>
