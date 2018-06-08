@@ -28,9 +28,9 @@
             </div>
         </div>
         
-        <div class="column-one dropdown"><a href="index.html" target="_top"><span class="line <?php if ($page=='dienstleistung'){echo 'lineactive';}?>">&#x0007C;</span><span class="hover-nav">Dienstleistung</span></a>
+        <div class="column-one dropdown"><a href="dienstleistung" target="_top"><span class="line <?php if ($page=='dienstleistung'){echo 'lineactive';}?>">&#x0007C;</span><span class="hover-nav">Dienstleistung</span></a>
             <div class="dropdown-nav">
-                <a href="index.html" target="_top"><span class="line">&#x0007C;</span><span class="hover-nav">Advokatur</span></a>
+                <a href="dienstleistung#advokatur" target="_top"><span class="line">&#x0007C;</span><span class="hover-nav">Advokatur</span></a>
                 <a href="index.html" target="_top"><span class="line">&#x0007C;</span><span class="hover-nav">Treuhand</span></a>
                 <a href="index.html" target="_top"><span class="line">&#x0007C;</span><span class="hover-nav">Immobilien</span></a>
             </div>

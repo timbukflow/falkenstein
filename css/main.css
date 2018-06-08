@@ -136,6 +136,7 @@ a.contact {
 
 .nav {
     font-size: 19px;
+    line-height: 2;
     padding-top: 6px;
     display: block;
     cursor: pointer;
@@ -174,6 +175,7 @@ h1 span {
     padding: 8px 32px;
     margin-right: 33.2%;
 }
+
 .content-right {
     position: relative;
     margin-top: 80px;
@@ -189,16 +191,22 @@ h1 span {
     padding-left: 32px;
 }
 
+.content-team-img {
+    position: relative;
+    overflow: hidden;
+    padding: 8px;
+    margin-bottom: 26px;
+}
+
 .accordion {
     position: relative;
     padding: 8px;
     margin-top: 40px;
     margin-bottom: 80px;
-    cursor: pointer;
 }
 
-.team {
-    margin-top: 120px;
+.top {
+    margin-top: 113px;
 }
 
 
@@ -214,7 +222,7 @@ h1 span {
    nav
    ========================================================================== */
 
-a, p.subnav-titel, .footer, .footer-content {
+a, p.subnav-titel, .footer, .footer-content, .subnav-nav p {
     margin: 0;
     padding: 0;
     font-family: 'PT Sans', sans-serif;
@@ -227,6 +235,10 @@ a, p.subnav-titel, .footer, .footer-content {
 
 p.subnav-titel, .footer, .footer-content {
     color: rgba(0, 0, 0, 0.4);
+}
+
+.first {
+    padding-left: -4px;
 }
 
 .topnav{
@@ -337,8 +349,8 @@ p.subnav-titel, .footer, .footer-content {
 
 .container-img .img2 {
     opacity: 0;
-    -webkit-transition: opacity .75s ease-in-out;
-    transition: opacity .75s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
     position: absolute;
     top:-200%;
     z-index: 1;
@@ -375,6 +387,11 @@ p.subnav-titel, .footer, .footer-content {
 
 .column-five {
     width: 83%;
+    float: left;
+}
+
+.second-column-one {
+    width: 25.6%;
     float: left;
 }
 

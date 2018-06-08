@@ -59,13 +59,13 @@
             <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
         </div>
         <article>
-            <a class="content-nav column-two" href="frank-th-petermann" target="_top">
+            <a class="content-nav column-two" href="roger-schai" target="_top">
                 <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-th-petermann-passion.jpg" alt="frank" >
+                    <img class="img1" src="img/falkenstein-treuhand-roger-schai.jpg" alt="falkenstein-treuhand-roger-schai" >
+                    <img class="img2" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div><span class="hover-nav">Frank Th. Petermann</span>
+                    <div class="line">&#x0007C;</div><span class="hover-nav">Roge Schai</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="index.html" target="_top">

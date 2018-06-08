@@ -49,39 +49,29 @@
 
 <body>
     
-    <?php $page = 'team'; include 'include/header.php'; ?>
+    <?php $page = 'dienstleistung'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <section class="content-team column-three">
-            <h1>Frank Th. Petermann<br><span>Rechtsanwalt &#47; Notar</span></h1>
-            <h3>
-                <a class="contact" href="tel:0712426650">T 071 242 66 50 &#47;</a> 
-                <a class="contact" href="mailto:ftp@falkenstein.ag" target="_top">ftp@falkenstein.ag</a>
-            </h3>
+        <section class="content-team column-two">
+            <h1>Advokatur</h1>
         </section>
         
-        <article class="column-three accordion team">
-            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Profil</span></h3>
+        <article class="column-four accordion top">
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Zivil- und Verwaltungsrecht</span></h3>
+            <div class="subnav-nav accList">
+                <p class="first second-column-one"><span class="lineactive">&#x0007C;</span><span>Beschreibung</span></p>
+                <p class="">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
+                
+                <p class="second-column-one"><span class="line">&#x0007C;</span><span>Spezialisten</span></p>
+                <p class="second-column-one"><span class="line">&#x0007C;</span><span>Fallbeispiel</span></p>
+            </div>
+            
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Exportkontrollrecht</span></h3>
             <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
             
-            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Dienstleistung</span></h3>
-            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Pharmarecht</span></h3>
+            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
             
-            <h3 class="nav accTitle"><div class="line">&#x0007C;</div><span class="hover-nav">Kontakt</span></h3>
-            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
-        </article>  
-        
-        
-        <article>
-            <div class="column-three container-img content-nav">
-                <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-            </div>
-            <div class="column-three container-img content-nav">
-                <img class="img1" src="img/falkenstein-advokatur-frank-th-petermann-business.jpg" alt="frank" >
-            </div>
-            <section class="content-right column-four">
-                <h1>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem "Rückbesinnen auf alte Werte" skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h1>
-            </section>
         </article>
     </main>
     
