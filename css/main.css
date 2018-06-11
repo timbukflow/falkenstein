@@ -238,7 +238,11 @@ p.subnav-titel, .footer, .footer-content {
 }
 
 .first {
-    padding-left: -4px;
+    padding-left: 4px;
+}
+
+.last {
+    margin-right: 23.2%;
 }
 
 .topnav{
@@ -333,6 +337,39 @@ p.subnav-titel, .footer, .footer-content {
 }
 
 /* ==========================================================================
+   tabs
+   ========================================================================== */
+
+.tabs {
+    width: 100%;
+    display: inline-block;
+}
+
+ul.tab-links {
+    margin: 0;
+    padding: 0;
+}
+
+.tab-links li {
+    padding: 10px 0px;
+    float: left;
+    list-style: none;
+    width: 25.6%;
+}
+
+.tab-content {
+    padding-left: 26px;
+    float: left;
+}
+
+.tab {
+    display: none;
+}
+
+.tab.active {
+    display: block;
+}
+/* ==========================================================================
    image
    ========================================================================== */
 
@@ -387,11 +424,6 @@ p.subnav-titel, .footer, .footer-content {
 
 .column-five {
     width: 83%;
-    float: left;
-}
-
-.second-column-one {
-    width: 25.6%;
     float: left;
 }
 

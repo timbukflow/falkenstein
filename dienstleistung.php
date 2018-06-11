@@ -59,11 +59,30 @@
         <article class="column-four accordion top">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Zivil- und Verwaltungsrecht</span></h3>
             <div class="subnav-nav accList">
-                <p class="first second-column-one"><span class="lineactive">&#x0007C;</span><span>Beschreibung</span></p>
-                <p class="">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
-                
-                <p class="second-column-one"><span class="line">&#x0007C;</span><span>Spezialisten</span></p>
-                <p class="second-column-one"><span class="line">&#x0007C;</span><span>Fallbeispiel</span></p>
+                <div class="tabs">
+                    <ul class="tab-links">
+                        <li class="active">
+                            <a href="#tab1"><span class="lineactive">&#x0007C;</span>Beschreibung</a>
+                        </li>
+                        <li>
+                            <a href="#tab2"><span class="line">&#x0007C;</span><span>Spezialisten</span></a>
+                        </li>
+                        <li class="last">
+                            <a href="#tab3"><span class="line">&#x0007C;</span><span>Fallbeispiel</span></a>
+                        </li>
+                    </ul>
+                    <div class="tab-content">
+                        <div id="tab1" class="tab active">
+                            <p>Tab #1 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis.</p>
+                        </div>
+                        <div id="tab2" class="tab">
+                            <p>Tab #2Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+                        </div>
+                        <div id="tab3" class="tab">
+                            <p>Tab #3Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Exportkontrollrecht</span></h3>

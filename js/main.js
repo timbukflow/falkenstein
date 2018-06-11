@@ -42,5 +42,15 @@ $(document).ready(function () {
             $('html,body').animate({scrollTop:$(goto).offset().top}, 1000);
         } 
     });
+    
+    // Tabs
+    
+    $('.tabs .tab-links a').click(function() {
+        var currentAttrValue = jQuery(this).attr('href');
+        // Show/Hide Tabs
+        $('.tabs ' + currentAttrValue).show().siblings().hide();
+        // Change/remove current tab to active
+        $(this).parent('li').addClass('active').siblings().removeClass('active');
+    });
 
 });
