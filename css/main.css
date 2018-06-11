@@ -113,7 +113,7 @@ h3 {
     line-height: 2.5;
 }
 
-h1, .nav, p, a.contact {
+h1, .nav, p, .nummer a, .contact h3, .contact h3 a {
     margin: 0;
     padding: 0;
     font-family: 'PT Serif', serif;
@@ -128,8 +128,19 @@ h3 span {
     line-height: 1.85;
 }
 
-a.contact {
+.nummer a{
     font-size: 19px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.contact h3, .contact h3 a {
+    font-size: 19px;
+    line-height: 2;
+    padding-top: 6px;
+    display: block;
+}
+
+.contact h3 span a {
     color: rgba(0, 0, 0, 0.4);
 }
 

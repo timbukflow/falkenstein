@@ -49,40 +49,24 @@
 
 <body>
     
-    <?php $page = 'team'; include 'include/header.php'; ?>
+    <?php $page = 'kontakt'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <section class="content-team column-three">
-            <h1>Roger Schai<br><span>Rechtsanwalt &#47; Notar</span></h1>
-            <h3 class="nummer">
-                <a href="tel:0712426650">T 071 242 66 50 &#47;</a> 
-                <a href="mailto:ftp@falkenstein.ag" target="_top">rs@falkenstein.ag</a>
+        <section class="content-team column-three contact">
+            <h3>Advokatur und Treuhand am Falkenstein<br>Falkensteinstrasse 1<br>Postfach 152<br>9016 St. Gallen
+            <span><a href="https://www.google.ch/maps/dir//Falkensteinstrasse+1,+9000+St.+Gallen/@47.4299966,9.3870661,15z" title="Route mit Google berechnen" target="_blank">Anfahrt mit Google berechnen</a></span>
+            </h3><br>
+            <h3>Advokatur<br>
+                <span><a href="tel:071 242 66 50">T 071 242 66 50</a>
+                <a href="tel:071 242 66 52">T 071 242 66 52</a>
+                <a href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a></span>
+            </h3><br>
+            <h3>Treuhand und Immobilien<br>
+                <span><a class="contact" href="tel:071 242 66 57">T 071 242 66 57</a>
+                <a class="contact" href="tel:071 242 66 56">T 071 242 66 56</a>
+                <a class="contact" href="mailto:rs@falkenstein.ag" target="_top">rs@falkenstein.ag</a></span>
             </h3>
         </section>
-        
-        <article class="column-three accordion top">
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Profil</h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
-            
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Dienstleistung</h3>
-            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
-            
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
-            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
-        </article>  
-        
-        
-        <article>
-            <div class="column-three container-img content-team-img">
-                <img class="img1" src="img/falkenstein-treuhand-roger-schai.jpg" alt="falkenstein-treuhand-roger-schai" >
-            </div>
-            <div class="column-three container-img content-nav">
-                <img class="img1" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai" >
-            </div>
-            <section class="content-right column-four">
-                <h1>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem "Rückbesinnen auf alte Werte" skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h1>
-            </section>
-        </article>
     </main>
     
     <?php include 'include/footer.php'; ?>

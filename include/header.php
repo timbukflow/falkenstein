@@ -41,7 +41,7 @@
         </div>
         
         <div class="column-one navresp">
-            <a href="index.html" target="_top"><span class="line <?php if ($page=='kontakt'){echo 'lineactive';}?>">&#x0007C;</span>Kontakt</a>
+            <a href="kontakt" target="_top"><span class="line <?php if ($page=='kontakt'){echo 'lineactive';}?>">&#x0007C;</span>Kontakt</a>
         </div>
     
     </nav>
