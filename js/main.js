@@ -2,29 +2,39 @@ $(document).ready(function () {
     
     //Dropdown Navigation
     
-    $('.dropdown').mouseenter(function() {
-        $(this).children('div').stop(true, false).slideDown('slow');
-        $('.topnav').stop(true, false).addClass('dd-nav-footer');
-    });
-    
-    $('.dropdown').mouseleave(function() {
-        $('.dropdown-nav').stop(true, false).slideUp('slow');
-        $('.topnav').stop(true, false).removeClass('dd-nav-footer');
+    $('.dropTitle').click(function() {
+        $drop_line = $(this).children('span');
+        $('.dropTitle .line').not($drop_line).removeClass('lineactive');
+        $(this).children('span').toggleClass('lineactive');
+        
+        $drop_content = $(this).next('.dropList');
+        $('.dropList').not($drop_content).slideUp(800).removeClass('open');
+        $drop_content.stop(true, false).slideToggle(800).toggleClass('open');
+       
+        if ($('.dropList').hasClass('open')) {
+            $('.topnav').addClass('dd-nav-footer');
+        }
+        else {
+            $('.topnav').removeClass('dd-nav-footer');
+        }
+        
     });
     
     //Responsive Navigation
     
-    $('.menu').click(function() {
-        $('.menu').hide();
-        $('.topnav .navresp').css('display', 'block');
-        $('.close').css('display', 'block');
+    $('.menusmall').click(function() {
+        $(this).children('span').toggleClass('lineactive');
+        $('.topnav').removeClass('dd-nav-footer');
+        $('.topnav .navresp').stop(true, true).toggle();
+
+        if ($('.topnav .navresp').is(':visible')) {
+            $('.topnav').addClass('dd-nav-footer-resp');
+        }
+        else {
+            $('.topnav').removeClass('dd-nav-footer-resp');
+        }
     });
     
-     $('.close').click(function() {
-        $('.menu').show();
-        $('.topnav .navresp').hide();
-        $('.close').hide();
-    });
     
     // Accordion
     
@@ -35,7 +45,7 @@ $(document).ready(function () {
         
         $accordion_content = $(this).next('.accList');
         $('.accList').not($accordion_content).slideUp(800);
-        $accordion_content.stop(true, true).slideToggle(800);
+        $accordion_content.stop(true, false).slideToggle(800);
         
         var goto = $(this).attr("data-toggle");
         if ($(goto).is(":visible")) {
