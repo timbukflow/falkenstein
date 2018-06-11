@@ -9,7 +9,7 @@
         
         <div class="column-one navresp">
             <div class="menu dropTitle"><span class="line <?php if ($page=='team'){echo 'lineactive';}?>">&#x0007C;</span>Team</div>
-            <div class="dropList">
+            <div class="dropList subnav-resp">
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Advokatur</p>
                 <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Frank Th. Petermann</a>
                 <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
@@ -29,7 +29,7 @@
         
         <div class="column-one navresp">
             <div class="menu dropTitle"><span class="line <?php if ($page=='dienstleistung'){echo 'lineactive';}?>">&#x0007C;</span>Dienstleistung</div>
-            <div class="dropList">
+            <div class="dropList subnav-resp">
                 <a href="dienstleistung#advokatur" target="_top"><span class="line">&#x0007C;</span>Advokatur</a>
                 <a href="index.html" target="_top"><span class="line">&#x0007C;</span>Treuhand</a>
                 <a href="index.html" target="_top"><span class="line">&#x0007C;</span>Immobilien</a>

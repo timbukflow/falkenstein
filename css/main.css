@@ -278,6 +278,10 @@ p.subnav-titel, .footer, .footer-content {
     border-bottom: 1px solid #19489a;
 }
 
+.menu {
+    cursor: pointer;
+}
+
 /* ==========================================================================
    accordion and drop
    ========================================================================== */
@@ -390,6 +394,7 @@ ul.tab-links {
     .nav-left {width: 66.4%;}
     .topnav .navresp {display: none; width: 33.2%; margin-left: 66.4%;}
     .topnav .menusmall {display: block;}
+    .subnav-resp {padding: 10px 20px; padding-bottom: 15px;}
 }
 
 @media screen and (min-width: 931px) {
