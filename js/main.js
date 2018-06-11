@@ -29,9 +29,9 @@ $(document).ready(function () {
     // Accordion
     
      $('.accTitle').click(function() {
-        $accordion_line = $(this).children('.line');
-        $('.line').not($accordion_line).removeClass('lineactive');
-        $(this).children('.line').toggleClass('lineactive');
+        $accordion_line = $(this).children('span');
+        $('.accTitle .line').not($accordion_line).removeClass('lineactive');
+        $(this).children('span').toggleClass('lineactive');
         
         $accordion_content = $(this).next('.accList');
         $('.accList').not($accordion_content).slideUp(800);
@@ -46,10 +46,12 @@ $(document).ready(function () {
     // Tabs
     
     $('.tabs .tab-links a').click(function() {
-        var currentAttrValue = jQuery(this).attr('href');
-        // Show/Hide Tabs
+        $accordion_line = $(this).children('span');
+        $('span').not($accordion_line).removeClass('lineactivesub');
+        $(this).children('span').addClass('lineactivesub');
+        
+        var currentAttrValue = $(this).attr('href');
         $('.tabs ' + currentAttrValue).show().siblings().hide();
-        // Change/remove current tab to active
         $(this).parent('li').addClass('active').siblings().removeClass('active');
     });
 

@@ -57,18 +57,18 @@
         </section>
         
         <article class="column-four accordion top">
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Zivil- und Verwaltungsrecht</span></h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Zivil- und Verwaltungsrecht</h3>
             <div class="subnav-nav accList">
                 <div class="tabs">
                     <ul class="tab-links">
                         <li class="active">
-                            <a href="#tab1"><span class="lineactive">&#x0007C;</span>Beschreibung</a>
+                            <a href="#tab1"><span class="linesub lineactivesub">&#x0007C;</span>Beschreibung</a>
                         </li>
                         <li>
-                            <a href="#tab2"><span class="line">&#x0007C;</span><span>Spezialisten</span></a>
+                            <a href="#tab2"><span class="linesub">&#x0007C;</span>Spezialisten</a>
                         </li>
                         <li class="last">
-                            <a href="#tab3"><span class="line">&#x0007C;</span><span>Fallbeispiel</span></a>
+                            <a href="#tab3"><span class="linesub">&#x0007C;</span>Fallbeispiel</a>
                         </li>
                     </ul>
                     <div class="tab-content">
@@ -85,10 +85,10 @@
                 </div>
             </div>
             
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Exportkontrollrecht</span></h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Exportkontrollrecht</h3>
             <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
             
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Pharmarecht</span></h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Pharmarecht</h3>
             <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
             
         </article>

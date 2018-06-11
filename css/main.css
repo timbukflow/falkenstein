@@ -276,13 +276,13 @@ p.subnav-titel, .footer, .footer-content {
     display: none;
 }
 
-.line {
+.line, .linesub {
     width: 26px;
     text-align: center;
     display: inline-block;
 }
 
-.lineactive {
+.lineactive, .lineactivesub {
     width: 26px;
     text-align: center;
     display: inline-block;
@@ -358,7 +358,7 @@ ul.tab-links {
 }
 
 .tab-content {
-    padding-left: 26px;
+    padding: 10px 26px;
     float: left;
 }
 

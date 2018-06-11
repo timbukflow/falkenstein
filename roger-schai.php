@@ -61,13 +61,13 @@
         </section>
         
         <article class="column-three accordion top">
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Profil</span></h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Profil</h3>
             <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
             
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Dienstleistung</span></h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Dienstleistung</h3>
             <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
             
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span><span>Kontakt</span></h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
         </article>  
         
