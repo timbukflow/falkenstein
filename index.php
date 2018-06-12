@@ -65,7 +65,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Frank Th. Petermann<span class="marking">Advokatur</span>
+                    <div class="line">&#x0007C;</div>Frank Th. Petermann <span class="gray">Advokatur</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="rolf-w-rempfler" target="_top">
@@ -74,7 +74,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Rolf W. Rempfler<span class="marking">Advokatur</span>
+                    <div class="line">&#x0007C;</div>Rolf W. Rempfler <span class="gray">Advokatur</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="christa-rempfler" target="_top">
@@ -83,7 +83,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Christa Rempfler<span class="marking">Advokatur</span>
+                    <div class="line">&#x0007C;</div>Christa Rempfler <span class="gray">Advokatur</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="debora-bilgeri" target="_top">
@@ -92,7 +92,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-debora-bilgeri-trekking.jpg" alt="falkenstein-advokatur-debora-bilgeri-trekking" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Debora Bilgeri<span class="marking">Advokatur</span>
+                    <div class="line">&#x0007C;</div>Debora Bilgeri <span class="gray">Advokatur</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="andres-thuerlimann" target="_top">
@@ -101,7 +101,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Andres Thürlimann<span class="marking">Advokatur</span>
+                    <div class="line">&#x0007C;</div>Andres Thürlimann <span class="gray">Advokatur</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="tanja-ivanovic" target="_top">
@@ -110,7 +110,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Tanja Ivanovic<span class="marking">Advokatur</span>
+                    <div class="line">&#x0007C;</div>Tanja Ivanovic <span class="gray">Advokatur</span>
                 </h3>
             </a>
             <section class="content-right column-four">
@@ -122,7 +122,7 @@
                     <img class="img2" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Werner Rempfler<span class="marking">Immobilien</span>
+                    <div class="line">&#x0007C;</div>Werner Rempfler <span class="gray">Immobilien</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="maria-rempfler" target="_top">
@@ -131,7 +131,7 @@
                     <img class="img2" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Maria Rempfler<span class="marking">Immobilien</span>
+                    <div class="line">&#x0007C;</div>Maria Rempfler <span class="gray">Immobilien</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="roger-schai" target="_top">
@@ -140,7 +140,7 @@
                     <img class="img2" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Roger Schai<span class="marking">Treuhand</span>
+                    <div class="line">&#x0007C;</div>Roger Schai <span class="gray">Treuhand</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="fabienne-frei" target="_top">
@@ -149,7 +149,7 @@
                     <img class="img2" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Fabienne Frei<span class="marking">Sekretariat</span>
+                    <div class="line">&#x0007C;</div>Fabienne Frei <span class="gray">Sekretariat</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="franziska-sutter" target="_top">
@@ -158,7 +158,7 @@
                     <img class="img2" src="img/falkenstein-sekretariat-franziska-sutter-wandern.jpg" alt="falkenstein-sekretariat-franziska-sutter-wandern" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Franziska Sutter<span class="marking">Sekretariat</span>
+                    <div class="line">&#x0007C;</div>Franziska Sutter <span class="gray">Sekretariat</span>
                 </h3>
             </a>
             <section class="content-right column-four">

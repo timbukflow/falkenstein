@@ -127,9 +127,8 @@ h1, .nav, p, .nummer a, .contact h3, .contact h3 a {
     line-height: 1.65;
 }
 
-.marking{
+.gray{
     color: rgba(0, 0, 0, 0.4);
-    padding-left: 11px;
 }
 
 h3 span {
@@ -163,7 +162,6 @@ h3 span {
 .accordion p  {
     font-size: 19px;
     padding: 20px 20px;
-    color: rgba(0, 0, 0, 0.4);
     padding-left: 25px;
 }
 

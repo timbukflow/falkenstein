@@ -11,9 +11,9 @@
             <div class="menu dropTitle"><span class="line <?php if ($page=='team'){echo 'lineactive';}?>">&#x0007C;</span>Team</div>
             <div class="dropList subnav-resp">
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Advokatur</p>
-                <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Frank Th. Petermann</a>
-                <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
-                <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Christa Rempfler</a>
+                <a href="frank-th-petermann" target="_top"><span class="line">&#x0007C;</span>Frank Th. Petermann</a>
+                <a href="rolf-w-rempfler" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
+                <a href="christa-rempfler" target="_top"><span class="line">&#x0007C;</span>Christa Rempfler</a>
                 <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Debora Bilgeri</a>
                 <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Andres Thürlimann</a>
                 <a href="index.php" target="_top"><span class="line">&#x0007C;</span>Tanja Ivanovic</a>
