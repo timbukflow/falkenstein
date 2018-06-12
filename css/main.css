@@ -225,7 +225,7 @@ h1 span {
     position: absolute;
     right: 2%;
     margin: 16px;
-    top: 287px;  
+    top: 295px;  
 }
 
 
@@ -291,6 +291,12 @@ p.subnav-titel, .footer, .footer-content {
 
 .menu {
     cursor: pointer;
+}
+
+.symbol {
+    position: absolute;
+    right: 0;
+    width: 14px;
 }
 
 /* ==========================================================================
