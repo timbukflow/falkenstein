@@ -127,8 +127,13 @@ h1, .nav, p, .nummer a, .contact h3, .contact h3 a {
     line-height: 1.65;
 }
 
+.marking{
+    color: rgba(0, 0, 0, 0.4);
+    padding-left: 11px;
+}
+
 h3 span {
-    line-height: 1.85;
+    line-height: 1.85;    
 }
 
 .nummer a{
@@ -192,7 +197,7 @@ h1 span {
 .content-right {
     position: relative;
     margin-top: 80px;
-    margin-bottom: 80px;
+    margin-bottom: 120px;
     padding: 8px 32px;
     margin-left: 33.2%;
 }
@@ -227,7 +232,7 @@ h1 span {
     position: absolute;
     right: 2%;
     margin: 16px;
-    top: 295px;  
+    top: 257px; 
 }
 
 
