@@ -108,48 +108,39 @@ textarea {
 .main-container {
     width: 96%;
     margin: 0px 2%;
-    
 }
 
-h3 {
-    margin: 0px;
-    line-height: 2.5;
-}
-
-h1, h2, .nav, p, .nummer a, .contact h3, .contact h3 a {
+h1, 
+h2, 
+p,
+table,
+.nav, 
+.nummer, 
+.contact h3, 
+.contact h3 a {
     margin: 0;
     padding: 0;
     font-family: 'PT Serif', serif;
     font-weight: lighter;
-    font-size: 28px;
+    font-size: 26px;
     letter-spacing: 0.8px;
     color: #19489a;
-    line-height: 1.65;
+    line-height: 1.6;
 }
 
-.gray{
-    color: rgba(0, 0, 0, 0.4);
-}
-
-h3 span {
-    line-height: 1.85;    
-}
-
-.nummer a{
+.nummer,
+.contact h3, 
+.contact h3 a {
     font-size: 19px;
-    color: rgba(0, 0, 0, 0.4);
-}
-
-.contact h3, .contact h3 a {
-    font-size: 19px;
-    line-height: 2;
     display: block;
 }
 
-.contact h3 span a {
+h1 span, 
+h2 span,
+.gray, 
+.contact h3 span a{
     color: rgba(0, 0, 0, 0.4);
 }
-
 
 .nav {
     font-size: 19px;
@@ -159,14 +150,11 @@ h3 span {
     cursor: pointer;
 }
 
+table,
 .accordion p  {
     font-size: 19px;
     padding: 20px 20px;
     padding-left: 25px;
-}
-
-h1 span, h2 span {
-    color: rgba(0, 0, 0, 0.4);
 }
 
 .content-top {
@@ -186,14 +174,13 @@ h1 span, h2 span {
 
 .content-left {
     position: relative;
-    margin-top: 80px;
+    margin-top: 60px;
     padding: 8px 32px;
-    margin-right: 33.2%;
 }
 
 .content-right {
     position: relative;
-    margin-top: 80px;
+    margin-top: 60px;
     margin-bottom: 120px;
     padding: 8px 32px;
     margin-left: 33.2%;
@@ -216,14 +203,13 @@ h1 span, h2 span {
 .accordion {
     position: relative;
     padding: 8px;
-    margin-top: 40px;
+    margin-top: 113px;
     margin-bottom: 80px;
 }
 
-.top {
-    margin-top: 113px;
+.accordion-home {
+    margin-top: 10px;
 }
-
 
 .logo-container {
     position: absolute;
@@ -237,7 +223,12 @@ h1 span, h2 span {
    nav
    ========================================================================== */
 
-a, p.subnav-titel, .footer, .footer-content, .subnav-nav p, .menu, .menusmall {
+a, 
+p.subnav-titel, 
+.footer, 
+.footer-content,
+.menu, 
+.menusmall {
     margin: 0;
     padding: 0;
     font-family: 'PT Sans', sans-serif;
@@ -248,12 +239,10 @@ a, p.subnav-titel, .footer, .footer-content, .subnav-nav p, .menu, .menusmall {
     color: #19489a;
 }
 
-p.subnav-titel, .footer, .footer-content {
+p.subnav-titel, 
+.footer, 
+.footer-content {
     color: rgba(0, 0, 0, 0.4);
-}
-
-.first {
-    padding-left: 4px;
 }
 
 .last {
@@ -268,19 +257,29 @@ p.subnav-titel, .footer, .footer-content {
     z-index: 100;
 }
 
-.topnav a, .topnav .subnav-titel, footer, .menusmall, .menu {
+.topnav a, 
+.topnav .subnav-titel, 
+footer, 
+.menusmall, 
+.menu {
     display: inline-block;
     padding: 8px;
     width: 100%;
 }
 
-.line, .linesub {
+.menu {
+    cursor: pointer;
+}
+
+.line, 
+.linesub {
     width: 26px;
     text-align: center;
     display: inline-block;
 }
 
-.lineactive, .lineactivesub {
+.lineactive, 
+.lineactivesub {
     width: 26px;
     text-align: center;
     display: inline-block;
@@ -288,13 +287,10 @@ p.subnav-titel, .footer, .footer-content {
     transform: rotate(90deg);
 }
 
-.dd-nav-footer, .dd-nav-footer-resp{
+.dd-nav-footer, 
+.dd-nav-footer-resp{
     padding-bottom: 20px;
     border-bottom: 1px solid #19489a;
-}
-
-.menu {
-    cursor: pointer;
 }
 
 .symbol {
@@ -307,8 +303,19 @@ p.subnav-titel, .footer, .footer-content {
    accordion and drop
    ========================================================================== */
 
-.accList, .dropList {
+.accList, 
+.dropList {
     display: none;
+}
+
+td {
+    vertical-align: text-top;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.year {
+    padding-right: 20px;
+    color: #19489a;
 }
 
 /* ==========================================================================

@@ -9,9 +9,9 @@
     <?php $page = 'home'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <section class="content-top column-four">
+        <article class="content-top column-four">
             <h1><span>Advokatur und Treuhand am Falkenstein</span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, arbeiten selbständig und unabhängig, pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Diskretion.</h1>
-        </section>
+        </article>
         <div class="logo-container">
             <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
         </div>
@@ -70,9 +70,9 @@
                     <span class="line">&#x0007C;</span>Tanja Ivanovic <span class="gray">Advokatur</span>
                 </h3>
             </a>
-            <section class="content-right column-four">
+            <article class="content-right column-four">
                 <h2><span>Ein Mandat ist für uns nicht einfach ein Auftrag.</span><br>Es ist der Entscheid, mit einem Klienten wenn nötig bis zu den Grenzen des Möglichen vorzustossen. Die dazu nötigen Schritte erfüllen wir sorgfältig und mit hoher Professionalität. Wir gewährleisten eine fachlich herausragende Qualität, wofür wir eine angemessene Honorierung erwarten.</h2>
-            </section>
+            </article>
             <a class="content-nav column-two" href="werner-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-treuhand-werner-rempfler.jpg" alt="falkenstein-treuhand-werner-rempfler" >
@@ -118,12 +118,12 @@
                     <span class="line">&#x0007C;</span>Franziska Sutter <span class="gray">Sekretariat</span>
                 </h3>
             </a>
-            <section class="content-right column-four">
-                <h2><span>Nicht alles, was Tradition hat, ist sinnvoll.</span><br>Liberal und aufgeklärt stehen wir Forderungen, wie dem "Rückbesinnen auf alte Werte" skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten:</h2>
-            </section>
+            <article class="content-left column-four">
+                <h2><span>Nicht alles, was Tradition hat, ist sinnvoll.</span><br>Liberal und aufgeklärt stehen wir Forderungen, wie dem Rückbesinnen auf alte Werte skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten:</h2>
+            </article>
         </article>
         
-        <article class="content-right column-four accordion">
+        <article class="column-three accordion accordion-home">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Respekt</h3>
             <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
             

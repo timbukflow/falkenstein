@@ -56,7 +56,7 @@
             <h1>Advokatur</h1>
         </section>
         
-        <article class="column-four accordion top">
+        <article class="column-four accordion">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Zivil- und Verwaltungsrecht</h3>
             <div class="subnav-nav accList">
                 <div class="tabs">
