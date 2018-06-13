@@ -22,7 +22,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
                 </div>
                 <h3 class="nav">
-                    <div class="line">&#x0007C;</div>Frank Th. Petermann <span class="gray">Advokatur</span>
+                    <span class="line">&#x0007C;</span>Frank Th. Petermann <span class="gray">Advokatur</span>
                 </h3>
             </a>
             <a class="content-nav column-two" href="rolf-w-rempfler" target="_top">

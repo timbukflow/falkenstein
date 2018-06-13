@@ -364,13 +364,13 @@ ul.tab-links {
     -webkit-transition: opacity 1s ease-in-out;
     transition: opacity 1s ease-in-out;
     position: absolute;
-    top: -200%;
-   
-  
+    top: 0;
+    left: 0;
+    z-index: 1;
+    
 }
 
 .container-img:hover .img2 {
-    top: 0px;
     opacity: 1;
 }
 
