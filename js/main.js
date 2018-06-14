@@ -67,7 +67,7 @@ $(document).ready(function () {
 
     // Story FadeIn
 
-    $(window).on('load',function() {
+    
     $(window).scroll(function() {
         $('.inview').each(function(i) {
             var bottom_of_object = $(this).offset().top;
@@ -80,6 +80,5 @@ $(document).ready(function () {
             }
         }); 
     }).scroll();
-    });
     
 });
