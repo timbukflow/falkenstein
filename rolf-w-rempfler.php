@@ -1,7 +1,8 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
-     <?php include 'include/head.php'; ?>
+    <?php include 'include/head.php'; ?>
+    <meta name="description" content="..."><!-- definieren -->
 </head>
 
 <body>

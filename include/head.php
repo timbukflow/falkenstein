@@ -4,7 +4,7 @@
     <meta name="robots" content="all">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Advokatur und Treuhand am Falkenstein">
-    <meta name="description" content="..."><!-- definieren -->
+    
     <meta name="keywords" content="Advokatur, Treuhand, Immobilien, Falkenstein, Frank Th. Petermann, Rolf W. Rempfler, Christa Rempfler, Debora Bilgeri, Andres Thürlimann, Tanja Ivanovic, Werner Rempfler, Maria Rempfler, Roger Schai,">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-capable" content="yes">
