@@ -10,11 +10,11 @@
     <?php $page = 'team'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <section class="content-team column-three">
+        <section class="content top column-three">
             <h1>Rolf W. Rempfler<br><span>Rechtsanwalt &#47; Notar</span></h1>
         </section>
         
-        <article class="column-three accordion">
+        <article class="column-three accordion accordion-top">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Profil</h3>
             <div class="accList">
                 <table>
@@ -48,13 +48,13 @@
             <p class="accList">Advokatur am Falkenstein<br>Rolf W. Rempfler<br>Falkensteinstrasse 1<br>Postfach 152<br>9016 St. Gallen<br><br><a class="nummer" href="tel:0712426651">T: 071 242 66 51</a>F: 071 242 66 52<a class="nummer" href="mailto:rr@falkenstein.ag" target="_top">rr@falkenstein.ag</a><br><span class="gray">PC-Konto: 90-64927-4<br>IBAN: CH94 0900 0000 9006 4927 4<br>MWST: CHE-338.058.794</span></p>
         </article>  
         
-        <div class="column-three container-img content-team-img">
+        <div class="column-three container-img content-team-img inview">
             <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
         </div>
-        <div class="column-three container-img content-nav">
+        <div class="column-three container-img content-team-img inview">
             <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
         </div>
-        <article class="content-right column-four">
+        <article class="content-right column-four inview">
             <h2>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h2>
         </article>
     </main>

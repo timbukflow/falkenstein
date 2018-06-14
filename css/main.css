@@ -110,12 +110,25 @@ textarea {
     margin: 0px 2%;
 }
 
+.inview {
+    opacity: 0.2;
+    bottom: -40px;
+    -webkit-transition: opacity 0.75s ease-in-out, bottom 1s ease-in-out;
+    transition:         opacity 0.75s ease-in-out, bottom 1s ease-in-out;
+}
+
+.inview-fade {
+    opacity: 1;
+    bottom:0px;
+}
+
 h1, 
-h2, 
+h2,
 p,
 table,
 .nav, 
-.nummer, 
+.nummer,
+.story,
 .contact h3, 
 .contact h3 a {
     margin: 0;
@@ -144,7 +157,7 @@ h2 span,
 
 .nav {
     font-size: 19px;
-    line-height: 2;
+    line-height: 1.9;
     padding-top: 6px;
     display: block;
     cursor: pointer;
@@ -186,11 +199,11 @@ table,
     margin-left: 33.2%;
 }
 
-.content-team {
+.content {
     position: relative;
-    margin-top: 120px;
     margin-bottom: 80px;
     padding-left: 32px;
+    padding-top: 2px;
 }
 
 .content-team-img {
@@ -202,8 +215,7 @@ table,
 
 .accordion {
     position: relative;
-    padding: 8px;
-    margin-top: 113px;
+    padding-left: 8px;
     margin-bottom: 80px;
 }
 
@@ -218,6 +230,13 @@ table,
     top: 257px; 
 }
 
+.accordion-top {
+     margin-top: 120px;
+}
+
+.top {
+    margin-top: 120px;
+}
 
 /* ==========================================================================
    nav
@@ -299,6 +318,51 @@ footer,
     width: 14px;
 }
 
+
+
+/* ==========================================================================
+   geschichte
+   ========================================================================== */
+
+.storytop {
+    margin-top: 120px;
+}
+
+.storystyle {
+    position: relative;
+    padding: 0px 32px;
+    margin-left: 33.2%;
+}
+
+.storystyle-left {
+    margin-left: 0px;
+}
+
+.storystyle table {
+    padding: 0px;
+}
+
+
+.storystyle td {
+    font-size: 26px;
+    padding-left: 16px;
+    padding-bottom: 100px;
+}
+
+td.story {
+    padding-left: 0px;
+    font-size: 80px;
+    width: 25%;
+    color: #19489a; 
+    line-height: 78px;
+}
+
+
+.content-story-img {
+    padding-top: 40px;
+    width: 75%;
+}
+
 /* ==========================================================================
    accordion and drop
    ========================================================================== */
@@ -309,7 +373,7 @@ footer,
 }
 
 td {
-    vertical-align: text-top;
+    vertical-align: top;
     color: rgba(0, 0, 0, 0.4);
 }
 
@@ -366,10 +430,11 @@ ul.tab-links {
     height: auto;
 }
 
+
 .container-img .img2 {
     opacity: 0;
-    -webkit-transition: opacity 1s ease-in-out;
-    transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
     position: absolute;
     top: 0;
     left: 0;

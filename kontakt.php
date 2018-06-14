@@ -10,19 +10,19 @@
     <?php $page = 'kontakt'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <section class="content-team column-two contact">
+        <section class="content top column-two contact">
             <h3>Falkensteinstrasse 1<br>Postfach 152<br>9016 St. Gallen
             <span><a href="https://www.google.ch/maps/dir//Falkensteinstrasse+1,+9000+St.+Gallen/@47.4299966,9.3870661,15z" title="Route mit Google berechnen" target="_blank">Anfahrt mit Google</a></span>
             </h3><br>
         </section>
-        <section class="content-team column-two contact">
+        <section class="content top column-two contact">
             <h3>Advokatur am Falkenstein<br>
                 <span><a href="tel:0712426650">T 071 242 66 50</a>
                 <a href="tel:0712426652">T 071 242 66 52</a>
                 <a href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a></span>
             </h3><br>
         </section>
-        <section class="content-team column-two contact">
+        <section class="content top column-two contact">
             <h3>Treuhand am Falkenstein<br>
                 <span><a class="contact" href="tel:0712426657">T 071 242 66 57</a>
                 <a class="contact" href="tel:0712426656">T 071 242 66 56</a>
@@ -31,7 +31,7 @@
         </section>
     </main>
     
-    <div class="column-six" id="map"></div>
+    <div class="column-six inview" id="map"></div>
     
     <?php include 'include/footer.php'; ?>
 

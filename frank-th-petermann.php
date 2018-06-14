@@ -10,11 +10,11 @@
     <?php $page = 'team'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <section class="content-team column-three">
+        <section class="content top column-three">
             <h1>Frank Th. Petermann<br><span>Rechtsanwalt &#47; Notar</span></h1>
         </section>
         
-        <article class="column-three accordion">
+        <article class="column-three accordion accordion-top">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Profil</h3>
             <div class="accList">
                 <table>
@@ -51,13 +51,13 @@
             <p class="accList">...</p>
         </article>  
         
-        <div class="column-three container-img content-team-img">
+        <div class="column-three container-img content-team-img inview">
             <img class="img1" src="img/falkenstein-advokatur-frank-petermann.jpg" alt="falkenstein-advokatur-frank-petermann" >
         </div>
-        <div class="column-three container-img content-nav">
+        <div class="column-three container-img content-team-img inview">
             <img class="img1" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
         </div>
-        <article class="content-right column-four">
+        <article class="content-right column-four inview">
             <h2>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h2>
         </article>
     </main>

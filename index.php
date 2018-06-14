@@ -17,7 +17,7 @@
             <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
         </div>
         <article>
-            <a class="content-nav column-two" href="frank-th-petermann" target="_top">
+            <a class="content-nav column-two inview" href="frank-th-petermann" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-frank-petermann.jpg" alt="falkenstein-advokatur-frank-petermann" >
                     <img class="img2" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
@@ -26,7 +26,7 @@
                     <span class="line">&#x0007C;</span>Frank Th. Petermann <span class="gray">Advokatur</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="rolf-w-rempfler" target="_top">
+            <a class="content-nav column-two inview" href="rolf-w-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
                     <img class="img2" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
@@ -35,7 +35,7 @@
                     <span class="line">&#x0007C;</span>Rolf W. Rempfler <span class="gray">Advokatur</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="christa-rempfler" target="_top">
+            <a class="content-nav column-two inview" href="christa-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
                     <img class="img2" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
@@ -44,7 +44,7 @@
                     <span class="line">&#x0007C;</span>Christa Rempfler <span class="gray">Advokatur</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="debora-bilgeri" target="_top">
+            <a class="content-nav column-two inview" href="debora-bilgeri" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-debora-bilgeri.jpg" alt="falkenstein-advokatur-debora-bilgeri" >
                     <img class="img2" src="img/falkenstein-advokatur-debora-bilgeri-trekking.jpg" alt="falkenstein-advokatur-debora-bilgeri-trekking" >
@@ -53,7 +53,7 @@
                     <span class="line">&#x0007C;</span>Debora Bilgeri <span class="gray">Advokatur</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="andres-thuerlimann" target="_top">
+            <a class="content-nav column-two inview" href="andres-thuerlimann" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-andres-thuerlimann.jpg" alt="falkenstein-advokatur-andres-thuerlimann" >
                     <img class="img2" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
@@ -62,7 +62,7 @@
                     <span class="line">&#x0007C;</span>Andres Thürlimann <span class="gray">Advokatur</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="tanja-ivanovic" target="_top">
+            <a class="content-nav column-two inview" href="tanja-ivanovic" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-ivanovic" >
                     <img class="img2" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
@@ -71,10 +71,10 @@
                     <span class="line">&#x0007C;</span>Tanja Ivanovic <span class="gray">Advokatur</span>
                 </h3>
             </a>
-            <article class="content-right column-four">
+            <article class="content-right column-four inview">
                 <h2><span>Ein Mandat ist für uns nicht einfach ein Auftrag.</span><br>Es ist der Entscheid, mit einem Klienten wenn nötig bis zu den Grenzen des Möglichen vorzustossen. Die dazu nötigen Schritte erfüllen wir sorgfältig und mit hoher Professionalität. Wir gewährleisten eine fachlich herausragende Qualität, wofür wir eine angemessene Honorierung erwarten.</h2>
             </article>
-            <a class="content-nav column-two" href="werner-rempfler" target="_top">
+            <a class="content-nav column-two inview" href="werner-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-treuhand-werner-rempfler.jpg" alt="falkenstein-treuhand-werner-rempfler" >
                     <img class="img2" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
@@ -83,7 +83,7 @@
                     <span class="line">&#x0007C;</span>Werner Rempfler <span class="gray">Immobilien</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="maria-rempfler" target="_top">
+            <a class="content-nav column-two inview" href="maria-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
                     <img class="img2" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
@@ -92,7 +92,7 @@
                     <span class="line">&#x0007C;</span>Maria Rempfler <span class="gray">Immobilien</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="roger-schai" target="_top">
+            <a class="content-nav column-two inview" href="roger-schai" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-treuhand-roger-schai.jpg" alt="falkenstein-treuhand-roger-schai" >
                     <img class="img2" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
@@ -101,7 +101,7 @@
                     <span class="line">&#x0007C;</span>Roger Schai <span class="gray">Treuhand</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="fabienne-frei" target="_top">
+            <a class="content-nav column-two inview" href="fabienne-frei" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei.jpg" alt="falkenstein-sekretariat-fabienne-frei" >
                     <img class="img2" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
@@ -110,7 +110,7 @@
                     <span class="line">&#x0007C;</span>Fabienne Frei <span class="gray">Sekretariat</span>
                 </h3>
             </a>
-            <a class="content-nav column-two" href="franziska-sutter" target="_top">
+            <a class="content-nav column-two inview" href="franziska-sutter" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter.jpg" alt="falkenstein-sekretariat-franziska-sutter" >
                     <img class="img2" src="img/falkenstein-sekretariat-franziska-sutter-wandern.jpg" alt="falkenstein-sekretariat-franziska-sutter-wandern" >
@@ -119,12 +119,12 @@
                     <span class="line">&#x0007C;</span>Franziska Sutter <span class="gray">Sekretariat</span>
                 </h3>
             </a>
-            <article class="content-left column-four">
+            <article class="content-left column-four inview">
                 <h2><span>Nicht alles, was Tradition hat, ist sinnvoll.</span><br>Liberal und aufgeklärt stehen wir Forderungen, wie dem Rückbesinnen auf alte Werte skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten:</h2>
             </article>
         </article>
         
-        <article class="column-three accordion accordion-home">
+        <article class="column-three accordion accordion-home inview">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Respekt</h3>
             <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
             
