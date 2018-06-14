@@ -48,17 +48,17 @@
         </article>  
         
         
-        <article>
+        <section>
             <div class="column-three container-img content-team-img">
                 <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
             </div>
             <div class="column-three container-img content-nav">
                 <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
             </div>
-            <section class="content-right column-four">
+            <article class="content-right column-four">
                 <h2>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem "Rückbesinnen auf alte Werte" skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h2>
-            </section>
-        </article>
+            </article>
+        </section>
     </main>
     
     <?php include 'include/footer.php'; ?>
