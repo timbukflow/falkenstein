@@ -17,8 +17,14 @@ $(document).ready(function () {
         else {
             $('.topnav').removeClass('dd-nav-footer');
         }
-        
     });
+    
+    $('.topnav').mouseleave(function() {
+        $('.dropTitle .line').removeClass('lineactive');
+        $('.dropList').slideUp(800).removeClass('open');
+        $('.topnav').removeClass('dd-nav-footer')
+    });
+        
     
     //Responsive Navigation
     
