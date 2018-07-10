@@ -19,8 +19,8 @@
                 <a href="tanja-ivanovic" target="_top"><span class="line">&#x0007C;</span>Tanja Ivanovic</a>
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Treuhand</p>
                 <a href="werner-rempfler" target="_top"><span class="line">&#x0007C;</span>Werner Rempfler</a>
+                <a href="roger-schai" target="_top"><span class="line">&#x0007C;</span>Roger Schai</a>
                 <a href="maria-rempfler" target="_top"><span class="line">&#x0007C;</span>Maria Rempfler</a>
-                <a href="roger-schai" target="_top"><span class="line">&#x0007C;</span>Roger Schai</a>  
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Sekretariat</p>
                 <a href="fabienne-frei" target="_top"><span class="line">&#x0007C;</span>Fabienne Frei</a>
                 <a href="franziska-sutter" target="_top"><span class="line">&#x0007C;</span>Franziska Sutter</a>

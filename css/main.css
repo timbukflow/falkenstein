@@ -135,7 +135,7 @@ table,
     padding: 0;
     font-family: 'PT Serif', serif;
     font-weight: lighter;
-    font-size: 26px;
+    font-size: 24px;
     letter-spacing: 0.8px;
     color: #19489a;
     line-height: 1.6;
@@ -144,7 +144,7 @@ table,
 .nummer,
 .contact h3, 
 .contact h3 a {
-    font-size: 19px;
+    font-size: 18px;
     display: block;
 }
 
@@ -156,8 +156,8 @@ h2 span,
 }
 
 .nav {
-    font-size: 19px;
-    line-height: 1.9;
+    font-size: 18px;
+    line-height: 1.85;
     padding-top: 6px;
     display: block;
     cursor: pointer;
@@ -195,6 +195,13 @@ table,
     position: relative;
     margin-top: 60px;
     margin-bottom: 120px;
+    padding: 8px 32px;
+    margin-left: 33.2%;
+}
+
+.content-right-in {
+    position: relative;
+    margin-top: 60px;
     padding: 8px 32px;
     margin-left: 33.2%;
 }
