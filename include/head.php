@@ -9,7 +9,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="Falkenstein.ag">
-    <meta name="viewport" content="initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:type" content="business.business">
     <meta property="og:title" content="Advokatur und Treuhand am Falkenstein">
     <meta property="og:url" content="http://falkenstein.ag">
