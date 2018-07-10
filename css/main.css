@@ -375,7 +375,8 @@ td.story {
    ========================================================================== */
 
 .accList, 
-.dropList {
+.dropList,
+.accfooterlist{
     display: none;
 }
 

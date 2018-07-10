@@ -70,6 +70,23 @@ $(document).ready(function () {
         $('.tabs ' + currentAttrValue).show().siblings().hide();
         $(this).parent('li').addClass('active').siblings().removeClass('active');
     });
+    
+    // Disclaimer
+    
+     $('.accfooter').click(function() {
+        $accordion_line = $(this).children('span');
+        $('.accfooter .line').not($accordion_line).removeClass('lineactive');
+        $(this).children('span').toggleClass('lineactive');
+        
+        $accordion_content = $(this).next('.accfooterlist');
+        $('.accfooterlist').not($accordion_content).fadeOut(600);
+        $accordion_content.stop(true, false).slideToggle(600);
+        
+        var goto = $(this).attr("data-toggle");
+        if ($(goto).is(":visible")) {
+            $('html,body').animate({scrollTop:$(goto).offset().top}, 1000);
+        } 
+    });
 
     // Story FadeIn
 
