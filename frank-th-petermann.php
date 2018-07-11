@@ -203,8 +203,7 @@
                     IBAN: CH39 0900 0000 9002 7128 5<br>
                     MWST: CHE-171.035.774
                 </span>
-            </p> 
-            
+            </p>
         </article>  
         
         <div class="column-three container-img content-team-img inview">
@@ -214,12 +213,11 @@
             <img class="img1" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
         </div>
         <article class="content-right column-four inview">
-            <h2>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h2>
+            <h4>&laquo;Ein guter Aphorismus ist die Weisheit eines ganzen Buches in einem einzigen Satz&raquo;.</h4>
         </article>
     </main>
     
     <?php include 'include/footer.php'; ?>
-    
     
     <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
@@ -228,5 +226,4 @@
     <script src="js/main.js"></script>
  
 </body>
-
 </html>

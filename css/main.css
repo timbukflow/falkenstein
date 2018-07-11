@@ -124,6 +124,7 @@ textarea {
 
 h1, 
 h2,
+h4,
 p,
 table,
 .nav, 
@@ -139,6 +140,10 @@ table,
     letter-spacing: 0.8px;
     color: #19489a;
     line-height: 1.6;
+}
+
+h4 {
+    font-size: 34px;
 }
 
 .nummer,

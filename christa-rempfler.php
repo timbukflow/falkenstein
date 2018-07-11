@@ -19,33 +19,60 @@
             <div class="accList">
                 <table>
                 <tr>
-                    <td class="year">1991</td>
-                    <td>Kantonsschule am Burggraben, St. Gallen, Wirtschaftsmatura</td>
-                </tr>
-                <tr>
-                    <td class="year">1995</td>
-                    <td>Handelsmittelschule, St. Gallen</td>
-                </tr>
-                <tr>
-                    <td class="year">1997</td>
-                    <td>Studium und Lizenziat an der Rechtswissenschaftlichen Fakultät der Universität Bern</td>
+                    <td class="year">2002</td>
+                    <td>Lizenziat an der Rechtswissenschaftlichen Fakultät der Universität Bern</td>
                 </tr>
                 <tr>
                     <td class="year">2002</td>
-                    <td>Gerichtspraktikum erstinstanzliche Gericht im Thurgau<br>
-                        Anwaltspraktikum in Advokatur in Frauenfeld TG<br>
-                        London School of English, London<br>
-                        Anwaltspraktikum, London<br>
+                    <td>Gerichtspraktikum, London School of English, London Anwaltspraktikum in London und Frauenfeld</td>
+                </tr>
+                <tr>
+                    <td class="year">2004</td>
+                    <td>Einstieg in die Advokatur am Falkenstein als juristische Mitarbeiterin a.o. Gerichtsschreiberin an einem erstinstanzlichen Gericht im Thurgau</td>
+                </tr>
+                <tr>
+                    <td class="year">2007</td>
+                    <td>Anwaltspatent Kanton St.Gallen<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">2007</td>
+                    <td>Praxis als selbständige Rechtsanwältin und Notarin in St.Gallen<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">2010</td>
+                    <td>Sozialversicherungs-Fachfrau mit eidgenössischem Fachausweis, Akademie St.Gallen<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">2013</td>
+                    <td>CAS IRP-HSG Haftpflicht- und Versicherungsrecht, Universität St.Gallen<br>
                     </td>
                 </tr>
                 </table>
             </div>
             
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Dienstleistung</h3>
-            <p class="accList">Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</p>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
+            <p class="accList">Deutsch</p>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
-            <p class="accList">Advokatur am Falkenstein<br>Christa Rempfler<br>Falkensteinstrasse 1<br>Postfach 152<br>9016 St. Gallen<br><br><a class="nummer" href="tel:0712426653">T: 071 242 66 53</a>F: 071 242 66 52<a class="nummer" href="mailto:cr@falkenstein.ag" target="_top">cr@falkenstein.ag</a><br><span class="gray">PC-Konto: 85-361451-6<br>IBAN: CH10 0900 0000 8536 1451 6<br>MWST: CHE-452.133.484</span></p>
+            <p class="accList">
+                Advokatur am Falkenstein<br>
+                Christa Rempfler<br>
+                Rechtsanwältin und Notarin<br>
+                Falkensteinstrasse 1<br>
+                Postfach 152<br>
+                9016 St. Gallen<br><br>
+                <a class="nummer" href="tel:0712426653">T: 071 242 66 53</a>
+                F: 071 242 66 52
+                <a class="nummer" href="mailto:cr@falkenstein.ag" target="_top">cr@falkenstein.ag</a><br>
+                <span class="gray">
+                    PC-Konto: 85-361451-6<br>
+                    IBAN: CH10 0900 0000 8536 1451 6<br>
+                    MWST: CHE-452.133.484
+                </span>
+            </p>
         </article>  
         
         <div class="column-three container-img content-team-img inview">
@@ -55,7 +82,7 @@
             <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
         </div>
         <article class="content-right column-four inview">
-            <h2>&laquo; Liberal und aufgeklärt stehen wir Forderungen, wie dem skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten &raquo;</h2>
+            <h4>&laquo;Ich spiele nach Noten – aber die Noten setze ich&raquo;.</h4>
         </article>
     </main>
     

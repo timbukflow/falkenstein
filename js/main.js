@@ -19,13 +19,6 @@ $(document).ready(function () {
         }
     });
     
-    $('.topnav').mouseleave(function() {
-        $('.dropTitle .line').removeClass('lineactive');
-        $('.dropList').slideUp(800).removeClass('open');
-        $('.topnav').removeClass('dd-nav-footer')
-    });
-        
-    
     //Responsive Navigation
     
     $('.menusmall').click(function() {
@@ -98,7 +91,7 @@ $(document).ready(function () {
         
         var goto = $(this).attr("data-toggle");
         if ($(goto).is(":visible")) {
-            $('html,body').animate({scrollTop:$(goto).offset().top}, 1000);
+            $('html,body').animate({scrollTop:$(goto).offset().top}, 600);
         } 
     });
 
