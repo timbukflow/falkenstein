@@ -53,10 +53,24 @@ $(document).ready(function () {
         $('.accList').not($accordion_content).slideUp(800);
         $accordion_content.stop(true, false).slideToggle(800);
         
-        var goto = $(this).attr("data-toggle");
-        if ($(goto).is(":visible")) {
-            $('html,body').animate({scrollTop:$(goto).offset().top}, 1000);
-        } 
+    });
+    
+    // Accordion Seccond
+    
+     $('.accTitleSecond').click(function() {
+        $accordion_line = $(this).children('span');
+        $('.accTitleSecond .line').not($accordion_line).removeClass('lineactive');
+        $(this).children('span').toggleClass('lineactive');
+         
+        
+        $accordion_content = $(this).next('.accListSecond');
+        $('.accListSecond').not($accordion_content).slideUp(600);
+        $accordion_content.stop(true, false).slideToggle(600);
+        
+        setTimeout(function(){
+            $('html, body').animate({scrollTop: $($accordion_content).offset().top - 75}, 600);
+        }, 700);
+    
     });
     
     // Tabs
@@ -78,8 +92,8 @@ $(document).ready(function () {
         $('.accfooter .line').not($accordion_line).removeClass('lineactive');
         $(this).children('span').toggleClass('lineactive');
         
-        $accordion_content = $(this).next('.accfooterlist');
-        $('.accfooterlist').not($accordion_content).fadeOut(600);
+        $accordion_content = $(this).next('.acclistFooter');
+        $('.acclistFooter').not($accordion_content).fadeOut(600);
         $accordion_content.stop(true, false).slideToggle(600);
         
         var goto = $(this).attr("data-toggle");

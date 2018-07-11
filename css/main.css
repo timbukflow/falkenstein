@@ -152,7 +152,7 @@ h1 span,
 h2 span,
 .gray, 
 .contact h3 span a{
-    color: rgba(0, 0, 0, 0.4);
+    color: rgba(0, 0, 0, 0.5);
 }
 
 .nav {
@@ -376,18 +376,30 @@ td.story {
 
 .accList, 
 .dropList,
-.accfooterlist{
+.acclistFooter,
+.accListSecond {
     display: none;
 }
 
 td {
     vertical-align: top;
-    color: rgba(0, 0, 0, 0.4);
+    color: rgba(0, 0, 0, 0.5);
 }
 
 .year {
     padding-right: 20px;
     color: #19489a;
+}
+
+.publyear {
+    font-size: 16px;
+    padding-right: 20px;
+    color: #19489a;
+}
+
+.publ {
+    padding-bottom: 16px;
+    font-size: 16px;
 }
 
 /* ==========================================================================
