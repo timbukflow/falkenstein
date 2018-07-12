@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <article class="content-dienst column-two inview">
-            <h1>Advokatur am Falkenstein</h1>
+            <h1>Advokatur<br>am Falkenstein</h1>
         </article>
         
         <article class="column-four dienstleistung d-top inview">
@@ -21,31 +21,35 @@
         </article>
         
        <article id="treuhand" class="content-dienst column-two inview">
-            <h1>Treuhand am Falkenstein</h1>
+            <h1>Treuhand<br>am Falkenstein</h1>
         </article>
         
         <article class="column-four dienstleistung d-top inview">
             <h1><span>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie:</span><br><br>
-            Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform;<br>
-            Firmagründung und Firmastrukturierung;<br>
-            Einrichtung und Führung der Buchhaltung;<br>
-            Verwaltung von Sitz- und Holdinggesellschaften;<br>
-            Steuerliche Optimierung;<br>
-            Finanzierungsmodelle, Neu- und Refinanzierungen;<br>
-            Nachfolgeregelung, Liquidationen und Erbteilung.<br>
+                <ul>
+                    <li>&#8211; Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform;</li>
+                    <li>&#8211; Firmagründung und Firmastrukturierung;                                  </li>
+                    <li>&#8211; Einrichtung und Führung der Buchhaltung;                                </li>
+                    <li>&#8211; Verwaltung von Sitz- und Holdinggesellschaften;                         </li>
+                    <li>&#8211; Steuerliche Optimierung;                                                </li>
+                    <li>&#8211; Finanzierungsmodelle, Neu- und Refinanzierungen;                        </li>
+                    <li>&#8211; Nachfolgeregelung, Liquidationen und Erbteilung.                        </li>
+                </ul>
             </h1>
         </article>
         
         <article id="immobilien" class="content-dienst column-two inview">
-            <h1>Immobilien am Falkenstein</h1>
+            <h1>Immobilien<br>am Falkenstein</h1>
         </article>
         
         <article class="column-four dienstleistung d-top inview">
             <h1><span>Wir bieten den KMU Arbeiten an im Bereich:</span><br><br>
-                Verwaltung von Gewerbe- und Wohnliegenschaften;<br>
-                Vorbereitung und Durchführung des Immobilien-Ein- und Verkaufs;<br>
-                Begleitung im Baubewilligungs-Verfahren;<br>
-                Beratung und Abschluss von Verträgen für Kauf/Verkauf, Miete, Baurecht, Dienstbarkeiten, Wohnrechte, Architektur- und Werkleistungen.
+                <ul>
+                    <li>&#8211; Verwaltung von Gewerbe- und Wohnliegenschaften;                         </li>
+                    <li>&#8211; Vorbereitung und Durchführung des Immobilien-Ein- und Verkaufs;         </li>
+                    <li>&#8211; Begleitung im Baubewilligungs-Verfahren;                                </li>
+                    <li>&#8211; Beratung und Abschluss von Verträgen für Kauf/Verkauf, Miete, Baurecht, Dienstbarkeiten, Wohnrechte, Architektur- und Werkleistungen.</li>
+                </ul>
             </h1>
         </article>
         

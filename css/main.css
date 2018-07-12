@@ -177,6 +177,12 @@ table,
     padding-left: 25px;
 }
 
+ul{
+    margin: 0px;
+    padding-left: 0px;
+    list-style-type: none;
+}
+
 .content-top {
     position: relative;
     margin-top: 120px;
@@ -367,23 +373,33 @@ footer,
 
 
 .storystyle td {
-    font-size: 26px;
+    font-size: 24px;
     padding-left: 16px;
     padding-bottom: 100px;
+    padding-top: 15px;
 }
 
 td.story {
     padding-left: 0px;
-    font-size: 80px;
+    font-size: 70px;
     width: 25%;
-    color: #19489a; 
-    line-height: 78px;
+    color: #19489a;
+    line-height: 1;
 }
 
 
 .content-story-img {
     padding-top: 40px;
-    width: 75%;
+    padding-bottom: 100px;
+    width: 69%;
+    margin: 0 auto;
+}
+
+.content-kontakt-img{
+    padding-bottom: 100px;
+    width: 66.4%;
+    float: right;
+    margin-top: 110px;
 }
 
 /* ==========================================================================
@@ -465,7 +481,7 @@ td {
 }
 
 .column-three {
-    width: 49.8%;
+    width: 50%;
     float: left;
 }
 

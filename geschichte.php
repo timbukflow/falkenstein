@@ -13,8 +13,8 @@
         <article class="column-four storystyle storytop inview">
             <table>
                 <tr>
-                    <td class="story">1978</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
+                    <td class="story">1968 <span class="gray">1983</span></td>
+                    <td>Der Patron, lic. iur. Werner Rempfler, ist 1968 in die Advokatur eingestiegen. Nach den ersten 15 Jahren als intensiv tätiger Prozessanwalt konnte er 1983 die in der Jahrhundertwende während der St. Galler Textilblüte erbaute Eckliegenschaft an der Falkensteinstrasse 1 in St. Gallen-St. Fiden käuflich erwerben.
                     </td>
                 </tr>
             </table>
@@ -22,63 +22,23 @@
         <article class="column-four storystyle storystyle-left inview">
             <table>   
                 <tr>
-                    <td class="story">1985</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-                        <div class="container-img content-story-img">
-                            <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
-                        </div>
+                    <td class="story">1983 <span class="gray">1996</span> </td>
+                    <td>Schritt um Schritt hat er die Immobilie, die beim Kauf noch unverändert den Stand von 1900 aufwies, auf den neuesten Stand gebracht. Das &laquo;Milchlädeli&raquo; im Erdgeschoss mutierte zum Ladengeschäft, die Wohnung im 1. OG wurde zum Anwaltsbüro. Im Jahre 1996 erfolgte der Ausbau des Daches zum zweigeschossigen weiteren Büro.
                     </td>
                 </tr>
             </table> 
-        </article> 
+        </article>
+        
+        <div class="container-img content-story-img inview">
+            <img class="img1" src="img/falkenstein-advokatur-geschichte-innenraum.jpg" alt="falkenstein-advokatur-geschichte-innenraum" >
+        </div>
+        
         <article class="column-four storystyle hideme inview">
             <table>
                 <tr>
-                    <td class="story">1991</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                    </td>
-                </tr>
-            </table>
-        </article>
-        <article class="column-four storystyle storystyle-left inview">
-            <table>
-                <tr>
-                    <td class="story">1995</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</td>
-                </tr>
-            </table>
-        </article>
-        <article class="column-four storystyle inview">
-            <table>
-                <tr>
-                    <td class="story">1991</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                    </td>
-                </tr>
-            </table>
-        </article>
-        <article class="column-four storystyle storystyle-left inview">
-            <table>
-                <tr>
-                    <td class="story">1995</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</td>
-                </tr>
-            </table>
-        </article>
-        <article class="column-four storystyle inview">
-            <table>
-                <tr>
-                    <td class="story">1991</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                    </td>
-                </tr>
-            </table>
-        </article>
-        <article class="column-four storystyle storystyle-left inview">
-            <table>
-                <tr>
                     <td class="story">2018</td>
-                    <td>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</td>
+                    <td>Im 50. Jahr der Tätigkeit von lic. iur. Werner Rempfler startet jetzt im Jahr 2018 das Advokatur- und Treuhandbüro auf vier Geschossen mit sechs Rechtsanwälten und sechs Mitarbeitern. Das schmuck renovierte Geschäftshaus möge dem Team und seinen Klienten und Kunden Glück und Erfolg bringen, getreu der Marmortafel am Haus: &laquo;iustitia vincit&raquo;.
+                    </td>
                 </tr>
             </table>
         </article>
