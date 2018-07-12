@@ -213,7 +213,7 @@
             <img class="img1" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Ein guter Aphorismus ist die Weisheit eines ganzen Buches in einem einzigen Satz&raquo;.</h4>
+            <h4>&laquo;Ein guter Aphorismus ist die Weisheit eines ganzen Buches in einem einzigen Satz.&raquo;</h4>
         </article>
     </main>
     

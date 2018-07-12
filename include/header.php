@@ -22,15 +22,16 @@
                 <a href="roger-schai" target="_top"><span class="line">&#x0007C;</span>Roger Schai</a>
                 <a href="maria-rempfler" target="_top"><span class="line">&#x0007C;</span>Maria Rempfler</a>
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Sekretariat</p>
-                <a href="fabienne-frei" target="_top"><span class="line">&#x0007C;</span>Fabienne Frei</a>
                 <a href="franziska-sutter" target="_top"><span class="line">&#x0007C;</span>Franziska Sutter</a>
+                <a href="fabienne-frei" target="_top"><span class="line">&#x0007C;</span>Fabienne Frei</a>
+                
             </div>
         </div>
         
         <div class="column-one navresp">
             <div class="menu dropTitle"><span class="line <?php if ($page=='dienstleistung'){echo 'lineactive';}?>">&#x0007C;</span>Dienstleistung</div>
             <div class="dropList subnav-resp">
-                <a href="dienstleistung#advokatur" target="_top"><span class="line">&#x0007C;</span>Advokatur</a>
+                <a href="dienstleistung" target="_top"><span class="line">&#x0007C;</span>Advokatur</a>
                 <a href="dienstleistung#treuhand" target="_top"><span class="line">&#x0007C;</span>Treuhand</a>
                 <a href="dienstleistung#immobilien" target="_top"><span class="line">&#x0007C;</span>Immobilien</a>
             </div>

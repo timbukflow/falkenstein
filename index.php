@@ -80,16 +80,7 @@
                     <img class="img2" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Werner Rempfler <span class="gray">Immobilien</span>
-                </h3>
-            </a>
-            <a class="content-nav column-two inview" href="maria-rempfler" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
-                    <img class="img2" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Maria Rempfler <span class="gray">Immobilien</span>
+                    <span class="line">&#x0007C;</span>Werner Rempfler <span class="gray">Treuhand</span>
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="roger-schai" target="_top">
@@ -101,13 +92,13 @@
                     <span class="line">&#x0007C;</span>Roger Schai <span class="gray">Treuhand</span>
                 </h3>
             </a>
-            <a class="content-nav column-two inview" href="fabienne-frei" target="_top">
+            <a class="content-nav column-two inview" href="maria-rempfler" target="_top">
                 <div class="container-img">
-                    <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei.jpg" alt="falkenstein-sekretariat-fabienne-frei" >
-                    <img class="img2" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
+                    <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
+                    <img class="img2" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Fabienne Frei <span class="gray">Sekretariat</span>
+                    <span class="line">&#x0007C;</span>Maria Rempfler <span class="gray">Immobilien</span>
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="franziska-sutter" target="_top">
@@ -117,6 +108,15 @@
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Franziska Sutter <span class="gray">Sekretariat</span>
+                </h3>
+            </a>
+            <a class="content-nav column-two inview" href="fabienne-frei" target="_top">
+                <div class="container-img">
+                    <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei.jpg" alt="falkenstein-sekretariat-fabienne-frei" >
+                    <img class="img2" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
+                </div>
+                <h3 class="nav">
+                    <span class="line">&#x0007C;</span>Fabienne Frei <span class="gray">Sekretariat</span>
                 </h3>
             </a>
             <article class="content-left column-four inview">

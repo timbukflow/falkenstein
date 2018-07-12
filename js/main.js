@@ -19,6 +19,19 @@ $(document).ready(function () {
         }
     });
     
+    
+    $('.dropList a').click(function() {
+        $('.dropList').not($drop_content).slideUp(800).removeClass('open');
+        $drop_content.stop(true, false).slideToggle(800).toggleClass('open');
+       
+        if ($('.dropList').hasClass('open')) {
+            $('.topnav').addClass('dd-nav-footer');
+        }
+        else {
+            $('.topnav').removeClass('dd-nav-footer');
+        }
+    });
+    
     //Responsive Navigation
     
     $('.menusmall').click(function() {
@@ -33,7 +46,6 @@ $(document).ready(function () {
             $('.topnav').removeClass('dd-nav-footer-resp');
         }
     });
-    
     
     // Accordion
     

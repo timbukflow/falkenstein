@@ -10,124 +10,46 @@
     <?php $page = 'dienstleistung'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <article id="advokatur" class="content top column-two inview">
-            <h1>Advokatur</h1>
+        <article class="content-dienst column-two inview">
+            <h1>Advokatur am Falkenstein</h1>
         </article>
         
-        <article class="column-four accordion accordion-top inview">
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Zivil- und Verwaltungsrecht</h3>
-            <div class="subnav-nav accList">
-                <div class="tabs">
-                    <ul class="tab-links">
-                        <li class="active">
-                            <a href="#tab1"><span class="linesub lineactivesub">&#x0007C;</span>Beschreibung</a>
-                        </li>
-                        <li>
-                            <a href="#tab2"><span class="linesub">&#x0007C;</span>Spezialisten</a>
-                        </li>
-                        <li class="last">
-                            <a href="#tab3"><span class="linesub">&#x0007C;</span>Fallbeispiel</a>
-                        </li>
-                    </ul>
-                    <div class="tab-content">
-                        <div id="tab1" class="tab active">
-                            <p>Tab #1 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis.</p>
-                        </div>
-                        <div id="tab2" class="tab">
-                            <p>Tab #2 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-                        </div>
-                        <div id="tab3" class="tab">
-                            <p>Tab #3 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <article class="column-four dienstleistung d-top inview">
+            <h1><span>Wir sind ein engagiertes und kompetentes Team von Rechtsanwälten und Notaren, die sich für die Rechte unserer Klienten einsetzen. Wir beraten und vertreten unsere Klienten auch vor Gerichten und Verwaltungsbehörden. Spezialfragen und ausserordentliche Problemstellungen unterbreiten wir unserm Experten-Netz und holen auch ohne Prestige-Verlust eine Zweitmeinung ein.</span><br><br>
             
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Exportkontrollrecht</h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
-            
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Pharmarecht</h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>  
-        </article>
-        <article id="treuhand" class="content column-two inview">
-            <h1>Treuhand</h1>
+            Unser Team in der Advokatur, mit dem Treuhandbüro, deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.</h1>
         </article>
         
-        <article class="column-four accordion inview">
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Zivil- und Verwaltungsrecht</h3>
-            <div class="subnav-nav accList">
-                <div class="tabs">
-                    <ul class="tab-links">
-                        <li class="active">
-                            <a href="#tab1"><span class="linesub lineactivesub">&#x0007C;</span>Beschreibung</a>
-                        </li>
-                        <li>
-                            <a href="#tab2"><span class="linesub">&#x0007C;</span>Spezialisten</a>
-                        </li>
-                        <li class="last">
-                            <a href="#tab3"><span class="linesub">&#x0007C;</span>Fallbeispiel</a>
-                        </li>
-                    </ul>
-                    <div class="tab-content">
-                        <div id="tab1" class="tab active">
-                            <p>Tab #1 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis.</p>
-                        </div>
-                        <div id="tab2" class="tab">
-                            <p>Tab #2 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-                        </div>
-                        <div id="tab3" class="tab">
-                            <p>Tab #3 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Exportkontrollrecht</h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
-            
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Pharmarecht</h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
-        </article>
-    
-        <article id="immobilien" class="content column-two inview">
-            <h1>Immobilien</h1>
+       <article id="treuhand" class="content-dienst column-two inview">
+            <h1>Treuhand am Falkenstein</h1>
         </article>
         
-        <article class="column-four accordion inview">
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Zivil- und Verwaltungsrecht</h3>
-            <div class="subnav-nav accList">
-                <div class="tabs">
-                    <ul class="tab-links">
-                        <li class="active">
-                            <a href="#tab1"><span class="linesub lineactivesub">&#x0007C;</span>Beschreibung</a>
-                        </li>
-                        <li>
-                            <a href="#tab2"><span class="linesub">&#x0007C;</span>Spezialisten</a>
-                        </li>
-                        <li class="last">
-                            <a href="#tab3"><span class="linesub">&#x0007C;</span>Fallbeispiel</a>
-                        </li>
-                    </ul>
-                    <div class="tab-content">
-                        <div id="tab1" class="tab active inview">
-                            <p>Tab #1 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis.</p>
-                        </div>
-                        <div id="tab2" class="tab">
-                            <p>Tab #2 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-                        </div>
-                        <div id="tab3" class="tab">
-                            <p>Tab #3 Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Exportkontrollrecht</h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
-            
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Pharmarecht</h3>
-            <p class="accList">Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</p>
+        <article class="column-four dienstleistung d-top inview">
+            <h1><span>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie:</span><br><br>
+            Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform;<br>
+            Firmagründung und Firmastrukturierung;<br>
+            Einrichtung und Führung der Buchhaltung;<br>
+            Verwaltung von Sitz- und Holdinggesellschaften;<br>
+            Steuerliche Optimierung;<br>
+            Finanzierungsmodelle, Neu- und Refinanzierungen;<br>
+            Nachfolgeregelung, Liquidationen und Erbteilung.<br>
+            </h1>
         </article>
+        
+        <article id="immobilien" class="content-dienst column-two inview">
+            <h1>Immobilien am Falkenstein</h1>
+        </article>
+        
+        <article class="column-four dienstleistung d-top inview">
+            <h1><span>Wir bieten den KMU Arbeiten an im Bereich:</span><br><br>
+                Verwaltung von Gewerbe- und Wohnliegenschaften;<br>
+                Vorbereitung und Durchführung des Immobilien-Ein- und Verkaufs;<br>
+                Begleitung im Baubewilligungs-Verfahren;<br>
+                Beratung und Abschluss von Verträgen für Kauf/Verkauf, Miete, Baurecht, Dienstbarkeiten, Wohnrechte, Architektur- und Werkleistungen.
+            </h1>
+        </article>
+        
+        
 
     </main>
     

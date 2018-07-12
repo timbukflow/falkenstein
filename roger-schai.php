@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <section class="content top column-three">
-            <h1>Rolf W. Rempfler<br><span>Rechtsanwalt &#47; Notar</span></h1>
+            <h1>Roger Schai<br><span>Treuhand</span></h1>
         </section>
         
         <article class="column-three accordion accordion-top">
@@ -19,54 +19,40 @@
             <div class="accList">
                 <table>
                     <tr>
-                        <td class="year">1998</td>
-                        <td>Lizenziat der Rechtswissenschaften an der Universität St.Gallen Anwaltspraktikum, Gerichtspraktikum</td>
+                        <td class="year">1988</td>
+                        <td>KV-Lehrabschluss in international tätiger Inkasso- und Treuhandfirma, Mitarbeit in Bau- und Handelsfirmen, Treuhänderschule, Ausbildung als Immobilienverwalter</td>
                     </tr>
                     <tr>
-                        <td class="year">2000</td>
-                        <td>Einstieg in die Advokatur am Falkenstein als juristischer Mitarbeiter</td>
+                        <td class="year">1999</td>
+                        <td>Aufbau und Führung des Buchhaltungs- und Verwaltungsbüros am Falkenstein</td>
                     </tr>
-                    <tr>
-                        <td class="year">2005</td>
-                        <td>Anwaltspatent Kanton St.Gallen</td>
-                    </tr>
-                    <tr>
-                        <td class="year">2005</td>
-                        <td>Praxis als selbständiger Rechtsanwalt und Notar in St.Gallen</td>
-                    </tr>    
                 </table>
             </div>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
-            <p class="accList">Deutsch, Italienisch und Englisch</p>
+            <p class="accList">Deutsch</p>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
-                Advokatur am Falkenstein<br>
-                Rolf W. Rempfler<br>
-                Rechtsanwalt und Notar<br>
+                Treuhandgesellschaft am Falkenstein GmbH<br>
+                Roger Schai<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St. Gallen<br><br>
-                <a class="nummer" href="tel:0712426651">T: 071 242 66 51</a>
-                F: 071 242 66 52
-                <a class="nummer" href="mailto:rr@falkenstein.ag" target="_top">rr@falkenstein.ag</a><br>
-                <span class="gray">
-                    PC-Konto: 90-64927-4<br>
-                    IBAN: CH94 0900 0000 9006 4927 4<br>
-                    MWST: CHE-338.058.794
-                </span>
+                <a class="nummer" href="tel:0712426657">T: 071 242 66 57</a>
+                F: 071 242 99 90
+                <a class="nummer" href="mailto:rs@falkenstein.ag" target="_top">rs@falkenstein.ag</a>
             </p>
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
+            <img class="img1" src="img/falkenstein-treuhand-roger-schai.jpg" alt="falkenstein-treuhand-roger-schai" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
+            <img class="img1" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Durch die Gegenwärtigkeit des Spiels kann ich mich gut von meiner denkenden Arbeit erholen.&raquo;</h4>
+            <h4>&laquo;Teamplayer: Wie im Fussball so im Büro!&raquo;</h4>
         </article>
     </main>
     

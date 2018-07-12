@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <section class="content top column-three">
-            <h1>Rolf W. Rempfler<br><span>Rechtsanwalt &#47; Notar</span></h1>
+            <h1>Maria Rempfler<br><span>Immobilienverwaltung</span></h1>
         </section>
         
         <article class="column-three accordion accordion-top">
@@ -19,54 +19,49 @@
             <div class="accList">
                 <table>
                     <tr>
-                        <td class="year">1998</td>
-                        <td>Lizenziat der Rechtswissenschaften an der Universität St.Gallen Anwaltspraktikum, Gerichtspraktikum</td>
+                        <td class="year">1963</td>
+                        <td>KV-Lehrabschluss in Textilfirma in Appenzell</td>
                     </tr>
                     <tr>
-                        <td class="year">2000</td>
-                        <td>Einstieg in die Advokatur am Falkenstein als juristischer Mitarbeiter</td>
+                        <td class="year">1967</td>
+                        <td>Arbeitseinsätze in Genf, London und Zürich</td>
                     </tr>
                     <tr>
-                        <td class="year">2005</td>
-                        <td>Anwaltspatent Kanton St.Gallen</td>
+                        <td class="year">1968</td>
+                        <td>Mutter von drei Kindern und Mädchen für alles im Advokaturbüro</td>
                     </tr>
                     <tr>
-                        <td class="year">2005</td>
-                        <td>Praxis als selbständiger Rechtsanwalt und Notar in St.Gallen</td>
-                    </tr>    
+                        <td class="year">1996</td>
+                        <td>Immobilienverwalterin in eigener Treuhandfirma</td>
+                    </tr>
                 </table>
             </div>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
-            <p class="accList">Deutsch, Italienisch und Englisch</p>
+            <p class="accList">Deutsch</p>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
-                Advokatur am Falkenstein<br>
-                Rolf W. Rempfler<br>
-                Rechtsanwalt und Notar<br>
+                Treuhandgesellschaft am Falkenstein GmbH<br>
+                Maria Rempfler<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St. Gallen<br><br>
-                <a class="nummer" href="tel:0712426651">T: 071 242 66 51</a>
-                F: 071 242 66 52
-                <a class="nummer" href="mailto:rr@falkenstein.ag" target="_top">rr@falkenstein.ag</a><br>
-                <span class="gray">
-                    PC-Konto: 90-64927-4<br>
-                    IBAN: CH94 0900 0000 9006 4927 4<br>
-                    MWST: CHE-338.058.794
-                </span>
+                <a class="nummer" href="tel:0712426657">T: 071 242 66 57</a>
+                F: 071 242 66 56
+                <a class="nummer" href="tel:0796162680">N: 079 616 26 80</a>
+                <a class="nummer" href="mailto:rempfler@falkenstein.ag" target="_top">rempfler@falkenstein.ag</a>
             </p>
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
+            <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
+            <img class="img1" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Durch die Gegenwärtigkeit des Spiels kann ich mich gut von meiner denkenden Arbeit erholen.&raquo;</h4>
+            <h4>&laquo;Die richtige Karte im richtigen Moment.&raquo;</h4>
         </article>
     </main>
     

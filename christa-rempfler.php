@@ -82,7 +82,7 @@
             <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Ich spiele nach Noten – aber die Noten setze ich&raquo;.</h4>
+            <h4>&laquo;Ich spiele nach Noten – aber die Noten setze ich.&raquo;</h4>
         </article>
     </main>
     
