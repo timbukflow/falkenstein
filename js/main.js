@@ -43,9 +43,14 @@ $(document).ready(function () {
         $(this).children('span').toggleClass('lineactive');
         
         $accordion_content = $(this).next('.accList');
-        $('.accList').not($accordion_content).slideUp(800);
-        $accordion_content.stop(true, false).slideToggle(800);
-        
+        $('.accList').not($accordion_content).slideUp(600);
+        $accordion_content.stop(true, false).slideToggle(600);
+         
+        /*
+        setTimeout(function(){
+            $('html, body').animate({scrollTop: $($accordion_content).offset().top - 75}, 600);
+        }, 700);
+        */
     });
     
     // Accordion Seccond
