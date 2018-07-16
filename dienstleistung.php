@@ -10,11 +10,11 @@
     <?php $page = 'dienstleistung'; include 'include/header.php'; ?>
     
     <main class="main-container">
-        <article class="content-dienst column-two inview">
+        <article class="content-dienst column-two">
             <h1>Advokatur<br>am Falkenstein</h1>
         </article>
         
-        <article class="column-four dienstleistung d-top inview">
+        <article class="column-three dienstleistung d-top inview">
             <h1><span>Wir sind ein engagiertes und kompetentes Team von Rechtsanwälten und Notaren, die sich für die Rechte unserer Klienten einsetzen. Wir beraten und vertreten unsere Klienten auch vor Gerichten und Verwaltungsbehörden. Spezialfragen und ausserordentliche Problemstellungen unterbreiten wir unserm Experten-Netz und holen auch ohne Prestige-Verlust eine Zweitmeinung ein.</span><br><br>
             
             Unser Team in der Advokatur, mit dem Treuhandbüro, deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.</h1>

@@ -82,18 +82,7 @@ $(document).ready(function () {
         }, 700);
     
     });
-    
-    // Tabs
-    
-    $('.tabs .tab-links a').click(function() {
-        $accordion_line = $(this).children('span');
-        $('span').not($accordion_line).removeClass('lineactivesub');
-        $(this).children('span').addClass('lineactivesub');
-        
-        var currentAttrValue = $(this).attr('href');
-        $('.tabs ' + currentAttrValue).show().siblings().hide();
-        $(this).parent('li').addClass('active').siblings().removeClass('active');
-    });
+
     
     // Disclaimer
     
