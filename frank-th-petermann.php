@@ -199,7 +199,7 @@
                 <a class="nummer" href="mailto:ftp@falkenstein.ag" target="_top">ftp@falkenstein.ag</a><br>
                 <span class="gray">
                     PC-Konto: 90-27128-5<br>
-                    IBAN: CH39 0900 0000 9002 7128 5<br>
+                    IBAN: CH390900000090027128 5<br>
                     MWST: CHE-171.035.774
                 </span>
             </p>
