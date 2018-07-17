@@ -329,6 +329,7 @@ p.subnav-titel,
     margin: 0px 2%;
     background-color: white;
     z-index: 100;
+    padding-bottom: 20px;
 }
 
 .topnav a, 
@@ -359,12 +360,6 @@ footer,
     display: inline-block;
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
-}
-
-.dd-nav-footer, 
-.dd-nav-footer-resp{
-    padding-bottom: 20px;
-    border-bottom: 1px solid #19489a;
 }
 
 /* ==========================================================================
@@ -429,6 +424,7 @@ td.story {
 .accListSecond {
     display: none;
 }
+
 
 td {
     vertical-align: top;

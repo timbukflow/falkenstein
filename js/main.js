@@ -8,45 +8,25 @@ $(document).ready(function () {
         $($drop_line).toggleClass('lineactive');
         
         $drop_content = $(this).next('.dropList');
-        $('.dropList').not($drop_content).slideUp(800).removeClass('open');
-        $drop_content.stop(true, false).slideToggle(800).toggleClass('open');
+        $('.dropList').not($drop_content).slideUp(800);
+        $drop_content.stop(true, false).slideToggle(800);
        
-        if ($('.dropList').hasClass('open')) {
-            $('.topnav').addClass('dd-nav-footer');
-        }
-        else {
-            $('.topnav').removeClass('dd-nav-footer');
-        }
-        
     });
     
     // Dropdown Navigation Dienstleistung
     
     $('.dropList a').click(function() {
-        $('.dropList').not($drop_content).slideUp(800).removeClass('open');
-        $drop_content.stop(true, false).slideToggle(800).toggleClass('open');
+        $('.dropList').not($drop_content).slideUp(800);
+        $drop_content.stop(true, false).slideToggle(800);
        
-        if ($('.dropList').hasClass('open')) {
-            $('.topnav').addClass('dd-nav-footer');
-        }
-        else {
-            $('.topnav').removeClass('dd-nav-footer');
-        }
     });
     
     //Responsive Navigation
     
     $('.menusmall').click(function() {
         $(this).children('span').toggleClass('lineactive');
-        $('.topnav').removeClass('dd-nav-footer');
         $('.topnav .navresp').stop(true, true).toggle();
 
-        if ($('.topnav .navresp').is(':visible')) {
-            $('.topnav').addClass('dd-nav-footer-resp');
-        }
-        else {
-            $('.topnav').removeClass('dd-nav-footer-resp');
-        }
     });
     
     // Accordion
