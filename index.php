@@ -16,6 +16,10 @@
         <div class="logo-container">
             <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
         </div>
+        <div class="logo-container-small">
+            <img class="logo-small" alt="advokatur-treuhand-falkenstein-logo-small" src="img/advokatur-treuhand-falkenstein-logo-small.svg">
+        </div>
+        
         <article>
             <a class="content-nav column-two inview" href="frank-th-petermann" target="_top">
                 <div class="container-img">

@@ -20,6 +20,7 @@ $(document).ready(function () {
         
     });
     
+    // Dropdown Navigation Dienstleistung
     
     $('.dropList a').click(function() {
         $('.dropList').not($drop_content).slideUp(800).removeClass('open');
@@ -59,11 +60,6 @@ $(document).ready(function () {
         $('.accList').not($accordion_content).slideUp(600);
         $accordion_content.stop(true, false).slideToggle(600);
          
-        /*
-        setTimeout(function(){
-            $('html, body').animate({scrollTop: $($accordion_content).offset().top - 75}, 600);
-        }, 700);
-        */
     });
     
     // Accordion Seccond
@@ -103,7 +99,6 @@ $(document).ready(function () {
     });
 
     // Story FadeIn
-
     
     $(window).scroll(function() {
         $('.inview').each(function(i) {

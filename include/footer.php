@@ -32,8 +32,4 @@
             © 2018 Advokatur und Treuhand am Falkenstein. All rights reserved.
         </p>
     </div>
-    <!--<div class="logo-footer column-two">
-        <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
-    </div> 
-    -->
 </footer>
