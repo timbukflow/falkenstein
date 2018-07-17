@@ -195,7 +195,7 @@
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St.Gallen<br><br>
-                T: 071 242 66 50<br>
+                <a class="nummer" href="tel:0712426650">T: 071 242 66 50</a>
                 F: 071 242 66 52<br>
                 <a class="nummer" href="mailto:ftp@falkenstein.ag" target="_top">ftp@falkenstein.ag</a><br>
                 <span class="gray">PC-Konto: 90-27128-5</span><br>
