@@ -34,11 +34,8 @@
         </section>
         
         
-        <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-treuhand-kontakt-02.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
-        </div>
-        <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-treuhand-kontakt-01.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
+        <div class="column-six container-img inview">
+            <img class="img1" src="img/falkenstein-advokatur-treuhand-kontakt.jpg" alt="falkenstein-advokatur-treuhand-kontakt" >
         </div>
         
     </main>
