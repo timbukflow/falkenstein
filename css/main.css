@@ -157,6 +157,15 @@ h3,
     display: block;
 }
 
+.mobile-fix {
+    font-family: 'PT Serif', serif;
+    font-weight: lighter;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    color: #19489a;
+    line-height: 1.6;
+}
+
 h1 span, 
 h2 span,
 .gray, 
