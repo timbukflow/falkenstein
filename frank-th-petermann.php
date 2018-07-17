@@ -188,20 +188,20 @@
             </div>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
-            <div class="accList">
-                <p>Advokatur am Falkenstein </p>
-                <p>Dr. Frank Th. Petermann  </p>
-                <p>Rechtsanwalt und Notar   </p>
-                <p>Falkensteinstrasse 1     </p>
-                <p>Postfach 152             </p>
-                <p>9016 St.Gallen           </p><br>
+            <p class="accList">
+                Advokatur am Falkenstein<br>
+                Dr. Frank Th. Petermann<br>
+                Rechtsanwalt und Notar<br>
+                Falkensteinstrasse 1<br>
+                Postfach 152<br>
+                9016 St.Gallen<br><br>
                 <a class="nummer" href="tel:0712426650">T: 071 242 66 50</a>
-                <p class="mobile-fix">F: 071 242 66 52</p>
+                <span class="mobile-fix">F:&nbsp;071&nbsp;242&nbsp;66&nbsp;52</span>
                 <a class="nummer" href="mailto:ftp@falkenstein.ag" target="_top">ftp@falkenstein.ag</a><br>
-                <p class="gray">PC-Konto: 90-27128-5</p><br>
-                <p class="gray">IBAN: CH39 0900 0000 9002 7128 5</p><br>
-                <p class="gray">MWST: CHE-171.035.774</p>
-            </div>
+                <span class="gray">PC-Konto: 90-27128-5</span><br>
+                <span class="gray">IBAN: CH39 0900 0000 9002 7128 5</span><br>
+                <span class="gray">MWST: CHE-171.035.774</span>
+            </p>
         </article>  
         
         <div class="column-three container-img content-team-img inview">
