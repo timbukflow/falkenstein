@@ -329,7 +329,7 @@ p.subnav-titel,
     margin: 0px 2%;
     background-color: white;
     z-index: 100;
-    padding-bottom: 20px;
+    padding-bottom: 23px;
 }
 
 .topnav a, 
@@ -398,6 +398,10 @@ td.story {
     width: 25%;
     color: #19489a;
     line-height: 1;
+}
+
+.story-resp {
+    display: none;
 }
 
 .content-story-img {
@@ -565,32 +569,56 @@ footer {
 @media screen and (max-width: 1210px) {
     .logo-container {display: none;}
     .logo-container-small {display: block;}
-    .column-four {width: 100%;}
+    .column-four {width: 83%;}
     .content-top {margin-right: 0; margin-bottom: 90px;}
-    .content-right, .content-right-in  {margin-left: 0;}
-}
-
-@media screen and (max-width: 1050px) {
+    .content-right, .content-right-in  {margin-left: 16.6%;}
     .column-two{width: 50%;}
     .topnav .navresp {display: none; width: 50%; margin-left: 50%;}
+    .content-dienst {margin-bottom: 10px;}
+    .d-top {padding-top: 30px;}
+    .storystyle {width: 66.4%;}
+    td.story {font-size: 60px;}
+    .contact {margin-left: 50%; margin-bottom: 10px;}
+    .contact-resp {margin-top: 10px;}
+}
+
+@media screen and (max-width: 990px) {
+    .storystyle {width: 83%; margin-left: 16.6%;}
+    .storystyle-left {margin-left: 0;}
+    td.story {font-size: 60px;}
+    .content-story-img {width: 100%}
 }
 
 @media screen and (max-width: 740px) {
+    .column-four {width: 100%;}
+    .content-right, .content-right-in  {margin-left: 0;}
     .column-two, .column-three{width: 100%;}
     .topnav .navresp {display: none; width: 100%; margin-left: 0;}
+    .accordion-top {margin-top: 10px;}
+    .accordion {margin-bottom: 40px;}
+    .content-team-img {margin-bottom: 0px; padding-bottom: 0px;}
+    .content {margin-bottom: 25px;}
+    .storystyle {width: 100%; margin-left: 0;}
+    td.story {display: none;}
+    .story-resp {display: block;}
+    .storystyle td {padding-left: 0px;}
     .footer {margin-top: 10px;}
     footer {margin-top: 50px;}
+    .contact {margin-left: 0;}
 }
 
 @media screen and (max-width: 470px) {
-    h1, h2{font-size: 20px;}
+    h1, h2 {font-size: 20px;}
+    h4 {font-size: 28px;}
     .content-top {margin-top: 150px;margin-bottom: 60px;}
-    .main-container, .topnav, footer {width: 100%; margin: 0px 0px;}
+    .main-container, .topnav, {width: 100%; margin: 0px 0px;}
+    footer {margin: 50px 0px 0px 0px;}
 }
 
 @media screen and (min-width: 1600px) {
     .main-container, .topnav, footer {width: 86%; margin: 0px 7%;}
     .logo-container {right: 7%;}
+    h3 {font-size: 24px;}
 }
     
 @media screen and (min-width: 1970px) {

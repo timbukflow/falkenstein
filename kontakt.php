@@ -18,14 +18,14 @@
                 <span><a href="https://www.google.ch/maps/dir//Falkensteinstrasse+1,+9000+St.+Gallen/@47.4299966,9.3870661,15z" title="Route mit Google berechnen" target="_blank">Anfahrt mit Google</a></span>
             </h3><br>
         </section>
-        <section class="content top column-two contact">
+        <section class="content top column-two contact contact-resp">
             <h3>Advokatur<br>
                 <span class="gray"><a href="tel:0712426650">T 071 242 66 50</a>
                 F 071 242 66 52
                 <a href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a></span>
             </h3><br>
         </section>
-        <section class="content top column-two contact">
+        <section class="content top column-two contact contact-resp">
             <h3>Treuhand und Immobilien<br>
                 <span class="gray"><a class="contact" href="tel:0712426657">T 071 242 66 57</a>
                 F 071 242 66 56

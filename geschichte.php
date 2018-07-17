@@ -11,6 +11,7 @@
     
     <main class="main-container">
         <article class="column-four storystyle storytop inview">
+            <h4 class="story-resp">1968 &#8211;<span class="gray">1983</span></h4>
             <table>
                 <tr>
                     <td class="story">1968 <span class="gray">1983</span></td>
@@ -20,6 +21,7 @@
             </table>
         </article>
         <article class="column-four storystyle storystyle-left inview">
+            <h4 class="story-resp">1983 &#8211;<span class="gray">1996</span></h4>
             <table>   
                 <tr>
                     <td class="story">1983 <span class="gray">1996</span> </td>
@@ -33,7 +35,8 @@
             <img class="img1" src="img/falkenstein-advokatur-geschichte-innenraum.jpg" alt="falkenstein-advokatur-geschichte-innenraum" >
         </div>
         
-        <article class="column-four storystyle hideme inview">
+        <article class="column-four storystyle inview">
+            <h4 class="story-resp">2018</h4>
             <table>
                 <tr>
                     <td class="story">2018</td>

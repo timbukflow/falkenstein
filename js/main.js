@@ -16,7 +16,7 @@ $(document).ready(function () {
     // Dropdown Navigation Dienstleistung
     
     $('.dropList a').click(function() {
-        $('.dropList').not($drop_content).slideUp(800);
+        $('.navresp').slideUp(800);
         $drop_content.stop(true, false).slideToggle(800);
        
     });
