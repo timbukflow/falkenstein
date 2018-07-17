@@ -196,8 +196,8 @@ li:before {
 
 .content-top {
     position: relative;
-    margin-top: 120px;
-    margin-bottom: 80px;
+    margin-top: 180px;
+    margin-bottom: 120px;
     padding: 0px 32px;
     margin-right: 33.2%;
 }
@@ -265,8 +265,8 @@ li:before {
 .logo-container {
     position: absolute;
     right: 2%;
-    margin: 16px;
-    top: 257px; 
+    padding: 25px;
+    top: 310px;
 }
 
 .accordion-top,
@@ -511,17 +511,14 @@ td {
     cursor: pointer;
 }
 
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1210px) {
     .nav-left {width: 66.4%;}
     .topnav .navresp {display: none; width: 33.2%; margin-left: 66.4%;}
     .topnav .menusmall {display: block;}
     .subnav-resp {padding: 10px 20px; padding-bottom: 15px;}
-    .logo-container {display: none;}
-    .column-four {width: 100%;}
-    .content-top {margin-right: 0px;}
 }
 
-@media screen and (min-width: 1151px) {
+@media screen and (min-width: 1211px) {
     .topnav .navresp {display: block !important;}
     .topnav .menusmall {display: none;}
 }
@@ -554,6 +551,46 @@ footer {
     position: absolute;
     right: 0;
 }
+
+/* ==========================================================================
+   responsive
+   ========================================================================== */
+
+@media screen and (max-width: 1435px) {
+    .logo-container {top: 347px;}
+}
+
+@media screen and (max-width: 1210px) {
+    .logo-container {display: none;}
+    .column-four {width: 100%;}
+    .content-top {margin-right: 0;}
+    .content-right, .content-right-in  {margin-left: 0;}
+}
+
+@media screen and (max-width: 1050px) {
+    .column-two{width: 50%;}
+    .topnav .navresp {display: none; width: 50%; margin-left: 50%;}
+}
+
+@media screen and (max-width: 740px) {
+    .column-two{width: 100%;}
+    .topnav .navresp {display: none; width: 100%; margin-left: 0;}
+}
+
+@media screen and (max-width: 470px) {
+    h1, h2{font-size: 20px;}
+    .content-top {margin-top: 150px;margin-bottom: 60px;}
+}
+
+@media screen and (min-width: 1600px) {
+    .main-container, .topnav, footer {width: 86%; margin: 0px 7%;}
+    .logo-container {right: 7%;}
+}
+    
+@media screen and (min-width: 1970px) {
+    .logo-container {top: 272px;}  
+}
+
 
 /* ==========================================================================
    Helper classes

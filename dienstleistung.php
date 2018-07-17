@@ -11,10 +11,10 @@
     
     <main class="main-container">
         
-        <article class="content-dienst column-two">
+        <article class="content-dienst column-two inview">
             <h1>Advokatur<br>am Falkenstein</h1>
         </article>
-        <article class="column-three dienstleistung d-top inview">
+        <article class="column-four dienstleistung d-top inview">
             <h3><span class="gray">Wir sind ein engagiertes und kompetentes Team von Rechtsanwälten und Notaren, die sich für die Rechte unserer Klienten einsetzen. Wir beraten und vertreten unsere Klienten auch vor Gerichten und Verwaltungsbehörden. Spezialfragen und ausserordentliche Problemstellungen unterbreiten wir unserm Experten-Netz und holen auch ohne Prestige-Verlust eine Zweitmeinung ein.</span><br><br>
             
             Unser Team in der Advokatur, mit dem Treuhandbüro, deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.</h3>
@@ -23,7 +23,7 @@
        <article id="treuhand" class="content-dienst column-two inview">
             <h1>Treuhand<br>am Falkenstein</h1>
         </article>
-        <article class="column-three dienstleistung d-top inview">
+        <article class="column-four dienstleistung d-top inview">
             <h3><span class="gray">Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie:</span><br><br>
                 <ul>
                     <li>Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform;</li>
@@ -41,7 +41,7 @@
             <h1>Immobilien<br>am Falkenstein</h1>
         </article>
         
-        <article class="column-three dienstleistung d-top inview">
+        <article class="column-four dienstleistung d-top inview">
             <h3><span class="gray">Wir bieten den KMU Arbeiten an im Bereich:</span><br><br>
                 <ul>
                     <li>Verwaltung von Gewerbe- und Wohnliegenschaften;                         </li>
