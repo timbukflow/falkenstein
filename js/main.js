@@ -5,7 +5,7 @@ $(document).ready(function () {
     $('.dropTitle').click(function() {
         $drop_line = $(this).children('span');
         $('.dropTitle .line').not($drop_line).removeClass('lineactive');
-        $(this).children('span').toggleClass('lineactive');
+        $($drop_line).toggleClass('lineactive');
         
         $drop_content = $(this).next('.dropList');
         $('.dropList').not($drop_content).slideUp(800).removeClass('open');
@@ -17,6 +17,7 @@ $(document).ready(function () {
         else {
             $('.topnav').removeClass('dd-nav-footer');
         }
+        
     });
     
     
