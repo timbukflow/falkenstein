@@ -94,7 +94,7 @@
             <img class="img1" src="img/falkenstein-advokatur-debora-bilgeri-trekking.jpg" alt="falkenstein-advokatur-debora-bilgeri-trekking" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Wege entstehen dadurch, dass man sie geht.&raquo; <i>(Franz Kafka)</i></h4>
+            <h4>&laquo;Wege entstehen dadurch, dass man sie geht.&raquo; <span class="respbr"></span><i>(Franz Kafka)</i></h4>
         </article>
     </main>
     
