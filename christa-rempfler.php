@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <section class="content top column-three">
-            <h1>Christa Rempfler<br><span>Rechtsanwältin &#47; Notarin</span></h1>
+            <h1 class="contact-resp">Christa Rempfler<br><span>Rechtsanwältin &#47; Notarin</span></h1>
         </section>
         
         <article class="column-three accordion accordion-top">

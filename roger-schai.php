@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <section class="content top column-three">
-            <h1>Roger Schai<br><span>Treuhand</span></h1>
+            <h1 class="contact-resp">Roger Schai<br><span>Treuhand</span></h1>
         </section>
         
         <article class="column-three accordion accordion-top">

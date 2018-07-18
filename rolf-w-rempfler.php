@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <section class="content top column-three">
-            <h1>Rolf W. Rempfler<br><span>Rechtsanwalt &#47; Notar</span></h1>
+            <h1 class="contact-resp">Rolf W. Rempfler<br><span>Rechtsanwalt &#47; Notar</span></h1>
         </section>
         
         <article class="column-three accordion accordion-top">

@@ -55,7 +55,7 @@ $(document).ready(function () {
         $accordion_content.stop(true, false).slideToggle(600);
         
         setTimeout(function(){
-            $('html, body').animate({scrollTop: $($accordion_content).offset().top - 75}, 600);
+            $('html, body').animate({scrollTop: $($accordion_content).offset().top - 130}, 600);
         }, 700);
     
     });
