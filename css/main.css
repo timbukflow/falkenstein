@@ -141,8 +141,8 @@ table,
     letter-spacing: 0.8px;
     color: #19489a;
     line-height: 1.6;
-    -webkit-hyphens: manual;
-            hyphens: manual;
+    -webkit-hyphens: auto;
+            hyphens: auto;
 }
 
 h4 {
