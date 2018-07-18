@@ -76,7 +76,7 @@
                 </h3>
             </a>
             <article class="content-right column-four inview">
-                <h2><span>Ein Mandat ist für uns nicht einfach ein Auftrag.</span><br>Es ist der Entscheid, mit einem Klienten wenn nötig bis zu den Grenzen des Möglichen vorzustossen. Die dazu nötigen Schritte erfüllen wir sorgfältig und mit hoher Professionalität. Wir gewährleisten eine fachlich herausragende Qualität, wofür wir eine angemessene Honorierung erwarten.</h2>
+                <h2><span>Ein Mandat ist für uns nicht <span class="nobr">einfach</span> ein Auftrag.</span><br>Es ist der Entscheid, mit einem Klienten wenn nötig bis zu den Grenzen des Möglichen vorzustossen. Die dazu nötigen Schritte erfüllen wir sorgfältig und mit hoher Professionalität. Wir gewährleisten eine fachlich herausragende Qualität, wofür wir eine angemessene Honorierung erwarten.</h2>
             </article>
             <a class="content-nav column-two inview" href="werner-rempfler" target="_top">
                 <div class="container-img">
