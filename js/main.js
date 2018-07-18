@@ -26,6 +26,7 @@ $(document).ready(function () {
     $('.menusmall').click(function() {
         $(this).children('span').toggleClass('lineactive');
         $('.topnav .navresp').stop(true, true).toggle();
+        $('body').toggleClass('noscroll');
 
     });
     
