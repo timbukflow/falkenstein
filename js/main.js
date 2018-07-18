@@ -39,7 +39,10 @@ $(document).ready(function () {
         $accordion_content = $(this).next('.accList');
         $('.accList').not($accordion_content).slideUp(600);
         $accordion_content.stop(true, false).slideToggle(600);
-         
+        
+         setTimeout(function(){
+            $('html, body').animate({scrollTop: $($accordion_content).offset().top - 240}, 600);
+        }, 700);
     });
     
     // Accordion Seccond
