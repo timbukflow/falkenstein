@@ -141,8 +141,8 @@ table,
     letter-spacing: 0.8px;
     color: #19489a;
     line-height: 1.6;
-    -webkit-hyphens: auto;
-            hyphens: auto;
+    -webkit-hyphens: manual;
+            hyphens: manual;
 }
 
 h4 {
@@ -203,9 +203,7 @@ li:before {
   padding-right: 10px;
 }
 
-.nobr {
-    white-space: nowrap;
-}
+.respbr {display: none}
 
 .content-top {
     position: relative;
@@ -623,7 +621,8 @@ footer {
 @media screen and (max-width: 470px) {
     h1, h2, h3 {font-size: 18px; line-height: 1.45}
     h4 {font-size: 28px;}
-    .content-top {margin-top: 150px; margin-bottom: 60px;}
+    .respbr {display: block}
+    .content-top {margin-top: 120px; margin-bottom: 50px;}
     .main-container, .topnav {width: 100%; margin: 0; padding: 0;}
     footer {margin: 50px 0px 0px 0px;}
     body {margin: 0; padding: 0;}

@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <article class="content-top column-four">
-            <h1><span>Advokatur und Treuhand <span class="nobr">am Falkenstein</span></span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, wir arbeiten selbständig und unabhängig und pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Diskretion verpflichtet. Individualität ist auch der gemeinsame Nenner, den unsere Kunden miteinander gemein haben.</h1>
+            <h1><span>Advokatur und Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, wir arbeiten selbständig und unab&shy;hängig und pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Dis&shy;kretion verpflichtet. Individualität ist auch der gemeinsame Nenner, den unsere Kunden miteinander gemein haben.</h1>
         </article>
         <div class="logo-container">
             <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
@@ -76,7 +76,7 @@
                 </h3>
             </a>
             <article class="content-right column-four inview">
-                <h2><span>Ein Mandat ist für uns nicht <span class="nobr">einfach</span> ein Auftrag.</span><br>Es ist der Entscheid, mit einem Klienten wenn nötig bis zu den Grenzen des Möglichen vorzustossen. Die dazu nötigen Schritte erfüllen wir sorgfältig und mit hoher Professionalität. Wir gewährleisten eine fachlich herausragende Qualität, wofür wir eine angemessene Honorierung erwarten.</h2>
+                <h2><span>Ein Mandat ist für uns nicht <span class="respbr"></span>einfach ein Auftrag.</span><span class="respbr"></span><br>Es ist der Entscheid, mit einem Klienten wenn nötig bis zu den Gren&shy;zen des Möglichen vorzustossen. Die dazu nötigen Schritte erfüllen wir sorgfältig und mit hoher Professio&shy;nalität. Wir gewährleisten eine fach&shy;lich herausragende Qualität, wofür wir eine angemessene Honorierung erwarten.</h2>
             </article>
             <a class="content-nav column-two inview" href="werner-rempfler" target="_top">
                 <div class="container-img">
@@ -124,25 +124,25 @@
                 </h3>
             </a>
             <article class="content-left column-four inview">
-                <h2><span>Nicht alles, was Tradition hat, ist sinnvoll.</span><br>Liberal und aufgeklärt stehen wir Forderungen, wie dem &laquo;Rückbesinnen auf alte Werte&raquo; skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigenschaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten: 
+                <h2><span>Nicht alles, was Tradition hat, <span class="respbr"></span>ist sinnvoll.</span><span class="respbr"></span><br>Liberal und aufgeklärt stehen wir Forderungen, wie dem &laquo;Rückbesinnen auf alte Werte&raquo; skeptisch gegenüber. Wir lehnen Tradition jedoch nicht grundsätzlich ab. Das Traditionelle Taekwon-Do, welches auf den Eigen&shy;schaften jahrtausendealter asiatischer Kampfkünste aufbaut, beruht auf fünf Grundwerten, an denen auch wir unser Wirken ausrichten: 
                 </h2>
             </article>
         </article>
         
         <article class="content-right-in column-four inview">
-            <h2>Respekt<br><span>Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Standpunkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</span></h2>
+            <h2>Respekt<br><span>Wir pflegen untereinander und mit allen unseren Ansprechpartnern einen höflichen und respektvollen Umgang. Davon weichen wir auch dann nicht ab, wenn wir einen Stand&shy;punkt oder eine Entscheidung gegen Widerstand zu vertreten haben. Von unseren Klienten erwarten wir das gleiche.</span></h2>
         </article>
         <article class="content-left column-four inview">
-            <h2>Ausdauer<br><span>Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hindert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Umsicht und Beharrlichkeit zu führen.</span></h2>
+            <h2>Ausdauer<br><span>Verfahren können mitunter lange dauern und belastend sein. Manchmal hat man auf dem Weg zum Ziel auch Rückschläge hinzunehmen. Das hin&shy;dert uns nicht daran, auch lange und belastende Prozesse mit Geduld, Um&shy;sicht und Beharrlichkeit zu führen.</span></h2>
         </article> 
         <article class="content-right-in column-four inview">
-            <h2>Integrität<br><span>Tolerant und offen, sowie weder politisch noch an Verbände gebunden, wahren wir uns eine eigenständige Beurteilung der Sachverhalte. Mandate, die nicht mit unseren persönlichen Wertvorstellungen in Einklang stehen, übernehmen wir nicht. Wir fühlen uns unseren Kunden verpflichtet, ohne dabei auf irgendwelche gesellschaftliche Wertvorstellungen Rücksicht nehmen zu müssen.</span></h2>
+            <h2>Integrität<br><span>Tolerant und offen, sowie weder politisch noch an Verbände gebunden, wahren wir uns eine eigenständige Beurteilung der Sachverhalte. Man&shy;date, die nicht mit unseren persön&shy;lichen Wertvorstellungen in Einklang stehen, übernehmen wir nicht. Wir fühlen uns unseren Kunden verpflich&shy;tet, ohne dabei auf irgendwelche gesellschaftliche Wertvorstellungen Rücksicht nehmen zu müssen.</span></h2>
         </article> 
         <article class="content-left column-four inview">
-            <h2>Selbstdisziplin<br><span>Kontinuierlich reflektieren wir uns und unser Handeln. Da wir uns dem Unterschied zwischen den Interessen unserer Klienten und unserer eigenen bewusst sind, und unser Handeln nach diesem Bewusstsein ausrichten, kommt es nicht zu Interessenkonflikten. Impulsivität entspricht nicht unseren Vorstellungen einer professionellen Arbeitsweise. Wir handeln ruhig und überlegt.</span></h2>
+            <h2>Selbstdisziplin<br><span>Kontinuierlich reflektieren wir uns und unser Handeln. Da wir uns dem Unterschied zwischen den Interessen unserer Klienten und unserer eigenen bewusst sind, und unser Handeln nach diesem Bewusstsein ausrichten, kommt es nicht zu Interessen&shy;konflikten. Impulsivität entspricht nicht unseren Vorstellungen einer professionellen Arbeitsweise. Wir handeln ruhig und überlegt.</span></h2>
         </article> 
         <article class="content-right-in column-four inview">
-            <h2>Unbeugsamer Geist<br><span>Wir prüfen auch unkonventionelle Lösungen, bevor wir Verfahren anhängig machen. Ist aber ein Konflikt unvermeidbar, vertreten wir unsere Klienten mit Engagement und Standfestigkeit gegenüber der Gegenpartei, Gerichten oder Verwaltungsbehörden. Und wenn nötig auch mit einer gehörigen Portion Renitenz.</span></h2>
+            <h2>Unbeugsamer Geist<br><span>Wir prüfen auch unkonventionelle Lösungen, bevor wir Verfahren an&shy;hängig machen. Ist aber ein Konflikt unvermeidbar, vertreten wir unsere Klienten mit Engagement und Stand&shy;festigkeit gegenüber der Gegenpartei, Gerichten oder Verwaltungsbehörden. Und wenn nötig auch mit einer gehö&shy;rigen Portion Renitenz.</span></h2>
         </article> 
          
     </main>
