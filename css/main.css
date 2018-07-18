@@ -157,15 +157,6 @@ h3,
     display: block;
 }
 
-.mobile-fix {
-    font-family: 'PT Serif', serif;
-    font-weight: lighter;
-    font-size: 18px;
-    letter-spacing: 0.8px;
-    color: #19489a;
-    line-height: 1.6;
-}
-
 h1 span, 
 h2 span,
 .gray, 
@@ -341,6 +332,7 @@ p.subnav-titel,
     background-color: white;
     z-index: 100;
     padding-bottom: 23px;
+    overflow-y: scroll;
 }
 
 .topnav a, 
@@ -623,7 +615,9 @@ footer {
     h4 {font-size: 28px;}
     .respbr {display: block}
     .content-top {margin-top: 120px; margin-bottom: 50px;}
-    .main-container, .topnav {width: 100%; margin: 0; padding: 0;}
+    .main-container {width: 100%; margin: 0; padding: 0;}
+    .topnav {width: 100%; margin: 0;}
+    .subnav-resp-scroll {overflow: scroll; height: 50vh;}
     footer {margin: 50px 0px 0px 0px;}
     body {margin: 0; padding: 0;}
 }

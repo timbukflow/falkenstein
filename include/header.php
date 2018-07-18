@@ -5,11 +5,11 @@
             <a href="index" target="_top"><span class="line <?php if ($page=='home'){echo 'lineactive';}?>">&#x0007C;</span>Advokatur und Treuhand am Falkenstein</a>
         </div>
         
-        <div class="column-two menusmall"><span class="line">&#x0007C;</span>Menu</div>
+        <div class="column-two menusmall" id="scrollable"><span class="line">&#x0007C;</span>Menu</div>
         
         <div class="column-one navresp">
             <div class="menu dropTitle"><span class="line <?php if ($page=='team'){echo 'lineactive';}?>">&#x0007C;</span>Team</div>
-            <div class="dropList subnav-resp">
+            <div class="dropList subnav-resp subnav-resp-scroll">
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Advokatur</p>
                 <a href="frank-th-petermann" target="_top"><span class="line">&#x0007C;</span>Frank Th. Petermann</a>
                 <a href="rolf-w-rempfler" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
