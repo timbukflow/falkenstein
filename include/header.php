@@ -15,7 +15,7 @@
                 <a href="rolf-w-rempfler" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
                 <a href="christa-rempfler" target="_top"><span class="line">&#x0007C;</span>Christa Rempfler</a>
                 <a href="debora-bilgeri" target="_top"><span class="line">&#x0007C;</span>Debora Bilgeri</a>
-                <a href="andres-thürlimann" target="_top"><span class="line">&#x0007C;</span>Andres Thürlimann</a>
+                <a href="andres-thuerlimann" target="_top"><span class="line">&#x0007C;</span>Andres Thürlimann</a>
                 <a href="tanja-ivanovic" target="_top"><span class="line">&#x0007C;</span>Tanja Ivanovic</a>
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Treuhand</p>
                 <a href="werner-rempfler" target="_top"><span class="line">&#x0007C;</span>Werner Rempfler</a>
