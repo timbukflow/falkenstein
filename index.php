@@ -11,7 +11,7 @@
     
     <main class="main-container">
         <article class="content-top column-four">
-            <h1><span>Advokatur und Treuhand am Falkenstein</span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, wir arbeiten selbständig und unabhängig und pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Diskretion verpflichtet. Individualität ist auch der gemeinsame Nenner, den unsere Kunden miteinander gemein haben.</h1>
+            <h1><span>Advokatur und Treuhand <span class="nobr">am Falkenstein</span></span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, wir arbeiten selbständig und unabhängig und pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. <span>mehr lesen</span> <!--Loyal, hilfsbereit und absoluter Diskretion verpflichtet. Individualität ist auch der gemeinsame Nenner, den unsere Kunden miteinander gemein haben.--></h1>
         </article>
         <div class="logo-container">
             <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">

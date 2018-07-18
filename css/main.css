@@ -197,11 +197,15 @@ ul{
 li {
   text-indent: -19px;
 }
+
 li:before {
   content: "-";
   padding-right: 10px;
 }
 
+.nobr {
+    white-space: nowrap;
+}
 
 .content-top {
     position: relative;
@@ -617,7 +621,7 @@ footer {
 }
 
 @media screen and (max-width: 470px) {
-    h1, h2 {font-size: 18px;}
+    h1, h2 {font-size: 20px;}
     h4 {font-size: 28px;}
     .content-top {margin-top: 150px; margin-bottom: 60px;}
     .main-container, .topnav {width: 100%; margin: 0; padding: 0;}
