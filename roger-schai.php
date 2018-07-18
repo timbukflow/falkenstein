@@ -34,7 +34,7 @@
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
-                Treuhandgesellschaft am Falkenstein GmbH<br>
+                Treuhandgesellschaft <span class="respbr"></span>am Falkenstein GmbH<br>
                 Roger Schai<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>

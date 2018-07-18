@@ -12,7 +12,7 @@
     <main class="main-container">
         
         <article class="content-dienst column-two inview">
-            <h1>Advokatur<br>am Falkenstein</h1>
+            <h1 class="contact-resp">Advokatur<br>am Falkenstein</h1>
         </article>
         <article class="column-four dienstleistung d-top inview">
             <h3><span class="gray">Wir sind ein engagiertes und kompetentes Team von Rechtsanwälten und Notaren, die sich für die Rechte unserer Klienten einsetzen. Wir beraten und vertreten unsere Klienten auch vor Gerichten und Verwaltungsbehörden. Spezialfragen und ausserordentliche Problemstellungen unterbreiten wir unserm Experten-Netz und holen auch ohne Prestige-Verlust eine Zweitmeinung ein.</span><br><br>
@@ -21,7 +21,7 @@
         </article>
         
        <article id="treuhand" class="content-dienst column-two inview">
-            <h1>Treuhand<br>am Falkenstein</h1>
+            <h1 class="contact-resp">Treuhand<br>am Falkenstein</h1>
         </article>
         <article class="column-four dienstleistung d-top inview">
             <h3><span class="gray">Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie:</span><br><br>
@@ -38,11 +38,11 @@
         </article>
         
         <article id="immobilien" class="content-dienst column-two inview">
-            <h1>Immobilien<br>am Falkenstein</h1>
+            <h1 class="contact-resp">Immobilien<br>am Falkenstein</h1>
         </article>
         
         <article class="column-four dienstleistung d-top inview">
-            <h3><span class="gray">Wir bieten den KMU Arbeiten an im Bereich:</span><br><br>
+            <h3><span class="gray">Wir bieten den KMU <span class="respbr"></span>Arbeiten an im Bereich:</span><br><br>
                 <ul>
                     <li>Verwaltung von Gewerbe- und Wohnliegenschaften;                         </li>
                     <li>Vorbereitung und Durchführung des Immobilien-Ein- und Verkaufs;         </li>

@@ -42,7 +42,7 @@
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
-                Treuhandgesellschaft am Falkenstein GmbH<br>
+                Treuhandgesellschaft <span class="respbr"></span>am Falkenstein GmbH<br>
                 Maria Rempfler<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
@@ -61,7 +61,7 @@
             <img class="img1" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Die richtige Karte im richtigen Moment.&raquo;</h4>
+            <h4>&laquo;Die richtige Karte im <span class="respbr"></span>richtigen Moment.&raquo;</h4>
         </article>
     </main>
     

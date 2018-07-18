@@ -17,7 +17,7 @@
         <article class="column-three accordion accordion-top">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Advokatur</h3>
             <p class="accList">
-                Advokatur und Treuhand am Falkenstein<br>
+                Advokatur und Treuhand <span class="respbr"></span>am Falkenstein<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St. Gallen<br><br>
@@ -27,7 +27,7 @@
             </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Treuhand und Immobilien </h3>
             <p class="accList">
-                Treuhand und Immobilien am Falkenstein<br>
+                Treuhand und Immobilien <span class="respbr"></span>am Falkenstein<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St. Gallen<br><br>

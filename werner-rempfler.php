@@ -54,7 +54,7 @@
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
-                Treuhandgesellschaft am Falkenstein GmbH<br>
+                Treuhandgesellschaft <span class="respbr"></span>am Falkenstein GmbH<br>
                 lic. iur. Werner Rempfler<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
@@ -73,7 +73,7 @@
             <img class="img1" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Lauschen – Pirschen – Beobachten – Begutachten – Treffen.&raquo;</h4>
+            <h4>&laquo;Lauschen – Pirschen – <span class="respbr"></span>Beobachten – Begutachten – Treffen.&raquo;</h4>
         </article>
     </main>
     
