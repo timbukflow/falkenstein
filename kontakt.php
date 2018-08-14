@@ -9,7 +9,7 @@
     
     <?php $page = 'kontakt'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <section class="content top column-two contact">
             <h3>
                 Falkensteinstrasse 1<br>
@@ -38,7 +38,7 @@
             <img class="img1" src="img/falkenstein-advokatur-treuhand-kontakt.jpg" alt="falkenstein-advokatur-treuhand-kontakt" >
         </div>
         
-    </main>
+    </div>
     
    
     

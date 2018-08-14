@@ -9,7 +9,7 @@
     
     <?php $page = 'team'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Roger Schai<br><span>Treuhand</span></h1>
         </section>
@@ -54,7 +54,7 @@
         <article class="content-right column-four inview">
             <h4>&laquo;Teamplayer: Wie im Fussball so im Büro!&raquo;</h4>
         </article>
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     

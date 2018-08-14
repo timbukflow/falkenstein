@@ -9,7 +9,7 @@
     
     <?php $page = 'team'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Fabienne Frei<br><span>Sekretariat</span></h1>
         </section>
@@ -46,7 +46,7 @@
         <article class="content-right column-four inview">
             <h4>&laquo;Richte Deinen Fokus auf die Lösung und nicht auf das Problem.&raquo;</h4>
         </article>
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     

@@ -9,7 +9,7 @@
     
     <?php $page = 'team'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Frank Th. Petermann<br><span>Rechtsanwalt &#47; Notar</span></h1>
         </section>
@@ -213,7 +213,7 @@
         <article class="content-right column-four inview">
             <h4>&laquo;Ein guter Aphorismus ist die Weisheit eines ganzen Buches in einem einzigen Satz.&raquo;</h4>
         </article>
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     

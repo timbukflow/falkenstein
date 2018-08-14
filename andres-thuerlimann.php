@@ -9,7 +9,7 @@
     
     <?php $page = 'team'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Andres Thürlimann<br><span>Rechtsanwalt &#47; Notar</span></h1>
         </section>
@@ -71,7 +71,7 @@
         <article class="content-right column-four inview">
             <h4>&laquo;Alles was Sie hier sehen, verdanke ich Spaghetti.&raquo; <i>(Sophia Lauren)</i></h4>
         </article>
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     

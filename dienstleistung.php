@@ -9,7 +9,7 @@
     
     <?php $page = 'dienstleistung'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         
         <article class="content-dienst column-two inview">
             <h1 class="contact-resp">Advokatur<br>am Falkenstein</h1>
@@ -54,7 +54,7 @@
         
         
 
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     

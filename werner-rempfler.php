@@ -9,7 +9,7 @@
     
     <?php $page = 'team'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Werner Rempfler<br><span>Treuhand &#47; Immobilien</span></h1>
         </section>
@@ -75,7 +75,7 @@
         <article class="content-right column-four inview">
             <h4>&laquo;Lauschen – Pirschen – <span class="respbr"></span>Beobachten – Begutachten – Treffen.&raquo;</h4>
         </article>
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     

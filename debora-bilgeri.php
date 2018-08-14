@@ -9,7 +9,7 @@
     
     <?php $page = 'team'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Debora Bilgeri<br><span>Rechtsanwältin &#47; Notarin</span></h1>
         </section>
@@ -96,7 +96,7 @@
         <article class="content-right column-four inview">
             <h4>&laquo;Wege entstehen dadurch, dass man sie geht.&raquo; <span class="respbr"></span><i>(Franz Kafka)</i></h4>
         </article>
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     

@@ -9,7 +9,7 @@
     
     <?php $page = 'geschichte'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <article class="column-four storystyle storytop inview">
             <h4 class="story-resp">1968 &#8211;<span class="gray">1983</span></h4>
             <table>
@@ -46,7 +46,7 @@
             </table>
         </article>
         
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     
