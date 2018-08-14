@@ -329,10 +329,11 @@ p.subnav-titel,
     position: fixed;
     width: 96%;
     margin: 0px 2%;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.975);
     z-index: 100;
     padding-bottom: 23px;
     overflow-y: scroll;
+    -ms-overflow-style: none;
     max-height: 100%;
 }
 
