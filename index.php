@@ -9,7 +9,7 @@
     
     <?php $page = 'home'; include 'include/header.php'; ?>
     
-    <main class="main-container">
+    <div class="main-container">
         <article class="content-top column-four">
             <h1><span class="contact-resp">Advokatur und Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, wir arbeiten selbständig und unabhängig und pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Diskretion verpflichtet. Individualität ist auch der gemeinsame Nenner, den unsere Kunden miteinander gemein haben.</h1>
         </article>
@@ -145,7 +145,7 @@
             <h2>Unbeugsamer Geist<br><span>Wir prüfen auch unkonventionelle Lösungen, bevor wir Verfahren anhängig machen. Ist aber ein Konflikt unvermeidbar, vertreten wir unsere Klienten mit Engagement und Standfestigkeit gegenüber der Gegenpartei, Gerichten oder Verwaltungsbehörden. Und wenn nötig auch mit einer gehörigen Portion Renitenz.</span></h2>
         </article> 
          
-    </main>
+    </div>
     
     <?php include 'include/footer.php'; ?>
     
