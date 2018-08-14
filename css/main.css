@@ -265,25 +265,18 @@ li:before {
 }
 
 .logo-container {
+    width: 16.6%;
+    float: left;
+    text-align: right;
+    padding-top: 12px;
+    padding-right: 12px;
     position: absolute;
-    right: 2%;
-    padding: 25px;
-    top: 310px;
-}
-
-.logo-container-small {
-    position: relative;
-    margin-bottom: 25px;
-    display: none;
-    overflow: auto;
-    height: 50px;
-    width: 100%;
+    right: 0;
+    top: 0;
 }
 
 .logo-small {
-    position: absolute;
-    right: 3%;
-    width: 140px;
+    width: 84px;
 }
 
 .accordion-top,
@@ -329,9 +322,9 @@ p.subnav-titel,
     position: fixed;
     width: 96%;
     margin: 0px 2%;
-    background-color: rgba(255, 255, 255, 0.975);
+    background-color: rgba(255, 255, 255, 0.95);
     z-index: 100;
-    padding-bottom: 23px;
+    padding-bottom: 14px;
     overflow-y: scroll;
     -ms-overflow-style: none;
     max-height: 100%;
@@ -349,6 +342,16 @@ footer,
 
 .menu {
     cursor: pointer;
+}
+
+.navresp {
+    padding-top: 15px;
+}
+
+.menusmall {
+    padding-top: 22px;
+    width: 50%;
+    float: left;
 }
 
 .line, 
@@ -432,6 +435,10 @@ td.story {
 .acclistFooter,
 .accListSecond {
     display: none;
+}
+
+.dropList {
+    width: 310px;
 }
 
 
@@ -535,18 +542,17 @@ td {
     overflow: hidden;
 }
 
-@media screen and (max-width: 1210px) {
-    .nav-left {width: 66.4%;}
-    .topnav .navresp {display: none; width: 33.2%; margin-left: 66.4%;}
+@media screen and (max-width: 800px) {
+    .logo-container {width: 50%;}
+    .topnav .navresp {display: none; width: 100%; margin-left: 0;}
     .topnav .menusmall {display: block;}
     .subnav-resp {padding: 10px 20px; padding-bottom: 15px;}
 }
 
-@media screen and (min-width: 1211px) {
+@media screen and (min-width: 801px) {
     .topnav .navresp {display: block !important;}
     .topnav .menusmall {display: none;}
 }
-
 
 /* ==========================================================================
    footer
@@ -571,18 +577,11 @@ footer {
    responsive
    ========================================================================== */
 
-@media screen and (max-width: 1435px) {
-    .logo-container {top: 347px;}
-}
-
 @media screen and (max-width: 1210px) {
-    .logo-container {display: none;}
-    .logo-container-small {display: block;}
     .column-four {width: 83%;}
     .content-top {margin-right: 0; margin-bottom: 90px;}
     .content-right, .content-right-in  {margin-left: 16.6%;}
     .column-two{width: 50%;}
-    .topnav .navresp {display: none; width: 50%; margin-left: 50%;}
     .content-dienst {margin-bottom: 10px;}
     .d-top {padding-top: 30px;}
     .storystyle {width: 66.4%;}
@@ -631,12 +630,7 @@ footer {
 
 @media screen and (min-width: 1600px) {
     .main-container, .topnav, footer {width: 86%; margin: 0px 7%;}
-    .logo-container {right: 7%;}
     h3 {font-size: 24px;}
-}
-    
-@media screen and (min-width: 1970px) {
-    .logo-container {top: 272px;}  
 }
 
 

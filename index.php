@@ -7,18 +7,12 @@
 
 <body>
     
-    <?php $page = 'home'; include 'include/header.php'; ?>
+    <?php include 'include/header.php'; ?>
     
     <div class="main-container">
         <article class="content-top column-four">
             <h1><span class="contact-resp">Advokatur und Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir sind eine Arbeitsgemeinschaft von individuellen Persönlichkeiten, wir arbeiten selbständig und unabhängig und pflegen einen offenen, direkten Arbeitsstil, auf der Basis umfassender und breiter Erfahrung. Loyal, hilfsbereit und absoluter Diskretion verpflichtet. Individualität ist auch der gemeinsame Nenner, den unsere Kunden miteinander gemein haben.</h1>
         </article>
-        <div class="logo-container">
-            <img alt="advokatur-treuhand-falkenstein-logo" src="img/advokatur-treuhand-falkenstein-logo.svg">
-        </div>
-        <div class="logo-container-small">
-            <img class="logo-small" alt="advokatur-treuhand-falkenstein-logo-small" src="img/advokatur-treuhand-falkenstein-logo-small.svg">
-        </div>
         
         <article>
             <a class="content-nav column-two inview" href="frank-th-petermann" target="_top">
