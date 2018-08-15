@@ -196,6 +196,17 @@ li:before {
 
 .respbr {display: none}
 
+.content-home {
+    margin-top: 180px;
+    margin-bottom: 60px;
+    padding: 0px 20px;
+}
+
+.nav-home {
+    border-left: 1px solid #19489a;
+    padding-left: 12px;
+}
+
 .content-top {
     position: relative;
     margin-top: 180px;
@@ -476,6 +487,22 @@ td {
 .container-img img {
     width: 100%;
     height: auto;
+}
+
+.img-home {
+    padding: 8px;
+}
+
+.grayfilter {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    -webkit-transition: all 1s ease-in-out;
+    transition:         all 1s ease-in-out;
+}
+
+.grayfilter:hover  {
+        -webkit-filter: grayscale(0);
+    filter: grayscale(0);
 }
 
 
