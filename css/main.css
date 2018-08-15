@@ -204,7 +204,7 @@ li:before {
 
 .nav-home {
     border-left: 1px solid #19489a;
-    padding-left: 12px;
+    padding-left: 12px; 
 }
 
 .content-top {
@@ -298,6 +298,8 @@ li:before {
 .d-top {
     padding-top: 122px;
 }
+
+
 
 /* ==========================================================================
    nav
@@ -640,6 +642,8 @@ footer {
     .footer {margin-top: 10px;}
     footer {margin-top: 50px;}
     .contact {margin-left: 0;}
+    .content-home {margin-bottom: 40px; margin-top: 0px;}
+    .home-top {margin-top: 100px;}
 }
 
 @media screen and (max-width: 470px) {

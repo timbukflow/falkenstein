@@ -10,15 +10,15 @@
     <?php include 'include/header.php'; ?>
     
     <div class="main-container">
-        <article class="content-home column-three">
+        <article class="content-home home-top column-three">
             <a href="advokatur" target="_top">
-                <h1 class="nav-home">Advokatur<br><span>am Falkenstein</span></h1>
+                <h1 class="nav-home contact-resp">Advokatur<br><span>am Falkenstein</span></h1>
             </a>
         </article>
         
         <article class="content-home column-three">
             <a href="treuhand" target="_top">
-                <h1 class="nav-home">Treuhand<br><span>am Falkenstein</span></h1>
+                <h1 class="nav-home contact-resp">Treuhand<br><span>am Falkenstein</span></h1>
             </a>
         </article>
         
