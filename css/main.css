@@ -210,7 +210,7 @@ li:before {
 .content-top {
     position: relative;
     margin-top: 180px;
-    margin-bottom: 125px;
+    margin-bottom: 100px;
     padding: 0px 32px;
     margin-right: 33.2%;
 }
@@ -226,6 +226,9 @@ li:before {
     position: relative;
     margin-top: 60px;
     padding: 8px 32px;
+}
+.content-imobilien {
+    margin-bottom: 120px;
 }
 
 .content-right {
