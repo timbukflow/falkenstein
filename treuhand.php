@@ -46,8 +46,6 @@
                 <h2><span class="contact-resp">Immobilien <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Einrichtung und Führung der Buchhaltung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</h2>
             </article>
             
-                                                 
-            
             <a class="content-nav column-two inview" href="franziska-sutter" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter.jpg" alt="falkenstein-sekretariat-franziska-sutter" >

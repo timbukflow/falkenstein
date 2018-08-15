@@ -157,8 +157,6 @@ h3,
     display: block;
 }
 
-h1 span, 
-h2 span,
 .gray, 
 .contact h3 span a{
     color: rgba(0, 0, 0, 0.5);
@@ -212,7 +210,6 @@ li:before {
     margin-top: 180px;
     margin-bottom: 100px;
     padding: 0px 32px;
-    margin-right: 33.2%;
 }
 
 .content-nav {
@@ -302,7 +299,17 @@ li:before {
     padding-top: 122px;
 }
 
+/* ==========================================================================
+   weiter lesen
+   ========================================================================== */
 
+.wl {
+    display: none;
+    text-decoration-line: underline;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
 
 /* ==========================================================================
    nav
@@ -611,9 +618,6 @@ footer {
 
 @media screen and (max-width: 1210px) {
     .column-four {width: 83%;}
-    .content-top {margin-right: 0; margin-bottom: 90px;}
-    .content-right, .content-right-in  {margin-left: 16.6%;}
-    .column-two{width: 50%;}
     .content-dienst {margin-bottom: 10px;}
     .d-top {padding-top: 30px;}
     .storystyle {width: 66.4%;}
@@ -627,11 +631,12 @@ footer {
     .storystyle-left {margin-left: 0;}
     td.story {font-size: 60px;}
     .content-story-img {width: 100%}
+    .column-two {width: 50%;}
+    .column-five {width: 100%;}
 }
 
 @media screen and (max-width: 740px) {
     .column-four {width: 100%;}
-    .content-right, .content-right-in  {margin-left: 0;}
     .column-two, .column-three{width: 100%;}
     .topnav .navresp {display: none; width: 100%; margin-left: 0;}
     .accordion-top {margin-top: 10px;}
@@ -660,6 +665,8 @@ footer {
     .topnav {width: 100%; margin: 0; padding-bottom: 10px}
     footer {margin: 50px 0px 0px 0px;}
     body {margin: 0; padding: 0;}
+    .wl {display: inline-block;}
+    .wl-hidden {display: none;}
 }
 
 @media screen and (min-width: 1600px) {

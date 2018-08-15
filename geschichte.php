@@ -32,7 +32,7 @@
         </article>
         
         <div class="container-img content-story-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-geschichte-innenraum.jpg" alt="falkenstein-advokatur-geschichte-innenraum" >
+            <img class="img1" src="img/falkenstein-advokatur-geschichte.jpg" alt="falkenstein-advokatur-geschichte" >
         </div>
         
         <article class="column-four storystyle inview">

@@ -11,7 +11,7 @@
     
     <div class="main-container">
         <article class="content-top column-five">
-            <h1><span class="contact-resp">Advokatur <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir sind ein engagiertes und kompetentes Team von Rechtsanwälten und Notaren, die sich für die Rechte unserer Klienten einsetzen. Wir beraten und vertreten unsere Klienten auch vor Gerichten und Verwaltungsbehörden. Spezialfragen und ausserordentliche Problemstellungen unterbreiten wir unserm Experten-Netz und holen auch ohne Prestige-Verlust eine Zweitmeinung ein.</h1>
+            <h1><span class="contact-resp gray">Advokatur <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir sind ein engagiertes und kompetentes Team von Rechtsanwälten und Notaren, die sich für die Rechte unserer Klienten einsetzen. <span class="wl">weiter lesen</span><span class="wl-hidden">Wir beraten und vertreten unsere Klienten auch vor Gerichten und Verwaltungsbehörden. Spezialfragen und ausserordentliche Problemstellungen unterbreiten wir unserm Experten-Netz und holen auch ohne Prestige-Verlust eine Zweitmeinung ein.</span></h1>
         </article>
         
         <article>
@@ -21,7 +21,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Frank Th. Petermann <span class="gray">Advokatur</span>
+                    <span class="line">&#x0007C;</span>Frank Th. Petermann
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="rolf-w-rempfler" target="_top">
@@ -30,7 +30,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Rolf W. Rempfler <span class="gray">Advokatur</span>
+                    <span class="line">&#x0007C;</span>Rolf W. Rempfler
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="christa-rempfler" target="_top">
@@ -39,7 +39,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Christa Rempfler <span class="gray">Advokatur</span>
+                    <span class="line">&#x0007C;</span>Christa Rempfler
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="debora-bilgeri" target="_top">
@@ -48,7 +48,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-debora-bilgeri-trekking.jpg" alt="falkenstein-advokatur-debora-bilgeri-trekking" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Debora Bilgeri <span class="gray">Advokatur</span>
+                    <span class="line">&#x0007C;</span>Debora Bilgeri
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="andres-thuerlimann" target="_top">
@@ -57,7 +57,7 @@
                     <img class="img2" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Andres Thürlimann <span class="gray">Advokatur</span>
+                    <span class="line">&#x0007C;</span>Andres Thürlimann
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="tanja-ivanovic" target="_top">
@@ -66,11 +66,11 @@
                     <img class="img2" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Tanja Ivanovic <span class="gray">Advokatur</span>
+                    <span class="line">&#x0007C;</span>Tanja Ivanovic
                 </h3>
             </a>
             <article class="content-left column-five inview">
-                <h2><span>Unser Team in der Advokatur</span><br>deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.</h2>
+                <h2><span class="contact-resp gray">Unser Team in der Advokatur</span><span class="respbr"></span><br>deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.</h2>
             </article>
         </article>
     </div>

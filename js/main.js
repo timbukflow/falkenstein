@@ -97,4 +97,11 @@ $(document).ready(function () {
         }); 
     }).scroll();
     
+    // weiter lesen
+    
+    $('.wl').click(function() {
+        $(this).siblings('.wl-hidden').fadeIn();
+        $(this).css("display", "none")
+    });
+    
 });
