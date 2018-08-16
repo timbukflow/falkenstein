@@ -127,7 +127,6 @@ h2,
 h3,
 h4,
 p,
-table,
 .nav, 
 .nummer,
 .story,
@@ -145,8 +144,7 @@ table,
             hyphens: auto;
 }
 
-h4 {font-size: 34px;}
-h4 i {font-size: 24px;}
+h4 {font-size: 50px;}
 
 
 h3,
@@ -170,7 +168,6 @@ h3,
     cursor: pointer;
 }
 
-table,
 .accordion p  {
     font-size: 18px;
     padding: 20px 20px;
@@ -305,7 +302,7 @@ li:before {
 
 .wl {
     display: none;
-    text-decoration-line: underline;
+    text-decoration: underline;
     font-size: 14px;
     color: rgba(0, 0, 0, 0.5);
     cursor: pointer;
@@ -411,42 +408,12 @@ footer,
     margin-left: 0px;
 }
 
-.storystyle table {
-    padding: 0px;
-}
-
-
-.storystyle td {
-    font-size: 18px;
-    padding-left: 16px;
-    padding-bottom: 100px;
-    padding-top: 15px;
-}
-
-td.story {
-    padding-left: 0px;
-    font-size: 70px;
-    width: 25%;
-    color: #19489a;
-    line-height: 1;
-}
-
-.story-resp {
-    display: none;
-}
-
 .content-story-img {
-    padding-top: 40px;
-    padding-bottom: 100px;
-    width: 69%;
-    margin: 0 auto;
+    margin-bottom: 90px;
 }
 
-.content-kontakt-img{
-    padding-bottom: 100px;
-    width: 66.4%;
-    float: right;
-    margin-top: 110px;
+.story-bottom {
+    margin-bottom: 60px;
 }
 
 /* ==========================================================================
@@ -562,7 +529,8 @@ td {
 
 .column-six {
     width: 100%;
-        padding: 8px;
+    float: left;
+    padding: 8px;
 }
 
 /* ==========================================================================
@@ -618,14 +586,12 @@ footer {
     .content-dienst {margin-bottom: 10px;}
     .d-top {padding-top: 30px;}
     .storystyle {width: 66.4%;}
-    td.story {font-size: 60px;}
 
 }
 
 @media screen and (max-width: 990px) {
     .storystyle {width: 83%; margin-left: 16.6%;}
     .storystyle-left {margin-left: 0;}
-    td.story {font-size: 60px;}
     .content-story-img {width: 100%}
     .column-two {width: 50%;}
     .column-five {width: 100%;}
@@ -642,9 +608,6 @@ footer {
     .content-team-img {margin-bottom: 0px; padding-bottom: 0px;}
     .content {margin-bottom: 25px;}
     .storystyle {width: 100%; margin-left: 0;}
-    td.story {display: none;}
-    .story-resp {display: block;}
-    .storystyle td {padding-left: 0px;}
     .footer {margin-top: 10px;}
     footer {margin-top: 50px;}
     .contact {margin-left: 0;}
@@ -654,10 +617,8 @@ footer {
 }
 
 @media screen and (max-width: 470px) {
-    h1, h2, h3, table {font-size: 18px; line-height: 1.45}
+    h1, h2, h3 {font-size: 18px; line-height: 1.45}
     h4, .contact-resp {font-size: 24px;}
-    h4 i {font-size: 18px;}
-    td {padding-bottom: 16px;}
     .respbr {display: block}
     .content-top {margin-top: 90px; margin-bottom: 30px;}
     .main-container {width: 100%; margin: 0; padding: 0;}

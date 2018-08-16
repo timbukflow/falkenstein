@@ -11,7 +11,7 @@
     
     <div class="main-container">
         <article class="content-top column-five">
-            <h1><span class="contact-resp gray">Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</h1>
+            <h1><span class="contact-resp gray">Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden <span class="wl">weiter lesen</span><span class="wl-hidden">Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</span></h1>
         </article>
         
         <article>
