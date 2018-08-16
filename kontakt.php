@@ -49,33 +49,7 @@
              {"featureType": "administrative.land_parcel","elementType": "labels.text.fill","stylers": [{"color": "#bdbdbd"}]},
              {"featureType": "poi","elementType": "geometry","stylers": [{"color": "#eeeeee"}]},{"featureType": "poi","elementType": "labels.text.fill","stylers": [{"color": "#757575"}]},
              {"featureType": "poi.park","elementType": "geometry","stylers": [{"color": "#e5e5e5"}]},{"featureType": "poi.park","elementType": "labels.text.fill","stylers": [{"color": "#9e9e9e"}]},
-             {
-                    "featureType": "road",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#ffffff"
-                        }
-                    ]
-                },
-                {
-                    "featureType": "road.arterial",
-                    "elementType": "labels.text.fill",
-                    "stylers": [
-                        {
-                            "color": "#757575"
-                        }
-                    ]
-                },
-                {
-                    "featureType": "road.highway",
-                    "elementType": "geometry",
-                    "stylers": [
-                        {
-                            "color": "#dadada"
-                        }
-                    ]
-                },
+             {"featureType": "road","elementType": "geometry","stylers": [{"color": "#ffffff"}]},{"featureType":"road.arterial","elementType": "labels.text.fill","stylers": [{"color": "#757575"}]},{"featureType": "road.highway","elementType": "geometry","stylers": [{"color": "#dadada"}]},
                 {
                     "featureType": "road.highway",
                     "elementType": "labels.text.fill",
@@ -147,7 +121,7 @@
             disableDefaultUI: true,
         });
           
-        var image = 'img/marker.png';
+        var image = 'img/marker.svg';
         var falkensteinMarker = new google.maps.Marker({
             position: {lat: 47.430176, lng: 9.392557},
             map: map,
