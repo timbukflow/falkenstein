@@ -308,6 +308,8 @@ li:before {
     text-decoration: underline;
     font-size: 14px;
     cursor: pointer;
+    color: #19489a;
+    
 }
 
 /* ==========================================================================
