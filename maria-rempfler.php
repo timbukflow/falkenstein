@@ -11,7 +11,7 @@
     
     <div class="main-container">
         <section class="content top column-three">
-            <h1 class="contact-resp">Maria Rempfler<br><span>Immobilienverwaltung</span></h1>
+            <h1 class="contact-resp">Maria Rempfler<br><span class="gray">Immobilienverwaltung</span></h1>
         </section>
         
         <article class="column-three accordion accordion-top">

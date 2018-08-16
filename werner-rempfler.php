@@ -11,7 +11,7 @@
     
     <div class="main-container">
         <section class="content top column-three">
-            <h1 class="contact-resp">Werner Rempfler<br><span>Treuhand &#47; Immobilien</span></h1>
+            <h1 class="contact-resp">Werner Rempfler<br><span class="gray">Treuhand &#47; Immobilien</span></h1>
         </section>
         
         <article class="column-three accordion accordion-top">

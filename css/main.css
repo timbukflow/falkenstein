@@ -195,7 +195,7 @@ li:before {
 .respbr {display: none}
 
 .content-home {
-    margin-top: 180px;
+    margin-top: 140px;
     margin-bottom: 60px;
     padding: 0px 20px;
 }
@@ -207,8 +207,8 @@ li:before {
 
 .content-top {
     position: relative;
-    margin-top: 180px;
-    margin-bottom: 100px;
+    margin-top: 140px;
+    margin-bottom: 60px;
     padding: 0px 32px;
 }
 
@@ -505,19 +505,6 @@ td {
     padding: 8px;
 }
 
-.grayfilter {
-    -webkit-filter: grayscale(1);
-    filter: grayscale(1);
-    -webkit-transition: all 1s ease-in-out;
-    transition:         all 1s ease-in-out;
-}
-
-.grayfilter:hover  {
-        -webkit-filter: grayscale(0);
-    filter: grayscale(0);
-}
-
-
 .container-img .img2 {
     opacity: 0;
     -webkit-transition: opacity 0.5s ease-in-out;
@@ -660,7 +647,7 @@ footer {
     h4 i {font-size: 18px;}
     td {padding-bottom: 16px;}
     .respbr {display: block}
-    .content-top {margin-top: 120px; margin-bottom: 50px;}
+    .content-top {margin-top: 90px; margin-bottom: 30px;}
     .main-container {width: 100%; margin: 0; padding: 0;}
     .topnav {width: 100%; margin: 0; padding-bottom: 10px}
     footer {margin: 50px 0px 0px 0px;}

@@ -12,22 +12,28 @@
     <div class="main-container">
         <article class="content-home home-top column-three">
             <a href="advokatur" target="_top">
-                <h1 class="nav-home contact-resp">Advokatur<br><span>am Falkenstein</span></h1>
+                <h1 class="nav-home contact-resp">Advokatur<br><span class="gray">am Falkenstein</span></h1>
             </a>
         </article>
         
         <article class="content-home column-three">
             <a href="treuhand" target="_top">
-                <h1 class="nav-home contact-resp">Treuhand<br><span>am Falkenstein</span></h1>
+                <h1 class="nav-home contact-resp">Treuhand<br><span class="gray">am Falkenstein</span></h1>
             </a>
         </article>
-        
-        <div class="column-three container-img img-home inview grayfilter">
-                <img class="img1" src="img/falkenstein-advokatur-treuhand-kontakt.jpg" alt="falkenstein-advokatur-treuhand-kontakt" >
-        </div>
-        <div class="column-three container-img img-home inview grayfilter">
-                <img class="img1" src="img/falkenstein-advokatur-geschichte-innenraum.jpg" alt="falkenstein-advokatur-treuhand-kontakt" >
+
+        <div class="column-three img-home">
+            <div class="container-img inview">
+                <img class="img1" src="img/falkenstein-advokatur-treuhand-start-2a.jpg" alt="falkenstein-advokatur-treuhand-home" >
+                <img class="img2" src="img/falkenstein-advokatur-treuhand-start-2b.jpg" alt="falkenstein-advokatur-treuhand-home" >
+            </div>
         </div> 
+        <div class="column-three img-home">
+            <div class="container-img inview">
+                <img class="img1" src="img/falkenstein-advokatur-treuhand-start-1a.jpg" alt="falkenstein-advokatur-treuhand-home" >
+                <img class="img2" src="img/falkenstein-advokatur-treuhand-start-1b.jpg" alt="falkenstein-advokatur-treuhand-home" >
+            </div>
+        </div>
          
     </div>
     

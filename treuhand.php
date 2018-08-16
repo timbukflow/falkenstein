@@ -11,7 +11,7 @@
     
     <div class="main-container">
         <article class="content-top column-five">
-            <h1><span class="contact-resp">Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</h1>
+            <h1><span class="contact-resp gray">Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</h1>
         </article>
         
         <article>
@@ -43,7 +43,7 @@
                 </h3>
             </a>
             <article class="content-left content-imobilien column-five inview">
-                <h2><span class="contact-resp">Immobilien <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Einrichtung und Führung der Buchhaltung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</h2>
+                <h2><span class="contact-resp gray">Immobilien <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br>Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Einrichtung und Führung der Buchhaltung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</h2>
             </article>
             
             <a class="content-nav column-two inview" href="franziska-sutter" target="_top">
