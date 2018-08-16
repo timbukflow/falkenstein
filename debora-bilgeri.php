@@ -32,7 +32,7 @@
                 </tr>
                 <tr>
                     <td class="year">2004</td>
-                    <td>Anwaltspatent Kanton St. Gallen<br>
+                    <td>Anwaltspatent Kanton St.Gallen<br>
                     </td>
                 </tr>
                 <tr>
