@@ -26,10 +26,10 @@
             </h3>
         </section>
         <section class="content top column-two contact contact-resp">
-            <h3>Treuhand und Immobilien<br>
-                <span class="gray"><a class="contact" href="tel:0712426657">T 071 242 66 57</a>
+            <h3>Treuhand &#38; Immobilien<br>
+                <span class="gray"><a href="tel:0712426657">T 071 242 66 57</a>
                 F 071 242 66 56
-                <a class="contact" href="mailto:rs@falkenstein.ag" target="_top">rs@falkenstein.ag</a></span>
+                <a href="mailto:rs@falkenstein.ag" target="_top">rs@falkenstein.ag</a></span>
             </h3>
         </section>
         

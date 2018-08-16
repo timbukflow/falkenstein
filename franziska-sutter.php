@@ -25,7 +25,7 @@
                 F: 071 242 66 52
                 <a class="nummer" href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>
             </p>
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Treuhand und Immobilien </h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Treuhand &#38; Immobilien </h3>
             <p class="accList">
                 Treuhand und Immobilien <span class="respbr"></span>am Falkenstein<br>
                 Falkensteinstrasse 1<br>
