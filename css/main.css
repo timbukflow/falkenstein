@@ -127,6 +127,7 @@ h2,
 h3,
 h4,
 p,
+table,
 .nav, 
 .nummer,
 .story,
@@ -168,6 +169,7 @@ h3,
     cursor: pointer;
 }
 
+table,
 .accordion p  {
     font-size: 18px;
     padding: 20px 20px;
@@ -617,8 +619,9 @@ footer {
 }
 
 @media screen and (max-width: 470px) {
-    h1, h2, h3 {font-size: 18px; line-height: 1.45}
+    h1, h2, h3, table {font-size: 18px; line-height: 1.45}
     h4, .contact-resp {font-size: 24px;}
+    td {padding-bottom: 16px;}
     .respbr {display: block}
     .content-top {margin-top: 90px; margin-bottom: 30px;}
     .main-container {width: 100%; margin: 0; padding: 0;}
