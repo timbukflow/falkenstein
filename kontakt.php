@@ -10,7 +10,7 @@
     <?php $page = 'kontakt'; include 'include/header.php'; ?>
     
     <div class="main-container">
-        <section class="content top column-two contact">
+        <section class="content top column-two contact contact-resp-top">
             <h3>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>

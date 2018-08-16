@@ -620,6 +620,7 @@ footer {
     .content-home {margin-bottom: 20px; margin-top: 0px;}
     .home-top {margin-top: 120px;}
     .contact-resp {margin-bottom: 25px; margin-top: 0px;}
+    .contact-resp-top {margin-bottom: 25px;}
 }
 
 @media screen and (max-width: 470px) {
@@ -636,6 +637,7 @@ footer {
     body {margin: 0; padding: 0;}
     .wl {display: inline-block;}
     .wl-hidden {display: none;}
+    .contact-resp {margin-top: 0px;}
 }
 
 @media screen and (min-width: 1600px) {
