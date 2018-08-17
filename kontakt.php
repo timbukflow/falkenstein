@@ -120,11 +120,16 @@
             zoom: 14,
             disableDefaultUI: true,
         });
-          
-        var image = 'img/marker.svg';
+        
+        var image = {
+            url: 'img/marker.svg',
+            scaledSize: new google.maps.Size(46, 46),
+        }
+
         var falkensteinMarker = new google.maps.Marker({
             position: {lat: 47.430176, lng: 9.392557},
             map: map,
+            optimized: false,
             icon: image,
         });
         map.mapTypes.set('styled_map', styledMapType);
