@@ -15,6 +15,15 @@
         </article>
         
         <article>
+            <a class="content-nav column-two inview" href="christa-rempfler" target="_top">
+                <div class="container-img">
+                    <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
+                    <img class="img2" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
+                </div>
+                <h3 class="nav">
+                    <span class="line">&#x0007C;</span>Christa Rempfler
+                </h3>
+            </a>
             <a class="content-nav column-two inview" href="frank-th-petermann" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-frank-petermann.jpg" alt="falkenstein-advokatur-frank-petermann" >
@@ -31,15 +40,6 @@
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Rolf W. Rempfler
-                </h3>
-            </a>
-            <a class="content-nav column-two inview" href="christa-rempfler" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
-                    <img class="img2" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Christa Rempfler
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="debora-bilgeri" target="_top">
@@ -72,6 +72,20 @@
             <article class="content-left column-five inview">
                 <h2><span class="contact-resp">Unser Team in der Advokatur</span><span class="respbr"></span><br><span class="gray">deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.</span></h2>
             </article>
+        </article>
+        <article class="column-three accordion accordion-advo inview">
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Familienrecht</h3>
+            <p class="accList">
+            Deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.    
+            </p>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Familienrecht</h3>
+            <p class="accList">
+            Deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.    
+            </p>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Familienrecht</h3>
+            <p class="accList">
+            Deckt die Bedürfnisse und Probleme, welche sich im KMU-Bereich und in der Familie wie auch im Beruf stellen, umfassend ab. Mit interner Kooperation und Konsultation analysieren wir die Sach- und Rechtslage und finden so das adäquate Vorgehen – gerade auch unter dem Aspekt der gewaltigen Kosten, welche die Gerichte heute den Parteien auferlegen. Transparent und verständlich für den Klienten, konsequent und wenn notwendig hartnäckig gegenüber dem Gegner und den Behörden, verfolgen wir die Interessen unseres Auftraggebers.    
+            </p>
         </article>
     </div>
     

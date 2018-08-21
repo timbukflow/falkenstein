@@ -13,14 +13,6 @@ $(document).ready(function () {
        
     });
     
-    // Dropdown Navigation Dienstleistung
-    
-    $('.dropList a').click(function() {
-        $('.navresp').slideUp(800);
-        $drop_content.stop(true, false).slideToggle(800);
-       
-    });
-    
     //Responsive Navigation
     
     $('.menusmall').click(function() {
@@ -42,7 +34,7 @@ $(document).ready(function () {
         $accordion_content.stop(true, false).slideToggle(600);
         
          setTimeout(function(){
-            $('html, body').animate({scrollTop: $($accordion_content).offset().top - 240}, 600);
+            $('html, body').animate({scrollTop: $($accordion_line).offset().top - 240}, 600);
         }, 700);
     });
     

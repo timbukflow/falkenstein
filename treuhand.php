@@ -15,13 +15,22 @@
         </article>
         
         <article>
+            <a class="content-nav column-two inview" href="maria-rempfler" target="_top">
+                <div class="container-img">
+                    <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
+                    <img class="img2" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
+                </div>
+                <h3 class="nav">
+                    <span class="line">&#x0007C;</span>Maria Rempfler
+                </h3>
+            </a>
             <a class="content-nav column-two inview" href="werner-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-treuhand-werner-rempfler.jpg" alt="falkenstein-treuhand-werner-rempfler" >
                     <img class="img2" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Werner Rempfler <span class="gray">Treuhand</span>
+                    <span class="line">&#x0007C;</span>Werner Rempfler
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="roger-schai" target="_top">
@@ -30,16 +39,7 @@
                     <img class="img2" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Roger Schai <span class="gray">Treuhand</span>
-                </h3>
-            </a>
-            <a class="content-nav column-two inview" href="maria-rempfler" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
-                    <img class="img2" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Maria Rempfler <span class="gray">Immobilien</span>
+                    <span class="line">&#x0007C;</span>Roger Schai
                 </h3>
             </a>
             <article class="content-left content-imobilien column-five inview">
