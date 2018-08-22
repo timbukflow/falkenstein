@@ -108,6 +108,7 @@ textarea {
 .main-container {
     width: 96%;
     margin: 0px 2%;
+    height: 90%;
 }
 
 .inview {
@@ -284,7 +285,7 @@ li:before {
 }
 
 .top-c-img {
-    margin-top: 140px;
+    margin-top: 130px;
 }
 
 /* ==========================================================================
@@ -550,6 +551,10 @@ td {
 footer {
     width: 96%;
     margin: 0px 2%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    
 }
 
 .footer-content {
