@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="..."><!-- definieren -->
+    <meta name="description" content="Treuhand und Immobilien am Falkenstein, Maria Rempfler, Immobilienverwaltung">
 </head>
 
 <body>
@@ -28,17 +28,17 @@
                     </tr>
                     <tr>
                         <td class="year">1968</td>
-                        <td>Mutter von drei Kindern und Mädchen für alles im Advokaturbüro</td>
+                        <td>Mutter von drei Kindern und Mädchen für alles im Advokatur- und Treuhandbüro</td>
                     </tr>
                     <tr>
                         <td class="year">1996</td>
-                        <td>Immobilienverwalterin in eigener Treuhandfirma</td>
+                        <td>Immobilienverwalterin</td>
                     </tr>
                 </table>
             </div>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
-            <p class="accList">Deutsch</p>
+            <p class="accList">Deutsch, Französisch, Englisch und Serbokroatisch</p>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
@@ -61,7 +61,7 @@
             <img class="img1" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Die richtige Karte im <span class="respbr"></span>richtigen Moment.&raquo;</h4>
+            <h4>&laquo;Die richtige Karte im <span class="respbr"></span>richtigen Moment&raquo;.</h4>
         </article>
     </div>
     
