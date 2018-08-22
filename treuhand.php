@@ -45,25 +45,6 @@
             <article class="content-left content-imobilien column-five inview">
                 <h2><span class="contact-resp">Immobilien <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br><span class="gray">Wir bieten den KMU Arbeiten an im Bereich Geschäftsgründung und Unternehmensberatung, wie: Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform; Firmagründung und Firmastrukturierung; Einrichtung und Führung der Buchhaltung; Verwaltung von Sitz- und Holdinggesellschaften; Steuerliche Optimierung; Finanzierungsmodelle, Neu- und Refinanzierungen; Nachfolgeregelung, Liquidationen und Erbteilung.</span></h2>
             </article>
-            
-            <a class="content-nav column-two inview" href="franziska-sutter" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter.jpg" alt="falkenstein-sekretariat-franziska-sutter" >
-                    <img class="img2" src="img/falkenstein-sekretariat-franziska-sutter-wandern.jpg" alt="falkenstein-sekretariat-franziska-sutter-wandern" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Franziska Sutter <span class="gray">Sekretariat</span>
-                </h3>
-            </a>
-            <a class="content-nav column-two inview" href="fabienne-frei" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei.jpg" alt="falkenstein-sekretariat-fabienne-frei" >
-                    <img class="img2" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Fabienne Frei <span class="gray">Sekretariat</span>
-                </h3>
-            </a>
         </article>
     </div>
     
