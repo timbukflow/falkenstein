@@ -250,13 +250,6 @@ li:before {
     padding-top: 2px;
 }
 
-.content-dienst {
-    position: relative;
-    margin-bottom: 80px;
-    padding-left: 32px;
-    padding-top: 122px;
-}
-
 .content-team-img {
     position: relative;
     overflow: hidden;
@@ -268,11 +261,6 @@ li:before {
     position: relative;
     padding-left: 8px;
     margin-bottom: 80px;
-}
-
-.dienstleistung {
-    position: relative;
-    padding: 8px 34px;
 }
 
 .logo-container {
@@ -295,10 +283,6 @@ li:before {
      margin-top: 140px;
 }
 
-.d-top {
-    padding-top: 122px;
-}
-
 .top-c-img {
     margin-top: 140px;
 }
@@ -312,8 +296,7 @@ li:before {
     text-decoration: underline;
     font-size: 14px;
     cursor: pointer;
-    color: #19489a;
-    
+    color: #19489a;  
 }
 
 /* ==========================================================================
@@ -424,15 +407,6 @@ footer,
     margin-bottom: 60px;
 }
 
-/* ==========================================================================
-   map
-   ========================================================================== */
-
-#map {
-    width: 100%;
-    height: 650px;
-    background-color: lightgrey;
-}
 
 /* ==========================================================================
    accordion and drop
@@ -507,7 +481,6 @@ td {
 .container-img:hover .img2 {
     opacity: 1;
 }
-
 
 
 /* ==========================================================================
@@ -596,8 +569,6 @@ footer {
 @media screen and (max-width: 1210px) {
     .column-four {width: 83%;}
     .content-right {margin-left: 17%}
-    .content-dienst {margin-bottom: 10px;}
-    .d-top {padding-top: 30px;}
     .storystyle {width: 66.4%;}
 
 }
