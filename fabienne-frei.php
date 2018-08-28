@@ -17,7 +17,7 @@
         <article class="column-three accordion accordion-top">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Advokatur</h3>
             <p class="accList">
-                Advokatur und Treuhand <span class="respbr"></span>am Falkenstein<br>
+                Advokatur <span class="respbr"></span>am Falkenstein<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St. Gallen<br><br>
@@ -25,9 +25,9 @@
                 F: 071 242 66 52
                 <a class="nummer" href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>
             </p>
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Treuhand &#38; Immobilien </h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Treuhand und Immobilien </h3>
             <p class="accList">
-                Treuhand und Immobilien <span class="respbr"></span>am Falkenstein<br>
+                Treuhand <span class="respbr"></span>am Falkenstein<br>
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St. Gallen<br><br>
@@ -44,7 +44,7 @@
             <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Richte Deinen Fokus auf die Lösung und nicht auf das Problem.&raquo;</h4>
+            <h4>&laquo;Richte Deinen Fokus auf die Lösung und nicht auf das Problem&raquo;</h4>
         </article>
     </div>
     

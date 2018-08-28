@@ -11,7 +11,7 @@
     
     <div class="main-container">
         <article class="content-top column-five">
-            <h1><span class="contact-resp">Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br><span class="gray">Wir bieten Ihnen die umfassende Beratung in allen geschäftlichen Belangen an, sei dies bei der Auswahl der passenden Geschäfts- und Gesellschaftsform oder bei der Gründung oder Umstrukturierung Ihrer Firma. <span class="wl">weiter lesen</span><span class="wl-hidden">Wir verwalten auch Ihre Sitz- oder Holding-Gesellschaft mit Vollmacht oder als eingetragene Geschäftsführer. Ein weiterer Schwerpunkt unserer Tätigkeit liegt bei Nachfolge-Regelungen, Liquidationen und Erbteilungen.</span></span></h1>
+            <h1><span class="contact-resp">Treuhand <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br><span class="gray">Wir bieten Ihnen die umfassende Beratung in allen geschäftlichen Belangen an, sei dies bei der Auswahl der passenden Geschäfts- und Gesellschaftsform <span class="wl">weiter lesen</span><span class="wl-hidden">oder bei der Gründung oder Umstrukturierung Ihrer Firma. Wir verwalten auch Ihre Sitz- oder Holding-Gesellschaft mit Vollmacht oder als eingetragene Geschäftsführer. Ein weiterer Schwerpunkt unserer Tätigkeit liegt bei Nachfolge-Regelungen, Liquidationen und Erbteilungen.</span></span></h1>
         </article>
         <article>
             <a class="content-nav column-two inview" href="maria-rempfler" target="_top">
