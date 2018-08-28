@@ -24,11 +24,11 @@
                 </tr>
                 <tr>
                     <td class="year">2002</td>
-                    <td>Gerichtspraktikum, London School of English, London Anwaltspraktikum in London und Frauenfeld</td>
+                    <td>Gerichtspraktikum, London School of English, London, Anwaltspraktikum in London und Frauenfeld</td>
                 </tr>
                 <tr>
                     <td class="year">2004</td>
-                    <td>Einstieg in die Advokatur am Falkenstein als juristische Mitarbeiterin a.o. Gerichtsschreiberin an einem erstinstanzlichen Gericht im Thurgau</td>
+                    <td>Einstieg in die Advokatur am Falkenstein als juristische Mitarbeiterin, a.o. Gerichtsschreiberin an einem erstinstanzlichen Gericht im Thurgau</td>
                 </tr>
                 <tr>
                     <td class="year">2007</td>
@@ -82,7 +82,7 @@
             <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Ich spiele nach Noten – aber die Noten setze ich.&raquo;</h4>
+            <h4>&laquo;Ich spiele nach Noten – aber die Noten setze ich&raquo;</h4>
         </article>
     </div>
     

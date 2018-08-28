@@ -19,12 +19,8 @@
             <div class="accList">
                 <table>
                 <tr>
-                    <td class="year">2014</td>
-                    <td>Master of Law UZH – Legal Practice, Universität St.Gallen</td>
-                </tr>
-                <tr>
-                    <td class="year">2015</td>
-                    <td>Gerichtspraktikum</td>
+                    <td class="year">2016</td>
+                    <td>Master of Law - Legal Practice, Universität Zürich, zwei Kurzpraktika bei Wirtschaftkanzleien in Zürich</td>
                 </tr>
                 <tr>
                     <td class="year">2016</td>
@@ -47,7 +43,7 @@
                 </tr>
                 <tr>
                     <td class="year">2018</td>
-                    <td>Doktoratsprogramm in Rechtswissenschaften an der Universität St.Gallen<br>
+                    <td>Beginn Doktoratsprogramm in Rechtswissenschaften an der Universität St.Gallen<br>
                     </td>
                 </tr>
                 </table>
@@ -77,7 +73,7 @@
             <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Weitsichtig, weltoffen, grenzenlos - Nur wer umherschweift, findet neue Wege&raquo;.</h4>
+            <h4>&laquo;Weitsichtig, weltoffen, grenzenlos - Nur wer nicht stehen bleibt, findet neue Wege&raquo;</h4>
         </article>
     </div>
     

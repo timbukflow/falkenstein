@@ -61,7 +61,7 @@
             <img class="img1" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Die richtige Karte im <span class="respbr"></span>richtigen Moment&raquo;.</h4>
+            <h4>&laquo;Die richtige Karte im <span class="respbr"></span>richtigen Moment&raquo;</h4>
         </article>
     </div>
     

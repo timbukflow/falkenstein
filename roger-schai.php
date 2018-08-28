@@ -52,7 +52,7 @@
             <img class="img1" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Teamplayer: Wie im Fussball so im Büro!&raquo;</h4>
+            <h4>&laquo;Teamplayer: Wie im Fussball so im Büro&raquo;</h4>
         </article>
     </div>
     

@@ -19,11 +19,11 @@
             <div class="accList">
                 <table>
                     <tr>
-                        <td class="year">1998</td>
-                        <td>Lizenziat der Rechtswissenschaften an der Universität St.Gallen Anwaltspraktikum, Gerichtspraktikum</td>
+                        <td class="year">1996</td>
+                        <td>Lizenziat der Rechtswissenschaften an der Universität St.Gallen, Doktorandenstudium, Gerichtspraktikum, Anwaltspraktikum</td>
                     </tr>
                     <tr>
-                        <td class="year">2000</td>
+                        <td class="year">1998</td>
                         <td>Einstieg in die Advokatur am Falkenstein als juristischer Mitarbeiter</td>
                     </tr>
                     <tr>
@@ -66,7 +66,7 @@
             <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Durch die Gegenwärtigkeit des Spiels kann ich mich gut von meiner denkenden Arbeit erholen.&raquo;</h4>
+            <h4>&laquo;Durch die Gegenwärtigkeit des Spiels kann ich mich gut von meiner denkenden Arbeit erholen&raquo;</h4>
         </article>
     </div>
     

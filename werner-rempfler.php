@@ -73,7 +73,7 @@
             <img class="img1" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Lauschen – Pirschen – <span class="respbr"></span>Beobachten – Begutachten – Treffen.&raquo;</h4>
+            <h4>&laquo;Lauschen – Pirschen – <span class="respbr"></span>Beobachten – Begutachten – Treffen&raquo;</h4>
         </article>
     </div>
     

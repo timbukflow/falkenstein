@@ -20,11 +20,11 @@
                 <table>
                     <tr>
                         <td class="year">1994</td>
-                        <td>Lizenziat beider Rechte (lic. iur. utr.) an der Rechtswissenschaftlichen Fakultät der Universität Freiburg i.Ue. LSE, London School of Economics, London</td>
+                        <td>Lizenziat beider Rechte (lic. iur. utr.) an der Rechtswissenschaftlichen Fakultät der Universität Freiburg i.Ue., London School of Economics (LSE), London</td>
                     </tr>
                     <tr>
                         <td class="year">1995</td>
-                        <td>Anwaltspraktikum, Gerichtspraktikum, Verwaltungspraktikum Doktorat an der Universität St. Gallen bei Prof. Dr. I. Schwander Forschungsaufenthalt in Pretoria, Südafrika</td>
+                        <td>Anwaltspraktikum, Gerichtspraktikum, Verwaltungspraktikum, Doktorat an der Universität St.Gallen bei Prof. Dr. I. Schwander, Forschungsaufenthalt in Pretoria, Südafrika</td>
                     </tr>
                     <tr>
                         <td class="year">1998</td>

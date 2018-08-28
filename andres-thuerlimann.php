@@ -20,7 +20,7 @@
                 <table>
                     <tr>
                         <td class="year">2014</td>
-                        <td>Lizenziat der Rechtswissenschaften an der Universität Luzern sowie an der Université 2 in Lille in Frankreich</td>
+                        <td>Master of Law an der Universität Luzern sowie an der Université 2 in Lille, Frankreich</td>
                     </tr>
                     <tr>
                         <td class="year">2014</td>
@@ -69,7 +69,7 @@
             <img class="img1" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Alles was Sie hier sehen, verdanke ich Spaghetti.&raquo; <i>(Sophia Lauren)</i></h4>
+            <h4>&laquo;Alles was Sie hier sehen, verdanke ich Spaghetti&raquo; <br><i>(Sophia Lauren)</i></h4>
         </article>
     </div>
     
