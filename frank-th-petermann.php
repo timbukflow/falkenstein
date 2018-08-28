@@ -47,8 +47,7 @@
                     <table>
                         <tr>
                             <td class="publyear">24.07.2014</td>
-                            <td class="publ">Urteilsfähigkeit. Referate der Tagung vom 31. Oktober 2012 im Kongresshaus Zürich. Herausgegeben von Frank Th. Petermann. Schriftenreihe des Instituts für Rechtswissenschaft und Rechtspraxis der Universität St. Gallen, Bd. 90. St. Gallen 2014, 289 Seiten, broschiert. 
-                            ISBN 978-3-906049-11-3. Bestellung: http://www.irp.unisg.ch/de/shop</td>
+                            <td class="publ">Urteilsfähigkeit. Referate der Tagung vom 31. Oktober 2012 im Kongresshaus Zürich. Herausgegeben von Frank Th. Petermann. Schriftenreihe des Instituts für Rechtswissenschaft und Rechtspraxis der Universität St.Gallen, Bd. 90. St.Gallen 2014, 289 Seiten, broschiert. ISBN 978-3-906049-11-3.</td>
                         </tr>
                         <tr>
                             <td class="publyear">28.06.2011</td>
@@ -56,7 +55,7 @@
                         </tr>
                         <tr>
                             <td class="publyear">01.07.2008</td>
-                            <td class="publ">Urteilsfähigkeit. Generelle Aspekte, Urteilsfähigkeit als Ehevoraussetzung, zum Testieren, zum willentlichen Sterben sowie Screening-Tools. Zürich 2008. ISBN 978-3-03751-102-2. 199 Seiten, broschiert. Bestellung: Download Flyer oder auslieferung@dike.ch.</td>
+                            <td class="publ">Urteilsfähigkeit. Generelle Aspekte, Urteilsfähigkeit als Ehevoraussetzung, zum Testieren, zum willentlichen Sterben sowie Screening-Tools. Zürich 2008. ISBN 978-3-03751-102-2. 199 Seiten, broschiert.</td>
                         </tr>
                         <tr>
                             <td class="publyear">06.01.2006</td>
@@ -64,11 +63,11 @@
                         </tr>
                         <tr>
                             <td class="publyear">18.04.2005</td>
-                            <td class="publ">Rezension von &laquo;Berner Kommentar Tauschvertrag&raquo;, von Prof. Dr. iur. et Dr. phil. I Hans Giger. In: Jusletter vom 18.04.2005.</td>
+                            <td class="publ">Rezension von &laquo;Berner Kommentar Tauschvertrag&raquo;, von Prof. Dr. iur. et Dr. phil. I Hans Giger, in Jusletter 18.04.2005.</td>
                         </tr>
                         <tr>
                             <td class="publyear">07.02.2005</td>
-                            <td class="publ">Urteilsbesprechung des Bundesgerichtsentscheids 5C.43/2004 vom 09.08.2004 bezüglich Anzeigepflichtverletzung im Versicherungsvertrag. In: Aktuelle Juristische Praxis (AJP) 02/2005.</td>
+                            <td class="publ">Urteilsbesprechung des Bundesgerichtsentscheids 5C.43/2004 vom 09.08.2004 bezüglich Anzeigepflichtverletzung im Versicherungsvertrag in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 02/2005. </td>
                         </tr>
                     </table>
                 </div>
@@ -77,7 +76,7 @@
                     <table>
                         <tr>
                             <td class="publyear">20.06.2011</td>
-                            <td class="publ">Urteilsbesprechung des Entscheides des Europäischen Gerichtshofes für Menschenrechte Nr. 31322/07 vom 20.01.2011 in Sachen Haas gegen die Schweiz (rezeptfreie Abgabe von Natrium-Pentobarbital). In: Aktuelle Juristische Praxis (AJP) 06/2011.</td>
+                            <td class="publ">Urteilsbesprechung des Entscheides des Europäischen Gerichtshofes für Menschenrechte Nr. 31322/07 vom 20.01.2011 in Sachen Haas gegen die Schweiz (rezeptfreie Abgabe von Natrium-Pentobarbital) in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 06/2011.</td>
                         </tr>
                         <tr>
                             <td class="publyear">03.02.2009</td>
@@ -85,19 +84,19 @@
                         </tr>
                         <tr>
                             <td class="publyear">11.11.2008</td>
-                            <td class="publ">Die geltende Regelung für Natrium-Pentobarbital: Ein legistischer Rubik's Cube? In: Aktuelle Juristische Praxis (AJP) 11/2008.</td>
+                            <td class="publ">Die geltende Regelung für Natrium-Pentobarbital: Ein legistischer Rubik's Cube? In: &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 11/2008.</td>
                         </tr>
                         <tr>
                             <td class="publyear">26.03.2007</td>
-                            <td class="publ">Off-Label. Rechtliche Überlegungen zum Off-Label Use von Pharmazeutika. In: HILL (Health Insurance Liability Law; Ref. HILL 2007 II N. 2), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
+                            <td class="publ">Off-Label. Rechtliche Überlegungen zum Off-Label Use von Pharmazeutika. Aufsatz in: HILL (Health Insurance Liability Law; Ref. HILL 2007 II N. 2), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
                         </tr>
                         <tr>
                             <td class="publyear">21.02.2007</td>
-                            <td class="publ">Urteilsbesprechung des Bundesgerichtsentscheids BGE 2A.48/2006 resp. 2A.66/2006 vom 03.11.2006 bezüglich rezeptfreie Abgabe von Natrium-Pentobarbital (NaP). In: HILL (Health Insurance and Liability Law), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
+                            <td class="publ">Urteilsbesprechung des Bundesgerichtsentscheids BGE 2A.48/2006 resp. 2A.66/2006 vom 03.11.2006 bezüglich rezeptfreie Abgabe von Natrium-Pentobarbital (NaP) in: HILL (Health Insurance and Liability Law), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
                         </tr>
                         <tr>
                             <td class="publyear">10.04.2006</td>
-                            <td class="publ">Rechtliche Überlegungen zur Rezeptierung von Natrium-Pentobarbital. In Aktuelle Juristische Praxis (AJP) 04/2006.</td>
+                            <td class="publ">Rechtliche Überlegungen zur Rezeptierung von Natrium-Pentobarbital. Aufsatz in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 04/2006.</td>
                         </tr>
                     </table>
                 </div>
@@ -106,23 +105,23 @@
                     <table>
                         <tr>
                             <td class="publyear">06.12.2006</td>
-                            <td class="publ">Topmodels - Berufliche Diskriminierung aus „Verdacht mangelnder gesundheitlicher Vorbild-Funktion“? In: HILL (Health Insurance and Liability Law), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
+                            <td class="publ">Topmodels - Berufliche Diskriminierung aus &laquo;Verdacht mangelnder gesundheitlicher Vorbild-Funktion&raquo;? Fachartikel in: HILL (Health Insurance and Liability Law), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
                         </tr>
                         <tr>
                             <td class="publyear">22.05.2006</td>
-                            <td class="publ">Sterbehilfe: Eine terminologische Einführung. In: Frank Th. Petermann (Hrsg.), Sterbehilfe. Grundsätzliche und praktische Fragen. Ein interdisziplinärer Diskurs. St. Gallen 2006.</td>
+                            <td class="publ">Sterbehilfe: Eine terminologische Einführung. In: Frank Th. Petermann (Hrsg.), Sterbehilfe. Grundsätzliche und praktische Fragen. Ein interdisziplinärer Diskurs. St.Gallen 2006.</td>
                         </tr>
                         <tr>
                             <td class="publyear">22.05.2006</td>
-                            <td class="publ">Sterbehilfe. Grundsätzliche und praktische Fragen. Ein interdisziplinärer Diskurs. Referate der Tagung vom 13. Oktober 2005 in Zürich. Mit Beiträgen von Prof. Dr. med. Bettina Schöne-Seifert, Prof. Dr. iur. Gunther Arzt, PD Dr. med. Johann F. Spittler, Prof. Dr. iur. Stephan Breitenmoser, Dr. theol. Ebo Aebischer, PD Dr. phil. Dagmar Fenner und Dr. Frank Th. Petermann. Herausgegeben von Frank Th. Petermann. Schriftenreihe des Instituts für Rechtswissenschaft und Rechtspraxis der Universität St. Gallen, Bd. 38. St. Gallen 2006.  Bestell-Link: www.irp.unisg.ch.</td>
+                            <td class="publ">Sterbehilfe. Grundsätzliche und praktische Fragen. Ein interdisziplinärer Diskurs. Referate der Tagung vom 13.10.2005 in Zürich. Mit Beiträgen von Prof. Dr. med. Bettina Schöne-Seifert, Prof. Dr. iur. Gunther Arzt, PD Dr. med. Johann F. Spittler, Prof. Dr. iur. Stephan Breitenmoser, Dr. theol. Ebo Aebischer, PD Dr. phil. Dagmar Fenner und Dr. Frank Th. Petermann. Herausgegeben von Frank Th. Petermann. Schriftenreihe des Instituts für Rechtswissenschaft und Rechtspraxis der Universität St.Gallen, Bd. 38. St.Gallen 2006.</td>
                         </tr>
                         <tr>
                             <td class="publyear">31.03.2005</td>
-                            <td class="publ">Rechte und Pflichten des Arbeitgebers gegenüber psychisch kranken oder labilen Arbeitnehmern. Aufsatz. In: Zeitschrift für Arbeitsrecht und Arbeitslosenversicherung (ARV) 1/2005.</td>
+                            <td class="publ">Rechte und Pflichten des Arbeitgebers gegenüber psychisch kranken oder labilen Arbeitnehmern. Aufsatz in &laquo;Zeitschrift für Arbeitsrecht und Arbeitslosenversicherung&raquo; (ARV) 1/2005.</td>
                         </tr>
                         <tr>
                             <td class="publyear">20.11.2004</td>
-                            <td class="publ">Selbstbestimmungsrecht als Ausgangspunkt. Die Suizidproblematik verlangt einen neuen Ansatz für eine wirksame Prävention. In: Neue Zürcher Zeitung vom 20./21.11.2004, Rubrik Zeitfragen.</td>
+                            <td class="publ">Selbstbestimmungsrecht als Ausgangspunkt. Die Suizidproblematik verlangt einen neuen Ansatz für eine wirksame Prävention. Artikel in der &laquo;Neuen Zürcher Zeitung&raquo; vom 20./21.11.2004, Rubrik Zeitfragen.</td>
                         </tr>
                     </table>
                 </div>
@@ -131,15 +130,15 @@
                     <table>
                         <tr>
                             <td class="publyear">18.09.2008</td>
-                            <td class="publ">Rezension von &laquo;Sport, Ethics and Philosophy&raquo;, der British Philosophy of Sport Associaton. In: Causa Sport 3/2008.</td>
+                            <td class="publ">Rezension von &laquo;Sport, Ethics and Philosophy&raquo;, der British Philosophy of Sport Associaton in Causa Sport 3/2008.</td>
                         </tr>
                         <tr>
                             <td class="publyear">30.06.2005</td>
-                            <td class="publ">Sport und Ganzheit. In: Causa Sport 02/2005.</td>
+                            <td class="publ">Sport und Ganzheit. Aufsatz in Causa Sport 02/2005.</td>
                         </tr>
                         <tr>
                             <td class="publyear">15.01.2005</td>
-                            <td class="publ">FIFA-Reglement als anationales materielles Recht? In: Causa Sport 3/4/2004 von lic. iur. Christa Rempfler.</td>
+                            <td class="publ">FIFA-Reglement als anationales materielles Recht? Aufsatz in Causa Sport 3/4/2004 von lic. iur. Christa Rempfler.</td>
                         </tr>
                     </table>
                 </div>
@@ -148,11 +147,11 @@
                     <table>
                         <tr>
                             <td class="publyear">23.08.2012</td>
-                            <td class="publ">Auskunftsperson oder Beschuldigter? In: Aktuelle Juristische Praxis (AJP) 08/2012.</td>
+                            <td class="publ">Auskunftsperson oder Beschuldigter? Aufsatz in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 08/2012.</td>
                         </tr>
                         <tr>
                             <td class="publyear">11.12.2006</td>
-                            <td class="publ">Litigation Communication - Wenn rechtliche Auseinandersetzungen die Reputation gefährden. In: Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht (ZZZ) 9/2006.</td>
+                            <td class="publ">Litigation Communication - Wenn rechtliche Auseinandersetzungen die Reputation gefährden. Aufsatz in: Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht (ZZZ) 9/2006.</td>
                         </tr>
                         <tr>
                             <td class="publyear">08.12.2006</td>
@@ -160,7 +159,7 @@
                         </tr>
                         <tr>
                             <td class="publyear">10.04.2005</td>
-                            <td class="publ">Zivilprozess und psychische Belastung: Über die Berücksichtigung des Faktors der psychischen Belastung eines Zivilprozesses für Klient und Anwalt. In Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht (ZZZ) 4/2004.</td>
+                            <td class="publ">Zivilprozess und psychische Belastung: Über die Berücksichtigung des Faktors der psychischen Belastung eines Zivilprozesses für Klient und Anwalt. Aufsatz in &laquo;Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht&raquo; (ZZZ) 4/2004.</td>
                         </tr>
                     </table>
                 </div>
@@ -169,7 +168,7 @@
                     <table>
                         <tr>
                             <td class="publyear">19.05.2016</td>
-                            <td class="publ">Legalitätsprinzip bezüglich unbestimmter Rechtsbegriffe im Exportkontrollrecht - ein explosives Gemisch! In: Zeitschrift Sicherheit und Recht 1/2016.</td>
+                            <td class="publ">Legalitätsprinzip bezüglich unbestimmter Rechtsbegriffe im Exportkontrollrecht - ein explosives Gemisch! Aufsatz in der Zeitschrift &laquo;Sicherheit und Recht&raquo; 1/2016.</td>
                         </tr>
                         <tr>
                             <td class="publyear">01.12.2015</td>
@@ -177,11 +176,11 @@
                         </tr>
                         <tr>
                             <td class="publyear">10.09.2014</td>
-                            <td class="publ">Dual-Use. Aspekte des Bundesgesetzes über die Kontrolle zivil und militärisch verwendbarer Güter sowie besonderer militärischer Güter und der Güterlisten. Zürich/St. Gallen 2014, XXXVII, 228 Seiten, gebunden, ISBN 978-3-03751-650-8. Bestellung: Download Flyer oder auslieferung@dike.ch</td>
+                            <td class="publ">Dual-Use. Aspekte des Bundesgesetzes über die Kontrolle zivil und militärisch verwendbarer Güter sowie besonderer militärischer Güter und der Güterlisten. Zürich/St.Gallen 2014, XXXVII, 228 Seiten, gebunden, ISBN 978-3-03751-650-8.</td>
                         </tr>
                         <tr>
                             <td class="publyear">28.06.2012</td>
-                            <td class="publ">Compliance im Exportkontrollecht - rechtliche Überlegungen zur Ausfuhrprüfung von Dual-Use Gütern. In: Aktuelle Juristische Praxis (AJP) 06/2012.</td>
+                            <td class="publ">Compliance im Exportkontrollecht - rechtliche Überlegungen zur Ausfuhrprüfung von Dual-Use Gütern. Aufsatz in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 06/2012.</td>
                         </tr>
                     </table>
                 </div>
@@ -211,7 +210,7 @@
             <img class="img1" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Ein guter Aphorismus ist die Weisheit eines ganzen Buches in einem einzigen Satz.&raquo;</h4>
+            <h4>&laquo;Ein guter Aphorismus ist die Weisheit eines ganzen Buches in einem einzigen Satz&raquo;</h4>
         </article>
     </div>
     
