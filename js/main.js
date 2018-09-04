@@ -89,17 +89,7 @@ $(document).ready(function () {
     }).scroll();
     
     // responsive people inview change img 
-    
-    /*
-    
-     if (objectBottom < windowBottom) { //object comes into view (scrolling down)
-        if ($(this).css("opacity")==0) {$(this).fadeTo(500,1);}
-      } else { //object goes out of view (scrolling up)
-        if ($(this).css("opacity")==1) {$(this).fadeTo(500,0);}
-      }
-      
-    */
-    
+  
     $(window).scroll(function() {
         $('.mobile-inview').each(function(i) {
             var bottom_of_object = $(this).offset().top + $(this).outerHeight();

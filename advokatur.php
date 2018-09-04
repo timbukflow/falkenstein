@@ -18,7 +18,7 @@
             <a class="content-nav column-two inview" href="christa-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
-                    <img class="img2 mobile-inview" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Christa Rempfler
@@ -27,7 +27,7 @@
             <a class="content-nav column-two inview" href="frank-th-petermann" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-frank-petermann.jpg" alt="falkenstein-advokatur-frank-petermann" >
-                    <img class="img2" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Frank Th. Petermann
@@ -36,7 +36,7 @@
             <a class="content-nav column-two inview" href="rolf-w-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
-                    <img class="img2" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Rolf W. Rempfler
@@ -45,7 +45,7 @@
             <a class="content-nav column-two inview" href="debora-bilgeri" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-debora-bilgeri.jpg" alt="falkenstein-advokatur-debora-bilgeri" >
-                    <img class="img2" src="img/falkenstein-advokatur-debora-bilgeri-trekking.jpg" alt="falkenstein-advokatur-debora-bilgeri-trekking" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-debora-bilgeri-trekking.jpg" alt="falkenstein-advokatur-debora-bilgeri-trekking" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Debora Bilgeri
@@ -54,7 +54,7 @@
             <a class="content-nav column-two inview" href="andres-thuerlimann" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-andres-thuerlimann.jpg" alt="falkenstein-advokatur-andres-thuerlimann" >
-                    <img class="img2" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Andres Thürlimann
@@ -63,7 +63,7 @@
             <a class="content-nav column-two inview" href="tanja-ivanovic" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-ivanovic" >
-                    <img class="img2" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Tanja Ivanovic
