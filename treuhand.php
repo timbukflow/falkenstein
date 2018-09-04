@@ -17,7 +17,7 @@
             <a class="content-nav column-two inview" href="maria-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
-                    <img class="img2" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
+                    <img class="img2 mobile" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Maria Rempfler
@@ -26,7 +26,7 @@
             <a class="content-nav column-two inview" href="werner-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-treuhand-werner-rempfler.jpg" alt="falkenstein-treuhand-werner-rempfler" >
-                    <img class="img2" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
+                    <img class="img2 mobile" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Werner Rempfler
@@ -35,7 +35,7 @@
             <a class="content-nav column-two inview" href="roger-schai" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-treuhand-roger-schai.jpg" alt="falkenstein-treuhand-roger-schai" >
-                    <img class="img2" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
+                    <img class="img2 mobile" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Roger Schai
