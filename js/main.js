@@ -55,9 +55,8 @@ $(document).ready(function () {
         }, 700);
     
     });
-
     
-    // Disclaimer
+    // disclaimer
     
      $('.accfooter').click(function() {
         $accordion_line = $(this).children('span');
@@ -74,7 +73,7 @@ $(document).ready(function () {
         } 
     });
 
-    // Story FadeIn
+    // story fadeIn
     
     $(window).scroll(function() {
         $('.inview').each(function(i) {
@@ -89,11 +88,60 @@ $(document).ready(function () {
         }); 
     }).scroll();
     
+    // responsive people inview change img 
+    
+    /*
+    
+     if (objectBottom < windowBottom) { //object comes into view (scrolling down)
+        if ($(this).css("opacity")==0) {$(this).fadeTo(500,1);}
+      } else { //object goes out of view (scrolling up)
+        if ($(this).css("opacity")==1) {$(this).fadeTo(500,0);}
+      }
+      
+    */
+    
+    $(window).scroll(function() {
+        $('.mobile-inview').each(function(i) {
+            var bottom_of_object = $(this).offset().top + $(this).outerHeight();
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+            
+            if( bottom_of_window > bottom_of_object ) {
+                $(this).addClass('mobile-hover');
+            } else {
+                $(this).removeClass('mobile-hover');
+            }
+        }); 
+    }).scroll();
+    
     // weiter lesen
     
     $('.wl').click(function() {
         $(this).siblings('.wl-hidden').fadeIn();
         $(this).css("display", "none")
     });
+    
+    
+    // adds mobile class, and mobile os to html tag
+    
+        var deviceAgent = navigator.userAgent.toLowerCase();
+        
+        if (deviceAgent.match(/(iphone|ipod|ipad)/)) {
+          $('.mobile').addClass('mobile-inview');
+          $('.mobile').addClass('mobile-inview');
+        }
+        
+        if (deviceAgent.match(/android/)) {
+          $('.mobile').addClass('mobile-inview');
+          $('.mobile').addClass('mobile-inview');
+        }
+        
+        if (deviceAgent.match(/blackberry/)) {
+          $('.mobile').addClass('mobile-inview');
+          $('.mobile').addClass('mobile-inview');
+        }
+        
+        if (deviceAgent.match(/(symbianos|^sonyericsson|^nokia|^samsung|^lg)/)) {
+          $('.mobile').addClass('mobile-inview');
+        }
     
 });

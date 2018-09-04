@@ -18,7 +18,7 @@
             <a class="content-nav column-two inview" href="christa-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
-                    <img class="img2" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
+                    <img class="img2 mobile-inview" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Christa Rempfler
