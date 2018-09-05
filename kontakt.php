@@ -34,25 +34,107 @@
             </h3>
         </section>
         
-        <a class="content-nav column-two top-c-img contact-resp inview" href="franziska-sutter" target="_top">
-            <div class="container-img">
-                <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter.jpg" alt="falkenstein-sekretariat-franziska-sutter" >
-                <img class="img2" src="img/falkenstein-sekretariat-franziska-sutter-wandern.jpg" alt="falkenstein-sekretariat-franziska-sutter-wandern" >
-            </div>
-            <h3 class="nav">
-                <span class="line">&#x0007C;</span>Franziska Sutter
-            </h3>
-        </a>
-        <a class="content-nav column-two top-c-img contact-resp inview" href="fabienne-frei" target="_top">
-            <div class="container-img">
-                <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei.jpg" alt="falkenstein-sekretariat-fabienne-frei" >
-                <img class="img2" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
-            </div>
-            <h3 class="nav">
-                <span class="line">&#x0007C;</span>Fabienne Frei
-            </h3>
-        </a>        
+        <div class="column-map container-img inview">
+            <div id="map"></div>
+        </div>        
     </div>
+    
+    <script>
+        function initMap() {
+        var styledMapType = new google.maps.StyledMapType(
+            [{"elementType": "geometry","stylers": [{"color": "#f5f5f5"}]},
+             {"elementType": "labels.icon","stylers": [{"visibility": "off"}]},
+             {"elementType": "labels.text.fill","stylers": [{"color": "#616161"}]},
+             {"elementType": "labels.text.stroke","stylers": [{"color": "#f5f5f5"}]},
+             {"featureType": "administrative.land_parcel","elementType": "labels.text.fill","stylers": [{"color": "#bdbdbd"}]},
+             {"featureType": "poi","elementType": "geometry","stylers": [{"color": "#eeeeee"}]},{"featureType": "poi","elementType": "labels.text.fill","stylers": [{"color": "#757575"}]},
+             {"featureType": "poi.park","elementType": "geometry","stylers": [{"color": "#e5e5e5"}]},{"featureType": "poi.park","elementType": "labels.text.fill","stylers": [{"color": "#9e9e9e"}]},
+             {"featureType": "road","elementType": "geometry","stylers": [{"color": "#ffffff"}]},{"featureType":"road.arterial","elementType": "labels.text.fill","stylers": [{"color": "#757575"}]},{"featureType": "road.highway","elementType": "geometry","stylers": [{"color": "#dadada"}]},
+                {
+                    "featureType": "road.highway",
+                    "elementType": "labels.text.fill",
+                    "stylers": [
+                        {
+                            "color": "#616161"
+                        }
+                    ]
+                },
+                {
+                    "featureType": "road.highway.controlled_access",
+                    "elementType": "geometry.fill",
+                    "stylers": [
+                        {
+                            "color": "#0a387a"
+                        }
+                    ]
+                },
+                {
+                    "featureType": "road.local",
+                    "elementType": "labels.text.fill",
+                    "stylers": [
+                        {
+                            "color": "#9e9e9e"
+                        }
+                    ]
+                },
+                {
+                    "featureType": "transit.line",
+                    "elementType": "geometry",
+                    "stylers": [
+                        {
+                            "color": "#e5e5e5"
+                        }
+                    ]
+                },
+                {
+                    "featureType": "transit.station",
+                    "elementType": "geometry",
+                    "stylers": [
+                        {
+                            "color": "#eeeeee"
+                        }
+                    ]
+                },
+                {
+                    "featureType": "water",
+                    "elementType": "geometry",
+                    "stylers": [
+                        {
+                            "color": "#c9c9c9"
+                        }
+                    ]
+                },
+                {
+                    "featureType": "water",
+                    "elementType": "labels.text.fill",
+                    "stylers": [
+                        {
+                            "color": "#9e9e9e"
+                        }
+                    ]
+                }
+            ],
+        {name: 'Styled Map'});
+         var map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat: 47.430176, lng: 9.392557},
+            zoom: 14,
+            disableDefaultUI: true,
+        });
+        
+        var image = {
+            url: 'img/marker.svg',
+            scaledSize: new google.maps.Size(46, 46),
+        }
+         var falkensteinMarker = new google.maps.Marker({
+            position: {lat: 47.430176, lng: 9.392557},
+            map: map,
+            optimized: false,
+            icon: image,
+        });
+        map.mapTypes.set('styled_map', styledMapType);
+        map.setMapTypeId('styled_map');
+        }
+    </script>
    
     
     <?php include 'include/footer.php'; ?>
@@ -62,6 +144,8 @@
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaMyYyCYt5gnKomtPgBPCFKkPoNTdgtK8&callback=initMap"
+    async defer></script>
  
 </body>
 
