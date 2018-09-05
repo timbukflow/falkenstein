@@ -1,6 +1,6 @@
 $(document).ready(function () {
     
-    //Dropdown Navigation
+    // Dropdown Navigation
     
     $('.dropTitle').click(function() {
         $drop_line = $(this).children('span');
@@ -13,7 +13,7 @@ $(document).ready(function () {
        
     });
     
-    //Responsive Navigation
+    // Responsive Navigation
     
     $('.menusmall').click(function() {
         $(this).children('span').toggleClass('lineactive');
@@ -21,6 +21,14 @@ $(document).ready(function () {
         $('body').toggleClass('noscroll');
 
     });
+    
+    // Rechtsgebite
+    
+    $(".rechtsgebiete").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#rechtsgebiete").offset().top - 120
+    }, 1500);
+});
     
     // Accordion
     

@@ -131,6 +131,7 @@ p,
 table,
 .nav, 
 .nummer,
+.advonummer,
 .story,
 .contact h3, 
 .contact h3 a {
@@ -156,6 +157,10 @@ h3,
 .contact h3 a {
     font-size: 18px;
     display: block;
+}
+
+.advonummer{
+    font-size: 18px;
 }
 
 .gray, 
@@ -459,6 +464,17 @@ td {
     margin-left: 25px;
 }
 
+.rechtsgebiete {
+    position: absolute;
+    top: 70px;
+    left: 35px;
+    cursor: pointer;
+}
+
+.nomargin {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
 
 /* ==========================================================================
    image
