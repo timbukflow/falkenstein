@@ -55,7 +55,7 @@
                         </tr>
                         <tr>
                             <td class="publyear">01.07.2008</td>
-                            <td class="publ">Urteilsfähigkeit. Generelle Aspekte, Urteilsfähigkeit als Ehevoraussetzung, zum Testieren, zum willentlichen Sterben sowie Screening-Tools. Zürich 2008. ISBN 978-3-03751-102-2. 199 Seiten, broschiert.</td>
+                            <td class="publ">Urteilsfähigkeit. Generelle Aspekte, Urteilsfähigkeit als Ehevoraussetzung, zum Testieren, zum willentlichen Sterben sowie Screening-Tools. Zürich 2008, 199 Seiten, broschiert. ISBN 978-3-03751-102-2. </td>
                         </tr>
                         <tr>
                             <td class="publyear">06.01.2006</td>
@@ -76,7 +76,7 @@
                     <table>
                         <tr>
                             <td class="publyear">20.06.2011</td>
-                            <td class="publ">Urteilsbesprechung des Entscheides des Europäischen Gerichtshofes für Menschenrechte Nr. 31322/07 vom 20.01.2011 in Sachen Haas gegen die Schweiz (rezeptfreie Abgabe von Natrium-Pentobarbital) in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 06/2011.</td>
+                            <td class="publ">Urteilsbesprechung des Entscheides des Europäischen Gerichtshofes für Menschenrechte Nr. 31322/07 vom 20.01.2011 in Sachen Haas gegen die Schweiz (rezeptfreie Abgabe von Natrium-Pentobarbital). In: &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 06/2011.</td>
                         </tr>
                         <tr>
                             <td class="publyear">03.02.2009</td>
@@ -88,15 +88,15 @@
                         </tr>
                         <tr>
                             <td class="publyear">26.03.2007</td>
-                            <td class="publ">Off-Label. Rechtliche Überlegungen zum Off-Label Use von Pharmazeutika. Aufsatz in: HILL (Health Insurance Liability Law; Ref. HILL 2007 II N. 2), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
+                            <td class="publ">Off-Label. Rechtliche Überlegungen zum Off-Label Use von Pharmazeutika. In: HILL (Health Insurance Liability Law; Ref. HILL 2007 II N. 2), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
                         </tr>
                         <tr>
                             <td class="publyear">21.02.2007</td>
-                            <td class="publ">Urteilsbesprechung des Bundesgerichtsentscheids BGE 2A.48/2006 resp. 2A.66/2006 vom 03.11.2006 bezüglich rezeptfreie Abgabe von Natrium-Pentobarbital (NaP) in: HILL (Health Insurance and Liability Law), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
+                            <td class="publ">Urteilsbesprechung des Bundesgerichtsentscheids BGE 2A.48/2006 resp. 2A.66/2006 vom 03.11.2006 bezüglich rezeptfreie Abgabe von Natrium-Pentobarbital (NaP). In: HILL (Health Insurance and Liability Law), publiziert in der Swisslex-JurInfothek (www.swisslex.ch).</td>
                         </tr>
                         <tr>
                             <td class="publyear">10.04.2006</td>
-                            <td class="publ">Rechtliche Überlegungen zur Rezeptierung von Natrium-Pentobarbital. Aufsatz in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 04/2006.</td>
+                            <td class="publ">Rechtliche Überlegungen zur Rezeptierung von Natrium-Pentobarbital. In: &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 04/2006.</td>
                         </tr>
                     </table>
                 </div>
@@ -117,11 +117,11 @@
                         </tr>
                         <tr>
                             <td class="publyear">31.03.2005</td>
-                            <td class="publ">Rechte und Pflichten des Arbeitgebers gegenüber psychisch kranken oder labilen Arbeitnehmern. Aufsatz in &laquo;Zeitschrift für Arbeitsrecht und Arbeitslosenversicherung&raquo; (ARV) 1/2005.</td>
+                            <td class="publ">Rechte und Pflichten des Arbeitgebers gegenüber psychisch kranken oder labilen Arbeitnehmern. In: &laquo;Zeitschrift für Arbeitsrecht und Arbeitslosenversicherung&raquo; (ARV) 1/2005.</td>
                         </tr>
                         <tr>
                             <td class="publyear">20.11.2004</td>
-                            <td class="publ">Selbstbestimmungsrecht als Ausgangspunkt. Die Suizidproblematik verlangt einen neuen Ansatz für eine wirksame Prävention. Artikel in der &laquo;Neuen Zürcher Zeitung&raquo; vom 20./21.11.2004, Rubrik Zeitfragen.</td>
+                            <td class="publ">Selbstbestimmungsrecht als Ausgangspunkt. Die Suizidproblematik verlangt einen neuen Ansatz für eine wirksame Prävention. In: &laquo;Neue Zürcher Zeitung&raquo; vom 20./21.11.2004, Rubrik Zeitfragen.</td>
                         </tr>
                     </table>
                 </div>
@@ -130,15 +130,15 @@
                     <table>
                         <tr>
                             <td class="publyear">18.09.2008</td>
-                            <td class="publ">Rezension von &laquo;Sport, Ethics and Philosophy&raquo;, der British Philosophy of Sport Associaton in Causa Sport 3/2008.</td>
+                            <td class="publ">Rezension von &laquo;Sport, Ethics and Philosophy&raquo;, der British Philosophy of Sport Associaton. In: Causa Sport 3/2008.</td>
                         </tr>
                         <tr>
                             <td class="publyear">30.06.2005</td>
-                            <td class="publ">Sport und Ganzheit. Aufsatz in Causa Sport 02/2005.</td>
+                            <td class="publ">Sport und Ganzheit. In: Causa Sport 02/2005.</td>
                         </tr>
                         <tr>
                             <td class="publyear">15.01.2005</td>
-                            <td class="publ">FIFA-Reglement als anationales materielles Recht? Aufsatz in Causa Sport 3/4/2004 von lic. iur. Christa Rempfler.</td>
+                            <td class="publ">FIFA-Reglement als anationales materielles Recht? In: Causa Sport 3/4/2004 von lic. iur. Christa Rempfler.</td>
                         </tr>
                     </table>
                 </div>
@@ -147,11 +147,11 @@
                     <table>
                         <tr>
                             <td class="publyear">23.08.2012</td>
-                            <td class="publ">Auskunftsperson oder Beschuldigter? Aufsatz in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 08/2012.</td>
+                            <td class="publ">Auskunftsperson oder Beschuldigter? In: &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 08/2012.</td>
                         </tr>
                         <tr>
                             <td class="publyear">11.12.2006</td>
-                            <td class="publ">Litigation Communication - Wenn rechtliche Auseinandersetzungen die Reputation gefährden. Aufsatz in: Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht (ZZZ) 9/2006.</td>
+                            <td class="publ">Litigation Communication - Wenn rechtliche Auseinandersetzungen die Reputation gefährden. In: Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht (ZZZ) 9/2006.</td>
                         </tr>
                         <tr>
                             <td class="publyear">08.12.2006</td>
@@ -159,7 +159,7 @@
                         </tr>
                         <tr>
                             <td class="publyear">10.04.2005</td>
-                            <td class="publ">Zivilprozess und psychische Belastung: Über die Berücksichtigung des Faktors der psychischen Belastung eines Zivilprozesses für Klient und Anwalt. Aufsatz in &laquo;Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht&raquo; (ZZZ) 4/2004.</td>
+                            <td class="publ">Zivilprozess und psychische Belastung: Über die Berücksichtigung des Faktors der psychischen Belastung eines Zivilprozesses für Klient und Anwalt. In: &laquo;Schweizerische Zeitschrift für Zivilprozess- und Zwangsvollstreckungsrecht&raquo; (ZZZ) 4/2004.</td>
                         </tr>
                     </table>
                 </div>
