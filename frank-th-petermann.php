@@ -168,7 +168,7 @@
                     <table>
                         <tr>
                             <td class="publyear">19.05.2016</td>
-                            <td class="publ">Legalitätsprinzip bezüglich unbestimmter Rechtsbegriffe im Exportkontrollrecht - ein explosives Gemisch! Aufsatz in der Zeitschrift &laquo;Sicherheit und Recht&raquo; 1/2016.</td>
+                            <td class="publ">Legalitätsprinzip bezüglich unbestimmter Rechtsbegriffe im Exportkontrollrecht - ein explosives Gemisch! In: Zeitschrift &laquo;Sicherheit und Recht&raquo; 1/2016.</td>
                         </tr>
                         <tr>
                             <td class="publyear">01.12.2015</td>
@@ -176,11 +176,11 @@
                         </tr>
                         <tr>
                             <td class="publyear">10.09.2014</td>
-                            <td class="publ">Dual-Use. Aspekte des Bundesgesetzes über die Kontrolle zivil und militärisch verwendbarer Güter sowie besonderer militärischer Güter und der Güterlisten. Zürich/St.Gallen 2014, XXXVII, 228 Seiten, gebunden, ISBN 978-3-03751-650-8.</td>
+                            <td class="publ">Dual-Use. Aspekte des Bundesgesetzes über die Kontrolle zivil und militärisch verwendbarer Güter sowie besonderer militärischer Güter und der Güterlisten. Zürich/St.Gallen 2014, XXXVII, 228 Seiten, gebunden. ISBN 978-3-03751-650-8.</td>
                         </tr>
                         <tr>
                             <td class="publyear">28.06.2012</td>
-                            <td class="publ">Compliance im Exportkontrollecht - rechtliche Überlegungen zur Ausfuhrprüfung von Dual-Use Gütern. Aufsatz in &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 06/2012.</td>
+                            <td class="publ">Compliance im Exportkontrollecht - rechtliche Überlegungen zur Ausfuhrprüfung von Dual-Use Gütern. In: &laquo;Aktuelle Juristische Praxis&raquo; (AJP) 06/2012.</td>
                         </tr>
                     </table>
                 </div>

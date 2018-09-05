@@ -25,13 +25,13 @@
         <div class="column-three img-home">
             <div class="container-img inview">
                 <img class="img1" src="img/falkenstein-advokatur-treuhand-start-2a.jpg" alt="falkenstein-advokatur-treuhand-home" >
-                <img class="img2" src="img/falkenstein-advokatur-treuhand-start-2b.jpg" alt="falkenstein-advokatur-treuhand-home" >
+                <img class="img2 mobile" src="img/falkenstein-advokatur-treuhand-start-2b.jpg" alt="falkenstein-advokatur-treuhand-home" >
             </div>
         </div> 
         <div class="column-three img-home">
             <div class="container-img inview">
                 <img class="img1" src="img/falkenstein-advokatur-treuhand-start-1a.jpg" alt="falkenstein-advokatur-treuhand-home" >
-                <img class="img2" src="img/falkenstein-advokatur-treuhand-start-1b.jpg" alt="falkenstein-advokatur-treuhand-home" >
+                <img class="img2 mobile" src="img/falkenstein-advokatur-treuhand-start-1b.jpg" alt="falkenstein-advokatur-treuhand-home" >
             </div>
         </div>
          

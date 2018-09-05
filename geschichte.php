@@ -25,7 +25,7 @@
         <div class="column-six content-story-img">
             <div class="container-img inview">
                 <img class="img1" src="img/falkenstein-advokatur-geschichte-a.jpg" alt="falkenstein-advokatur-treuhand-home" >
-                <img class="img2" src="img/falkenstein-advokatur-geschichte-b.jpg" alt="falkenstein-advokatur-treuhand-home" >
+                <img class="img2 mobile" src="img/falkenstein-advokatur-geschichte-b.jpg" alt="falkenstein-advokatur-treuhand-home" >
             </div>
         </div> 
         
