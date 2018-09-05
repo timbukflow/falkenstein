@@ -127,12 +127,8 @@
                 </p>   
         </article>
         <article class="content-left column-four nomargin inview accordion">
-                <p>Haben Sie ein anderes juristisches Problem oder möchten Sie eine unverbindliche Beratung?<br><span class="gray">Kontaktieren Sie unser Sekretariat telefonisch unter <a class="advonummer" href="tel:0712426650">071 242 66 50</a> oder auf folgender E-Mail-Adresse: <a class="advonummer" href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>. Sollten wir Ihnen nicht weiterhelfen können, so empfehlen wir Ihnen gerne einen dafür geeigneten Berufskollegen.</span></p>
-            </article>
-        
-        <a class="nummer" href="tel:0712426650">T: 071 242 66 50</a>
-                F: 071 242 66 52
-                <a class="nummer" href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>
+            <p>Haben Sie ein anderes juristisches Problem oder möchten Sie eine unverbindliche Beratung?<br><span class="gray">Kontaktieren Sie unser Sekretariat telefonisch unter <a class="advonummer" href="tel:0712426650">071 242 66 50</a> oder auf folgender E-Mail-Adresse: <a class="advonummer" href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>. Sollten wir Ihnen nicht weiterhelfen können, so empfehlen wir Ihnen gerne einen dafür geeigneten Berufskollegen.</span></p>
+        </article>
     </div>
     
     <?php include 'include/footer.php'; ?>
