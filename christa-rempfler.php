@@ -37,7 +37,7 @@
                 </tr>
                 <tr>
                     <td class="year">2007</td>
-                    <td>Praxis als selbständige Rechtsanwältin und Notarin in St.Gallen<br>
+                    <td>Selbständige Rechtsanwältin und Notarin in St.Gallen<br>
                     </td>
                 </tr>
                 <tr>

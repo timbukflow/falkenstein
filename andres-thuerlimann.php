@@ -20,7 +20,7 @@
                 <table>
                     <tr>
                         <td class="year">2014</td>
-                        <td>Master of Law an der Universität Luzern sowie an der Université 2 in Lille, Frankreich</td>
+                        <td>Studium an der Universität Luzern und Université 2 in Lille, Frankreich, Master of Law</td>
                     </tr>
                     <tr>
                         <td class="year">2014</td>
@@ -36,10 +36,13 @@
                     </tr>
                     <tr>
                         <td class="year">2017</td>
-                        <td>Praxis als selbständiger Rechtsanwalt und Notar in St.Gallen</td>
+                        <td>Selbständiger Rechtsanwalt und Notar in St.Gallen</td>
                     </tr>
                 </table>
             </div>
+            
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
+            <p class="accList">Schweizerischer und St.Galler Anwaltsverband</p>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch und Englisch</p>

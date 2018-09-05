@@ -32,7 +32,7 @@
                     </tr>
                     <tr>
                         <td class="year">2005</td>
-                        <td>Praxis als selbständiger Rechtsanwalt und Notar in St.Gallen</td>
+                        <td>Selbständiger Rechtsanwalt und Notar in St.Gallen</td>
                     </tr>    
                 </table>
             </div>

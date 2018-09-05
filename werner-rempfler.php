@@ -20,7 +20,7 @@
                 <table>
                     <tr>
                         <td class="year">1964</td>
-                        <td>Humanistisches Gymnasium Appenzell, Matura Typus A mit Latein und Griechisch Praktische Arbeiten im historischen Landesarchiv Appenzell</td>
+                        <td>Humanistisches Gymnasium Appenzell, Matura Typus A mit Latein und Griechisch, Praktische Arbeiten im historischen Landesarchiv Appenzell</td>
                     </tr>
                     <tr>
                         <td class="year">1968</td>

@@ -37,17 +37,7 @@
                 </tr>
                 <tr>
                     <td class="year">2004</td>
-                    <td>Rechtsanwältin und Notarin in einer Anwaltskanzlei in St.Gallen<br>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="year">2007</td>
-                    <td>Mitglied einer Schlichtungsbehörde in Mietsachen, Gemeinde Roggwil TG<br>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="year">2015</td>
-                    <td>Ersatzmitglied der Prüfungskommission für Rechtsanwälte, Kanton St.Gallen<br>
+                    <td>14 Jahre Rechtsanwältin und Notarin in einer St.Galler Anwaltskanzlei<br>
                     </td>
                 </tr>
                 <tr>
@@ -57,7 +47,23 @@
                 </tr>
                 <tr>
                     <td class="year">2018</td>
-                    <td>Praxis als selbständige Rechtsanwältin und Notarin in St.Gallen<br>
+                    <td>Selbständige Rechtsanwältin und Notarin in St.Gallen<br>
+                    </td>
+                </tr>
+                </table>
+            </div>
+            
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Weitere Tätigkeiten</h3>
+            <div class="accList">
+                <table>
+                <tr>
+                    <td class="year">2007</td>
+                    <td>Mitglied der Schlichtungsbehörde in Mietsachen, Gemeinde Roggwil TG<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">2015</td>
+                    <td>Ersatzmitglied der Prüfungskommission für Rechtsanwälte, Kanton St.Gallen<br>
                     </td>
                 </tr>
                 </table>

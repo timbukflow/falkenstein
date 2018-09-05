@@ -42,7 +42,7 @@
                 </h3>
             </a>
             <article class="content-left content-imobilien column-five inview">
-                <h2><span class="contact-resp">Immobilien <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br><span class="gray">Unser Team verwaltet Wohn- und Gewerbe-Liegenschaften und besorgt dabei die internen administrativen Arbeiten wie auch die Objektverwaltung vor Ort. Bei Kauf, Verkauf, Neu- und Umfinanzierung profitieren Sie von unserer langjährigen Erfahrung und unserem breiten Beziehungsnetz. Wir erledigen für Sie auch grundbuchliche, nachbarrechtliche oder baurechtliche Aufgaben.</span></h2>
+                <h2><span class="contact-resp">Immobilien <span class="respbr"></span>am Falkenstein</span><span class="respbr"></span><br><span class="gray">Unser Team verwaltet Wohn- und Gewerbe-Liegenschaften und besorgt dabei die internen administrativen Arbeiten wie auch die Objektverwaltung vor Ort. Bei Kauf, Verkauf, Neu- und Umfinanzierung profitieren Sie von unserer langjährigen Erfahrung und unserem breiten Beziehungsnetz. Wir erledigen für Sie auch grundbuchliche, nachbar- oder baurechtliche Belange.</span></h2>
             </article>
         </article>
     </div>

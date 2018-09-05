@@ -49,8 +49,21 @@
                 </table>
             </div>
             
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
+            <p class="accList">Schweizerischer und St.Galler Anwaltsverband</p>
+            
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch, Serbisch und Englisch</p>
+            
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
+            <div class="accList">
+                <table>
+                    <tr>
+                       <td class="publyear">15.07.2017</td>
+                       <td class="publ">Genügen PDF-Dateien dem Schriftformerfordernis?, Dr. iur. Dieter Gericke, Rechtsanwalt, LL.M. und Tanja Ivanovic, MLaw, In: &laquo;Schweizerische Juristen-Zeitung&raquo; (SJZ) 113/2017.</td>
+                    </tr>
+                </table>
+            </div>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
