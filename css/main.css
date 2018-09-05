@@ -467,7 +467,7 @@ td {
 .rechtsgebiete {
     position: absolute;
     top: 70px;
-    left: 35px;
+    padding-left: 8px;
     cursor: pointer;
 }
 

@@ -12,7 +12,7 @@
     <div class="main-container">
         <a class="rechtsgebiete"><span class="line">&#x0007C;</span>Rechtsgebiete</a>
         <article class="content-top column-five">
-            <h1><span class="contact-resp">Advokatur <span class="respbr"></span>am Falkenstein</span><span class="respbr "></span><br><span class="gray">Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. <span class="wl">weiter lesen</span><span class="wl-hidden">Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.<br><br>Aufgrund der unterschiedlichen Spezialisierungen der Anwälte können wir Ihnen in sämtlichen Lebensbereichen kompetente Beratung bieten. Wir decken umfassend sämtliche Rechtsgebiete ab, mit denen Sie im Alltag und Beruf in Berührung kommen. Wenn Ihr Anliegen bei den Rechtsgebieten nicht aufgeführt ist, zögern Sie nicht, uns anzurufen.</span></span></h1>
+            <h1><span class="contact-resp">Advokatur <span class="respbr"></span>am Falkenstein</span><span class="respbr "></span><br><span class="gray">Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. <span class="wl">weiter lesen</span><span class="wl-hidden">Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.</span></span></h1>
         </article>
         
         <article>
@@ -71,13 +71,9 @@
                 </h3>
             </a>
             
-<!--        <article class="content-left column-five inview">
+            <article class="content-left column-five inview" id="rechtsgebiete">
                 <h2><span class="gray">Aufgrund der unterschiedlichen Spezialisierungen der Anwälte können wir Ihnen in sämtlichen Lebensbereichen kompetente Beratung bieten. Wir decken umfassend sämtliche Rechtsgebiete ab, mit denen Sie im Alltag und Beruf in Berührung kommen. Wenn Ihr Anliegen bei den Rechtsgebieten nicht aufgeführt ist, zögern Sie nicht, uns anzurufen.</span></h2>
             </article>
--->
-            <article class="content-left column-five inview" id="rechtsgebiete">
-                <h2><span class="gray">Rechtsgebiete</span></h2>
-            </article>    
         </article>
         <article class="column-four accordion accordion-advo nomargin inview">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Betreibungs- und Konkursrecht</h3>

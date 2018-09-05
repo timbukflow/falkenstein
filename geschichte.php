@@ -10,16 +10,16 @@
     <?php $page = 'geschichte'; include 'include/header.php'; ?>
     
     <div class="main-container">
-        <article class="column-four storystyle storytop inview">
+        <article class="column-four storystyle storytop storystyle-left inview">
             <h4>1968 &#8211;<span class="gray">1983</span></h4>
-                    <h2 class="gray story-bottom">Der Patron, lic. iur. Werner Rempfler, ist 1968 in die Advokatur eingestiegen. Nach den ersten 15 Jahren als intensiv tätiger Prozessanwalt konnte er 1983 die in der Jahrhundertwende während der St. Galler Textilblüte erbaute Eckliegenschaft an der Falkensteinstrasse 1 in St. Gallen-St. Fiden käuflich erwerben.
-                    </h2>
+                <h2 class="gray story-bottom">Der Patron, lic. iur. Werner Rempfler, ist 1968 in die Advokatur eingestiegen. Nach den ersten 15 Jahren als intensiv tätiger Prozessanwalt konnte er 1983 die in der Jahrhundertwende während der St. Galler Textilblüte erbaute Eckliegenschaft an der Falkensteinstrasse 1 in St. Gallen-St. Fiden käuflich erwerben.
+                </h2>
                 
         </article>
-        <article class="column-four storystyle storystyle-left inview">
+        <article class="column-four storystyle inview">
             <h4>1983 &#8211;<span class="gray">1996</span></h4>
-                    <h2 class="gray story-bottom">Schritt um Schritt hat er die Immobilie, die beim Kauf noch unverändert den Stand von 1900 aufwies, auf den neuesten Stand gebracht. Das &laquo;Milchlädeli&raquo; im Erdgeschoss mutierte zum Ladengeschäft, die Wohnung im 1. OG wurde zum Anwaltsbüro. Im Jahre 1996 erfolgte der Ausbau des Daches zum zweigeschossigen weiteren Büro.
-                    </h2>
+                <h2 class="gray story-bottom">Schritt um Schritt hat er die Immobilie, die beim Kauf noch unverändert den Stand von 1900 aufwies, auf den neuesten Stand gebracht. Das &laquo;Milchlädeli&raquo; im Erdgeschoss mutierte zum Ladengeschäft, die Wohnung im 1. OG wurde zum Anwaltsbüro. Im Jahre 1996 erfolgte der Ausbau des Daches zum zweigeschossigen weiteren Büro.
+                </h2>
         </article>
         
         <div class="column-six content-story-img">
@@ -29,10 +29,28 @@
             </div>
         </div> 
         
+        <article class="column-four storystyle storystyle-left inview">
+            <h4>1999</h4>
+                <h2 class="gray story-bottom">Im letzten Jahr des alten Jahrtausends erfuhr die Kanzlei ihre erste personelle Erweiterung, als RA Dr. Petermann als Kanzleipartner hinzukam. Mit ihm weitete sich die Tätigkeit der Kanzlei in Richtung wissenschaftliche Forschung und juristische Publikationen aus.
+                </h2>
+        </article>
+        
+        <article class="column-four storystyle inview">
+            <h4>2005 &#8211;<span class="gray">2007</span></h4>
+                <h2 class="gray story-bottom">Die ersten beiden Anwaltspraktikanten der Kanzlei, RA Rolf W. Rempfler und RA Christa Rempfler, kamen als neue Partner hinzu.
+                </h2>
+        </article>
+         
+        <article class="column-four storystyle storystyle-left inview">
+            <h4>2017</h4>
+                <h2 class="gray story-bottom">RA Andres Thürlimann erweitert als selbständiger Rechtsanwalt die Kanzleigemeinschaft.
+                </h2>
+        </article>
+        
         <article class="column-four storystyle inview">
             <h4>2018</h4>
-                    <h2 class="gray story-bottom">Im 50. Jahr der Tätigkeit von lic. iur. Werner Rempfler startet jetzt im Jahr 2018 das Advokatur- und Treuhandbüro auf vier Geschossen mit sechs Rechtsanwälten und sechs Mitarbeitern. Das schmuck renovierte Geschäftshaus möge dem Team und seinen Klienten und Kunden Glück und Erfolg bringen, getreu der Marmortafel am Haus: &laquo;iustitia vincit&raquo;.
-                    </h2>
+                <h2 class="gray story-bottom">Im 50. Jubiläumsjahr der Kanzlei verstärken RA Debora Bilgeri als selbständige Rechtsanwältin und RA Tanja Ivanovic das Team. Das Geschäftszentrum mit dem Advokatur- und Treuhandbüro startet auf vier Geschossen mit sechs Rechtsanwälten und sechs Mitarbeitern in die nächsten 50 Jahre. Im schmuck renovierten Geschäftshaus möge dem Team und seinen Klienten und Kunden Glück und Erfolg beschieden sein, getreu der Marmortafel am Haus: &laquo;iustitia vincit&raquo;.
+                </h2>
         </article>
         
     </div>
