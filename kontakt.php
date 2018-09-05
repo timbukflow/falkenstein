@@ -60,7 +60,7 @@
         {name: 'Styled Map'});
          var map = new google.maps.Map(document.getElementById('map'), {
             center: {lat: 47.430176, lng: 9.392557},
-            zoom: 14,
+            zoom: 13,
             disableDefaultUI: true,
         });
         
