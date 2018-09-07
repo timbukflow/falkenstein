@@ -72,7 +72,7 @@
             </a>
             
             <article class="content-left column-five inview" id="rechtsgebiete">
-                <h2><span class="gray">Aufgrund der unterschiedlichen Spezialisierungen der Anwälte können wir Ihnen in sämtlichen Lebensbereichen kompetente Beratung bieten. Wir decken umfassend sämtliche Rechtsgebiete ab, mit denen Sie im Alltag und Beruf in Berührung kommen. Wenn Ihr Anliegen bei den Rechtsgebieten nicht aufgeführt ist, zögern Sie nicht, uns anzurufen.</span></h2>
+                <h2><span class="gray">Aufgrund der unterschiedlichen Spezialisierungen der Anwälte können wir Ihnen in sämtlichen Lebensbereichen kompetente Beratung bieten. Wir decken umfassend sämtliche Problembereiche ab, mit denen Sie im Alltag und Beruf in Berührung kommen. Wenn Ihr Anliegen bei den Rechtsgebieten nicht aufgeführt ist, zögern Sie nicht, uns anzurufen.</span></h2>
             </article>
         </article>
         <article class="column-four accordion accordion-advo nomargin inview">

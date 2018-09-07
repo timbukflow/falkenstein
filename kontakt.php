@@ -14,11 +14,10 @@
             <h3>
                 Advokatur und Treuhand<br>
                 am Falkenstein<br>
-                <a href="https://www.google.ch/maps/dir//Falkensteinstrasse+1,+9000+St.+Gallen/@47.4299966,9.3870661,15z" title="Route mit Google berechnen" target="_blank">
                 Falkensteinstrasse 1<br>
                 Postfach 152<br>
                 9016 St.Gallen<br>
-                </a><br>
+                <a href="https://www.google.ch/maps/dir//Falkensteinstrasse+1,+9000+St.+Gallen/@47.4299966,9.3870661,15z" target="_blank"><span class="gray" >Route mit Google berechnen</span></a><br>
                 Advokatur<br>
                 <span class="gray">
                     <a href="tel:0712426650">T: 071 242 66 50</a>
