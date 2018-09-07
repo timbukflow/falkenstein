@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="Treuhand am Falkenstein, Bereich Geschäftsgründung und Unternehmensberatung, Beratung bei der Auswahl der passenden Geschäfts- und Gesellschaftsform, Firmagründung und Firmastrukturierung, Einrichtung und Führung der Buchhaltung, Verwaltung von Sitz- und Holdinggesellschaften, Steuerliche Optimierung, Finanzierungsmodelle, Neu- und Refinanzierungen, Nachfolgeregelung, Liquidationen und Erbteilung, Immobilien am Falkenstein, Verwaltung von Gewerbe- und Wohnliegenschaften, Vorbereitung und Durchführung des Immobilien-Ein- und Verkaufs, Begleitung im Baubewilligungs-Verfahren, Beratung und Abschluss von Verträgen für Kauf/Verkauf, Miete, Baurecht, Dienstbarkeiten, Wohnrechte, Architektur- und Werkleistungen.">
+    <meta name="description" content="Treuhand am Falkenstein. Wir bieten Ihnen die umfassende Beratung in allen geschäftlichen Belangen an, sei dies bei der Auswahl der passenden Geschäfts- und Gesellschaftsform oder bei der Gründung oder Umstrukturierung Ihrer Firma. Wir verwalten auch Ihre Sitz- oder Holding-Gesellschaft mit Vollmacht oder als eingetragene Geschäftsführer. Ein weiterer Schwerpunkt unserer Tätigkeit liegt bei Nachfolge-Regelungen, Liquidationen und Erbteilungen.">
 </head>
 
 <body>

@@ -5,7 +5,7 @@
     <meta name="robots" content="index, follow">
     <meta name="author" content="Advokatur und Treuhand am Falkenstein">
 
-    <meta name="keywords" content="Advokatur, Treuhand, Immobilien, Falkenstein, Frank Th. Petermann, Rolf W. Rempfler, Christa Rempfler, Debora Bilgeri, Andres Thürlimann, Tanja Ivanovic, Werner Rempfler, Maria Rempfler, Roger Schai,">
+    <meta name="keywords" content="Advokatur, Treuhand, Immobilien, Falkenstein, Frank Th. Petermann, Rolf W. Rempfler, Christa Rempfler, Debora Bilgeri, Andres Thürlimann, Tanja Ivanovic, Werner Rempfler, Maria Rempfler, Roger Schai, Betreibungs- und Konkursrecht, Erbrecht und Vorsorge, Exportkontrollrecht, Familienrecht mit Kindes- und Erwachsenenschutzrecht, Firmengründung und -führung, Medizinalrecht, Pharmarecht, Rufschädigungen und Europäische Menschenrechtskonvention (EMRK), Sozial- und Privatversicherungsrecht mit Haftpflichtrecht, Steuerrecht, Strafrecht, Strassenverkehrsrecht, Vertragsrecht, Verwaltungs-, Bau- und Planungsrecht, Sachenrecht (Dienstbarkeiten, etc.),">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="Falkenstein.ag">
@@ -14,7 +14,6 @@
     <meta property="og:type" content="business.business">
     <meta property="og:title" content="Advokatur und Treuhand am Falkenstein">
     <meta property="og:url" content="http://falkenstein.ag">
-    <meta property="og:image" content="..."><!-- definieren Bild von Haus -->
     <meta property="business:contact_data:street_address" content="Falkensteinstrasse 1">
     <meta property="business:contact_data:locality" content="St.Gallen">
     <meta property="business:contact_data:region" content="9016">

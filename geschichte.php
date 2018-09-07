@@ -2,7 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="..."><!-- definieren -->
+    <meta name="description" content="Geschichte der Advokatur und Treuhand
+am Falkenstein">
 </head>
 
 <body>
