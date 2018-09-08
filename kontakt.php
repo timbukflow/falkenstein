@@ -70,7 +70,7 @@
          var falkensteinMarker = new google.maps.Marker({
             position: {lat: 47.430176, lng: 9.392557}, 
             map: map,
-            
+            optimized: false,
             icon: image,
         });
         map.mapTypes.set('styled_map', styledMapType);
