@@ -65,12 +65,12 @@
         
         var image = {
             url: 'img/marker.svg',
-            scaledSize: new google.maps.Size(46, 46),
+            scaledSize: new google.maps.Size(32, 44),
         }
          var falkensteinMarker = new google.maps.Marker({
-            position: {lat: 47.430176, lng: 9.392557},
+            position: {lat: 47.430176, lng: 9.392557}, 
             map: map,
-            optimized: false,
+            
             icon: image,
         });
         map.mapTypes.set('styled_map', styledMapType);
