@@ -72,7 +72,7 @@
             <img class="img1" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Alles was Sie hier sehen, verdanke ich Spaghetti&raquo; <br><i>(Sophia Lauren)</i></h4>
+            <h4>&laquo;Alles was Sie hier sehen, verdanke ich Spaghetti&raquo; <br><i>(Sophia Loren)</i></h4>
         </article>
     </div>
     
