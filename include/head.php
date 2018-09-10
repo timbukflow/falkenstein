@@ -4,7 +4,8 @@
     <meta name="robots" content="all">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Advokatur und Treuhand am Falkenstein">
-
+    
+    <meta name="google-site-verification" content="a1HQiYpPonscftm-7z0OYnCmVsOfnUlEfpR6gpgd0fg" />
     <meta name="keywords" content="Advokatur, Treuhand, Immobilien, Falkenstein, Frank Th. Petermann, Rolf W. Rempfler, Christa Rempfler, Debora Bilgeri, Andres Thürlimann, Tanja Ivanovic, Werner Rempfler, Maria Rempfler, Roger Schai, Betreibungs- und Konkursrecht, Erbrecht und Vorsorge, Exportkontrollrecht, Familienrecht mit Kindes- und Erwachsenenschutzrecht, Firmengründung und -führung, Medizinalrecht, Pharmarecht, Rufschädigungen und Europäische Menschenrechtskonvention (EMRK), Sozial- und Privatversicherungsrecht mit Haftpflichtrecht, Steuerrecht, Strafrecht, Strassenverkehrsrecht, Vertragsrecht, Verwaltungs-, Bau- und Planungsrecht, Sachenrecht (Dienstbarkeiten, etc.),">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-capable" content="yes">
