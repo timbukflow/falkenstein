@@ -54,6 +54,13 @@ am Falkenstein">
                 </h2>
         </article>
         
+        <div class="column-six content-story-img">
+            <div class="container-img inview">
+                <img class="img1" src="img/falkenstein-advokatur-haus-a.jpg" alt="falkenstein-advokatur-iustitia-vincit" >
+                <img class="img2 mobile" src="img/falkenstein-advokatur-haus-b.jpg" alt="falkenstein-advokatur-iustitia-vincit" >
+            </div>
+        </div>
+        
     </div>
     
     <?php include 'include/footer.php'; ?>
