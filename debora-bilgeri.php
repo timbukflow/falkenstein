@@ -28,7 +28,7 @@
                 </tr>
                 <tr>
                     <td class="year">2002</td>
-                    <td>Gerichts- und Anwaltspraktikum</td>
+                    <td>Gerichts- und Anwaltspraktikum im Thurgau und St.Gallen</td>
                 </tr>
                 <tr>
                     <td class="year">2004</td>
