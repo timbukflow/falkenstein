@@ -50,6 +50,11 @@
                     <td>CAS IRP-HSG Haftpflicht- und Versicherungsrecht, Universität St.Gallen<br>
                     </td>
                 </tr>
+                <tr>
+                    <td class="year">2018</td>
+                    <td>Grundausbildung Mediation, Konstanzer Schule für Mediation<br>
+                    </td>
+                </tr>
                 </table>
             </div>
             
