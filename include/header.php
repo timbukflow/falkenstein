@@ -16,7 +16,6 @@
             <div class="dropList subnav-resp">
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Advokatur</p>
                 <a href="christa-rempfler" target="_top"><span class="line">&#x0007C;</span>Christa Rempfler</a>
-                <a href="frank-th-petermann" target="_top"><span class="line">&#x0007C;</span>Frank Th. Petermann</a>
                 <a href="rolf-w-rempfler" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
                 <a href="debora-bilgeri" target="_top"><span class="line">&#x0007C;</span>Debora Bilgeri</a>
                 <a href="andres-thuerlimann" target="_top"><span class="line">&#x0007C;</span>Andres Thürlimann</a>

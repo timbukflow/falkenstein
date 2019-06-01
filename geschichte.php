@@ -32,7 +32,7 @@ am Falkenstein">
         
         <article class="column-four storystyle storystyle-left inview">
             <h4>1999</h4>
-                <h2 class="gray story-bottom">Im letzten Jahr des alten Jahrtausends erfuhr die Kanzlei ihre erste personelle Erweiterung, als RA Dr. Petermann als Kanzleipartner hinzukam. Mit ihm weitete sich die Tätigkeit der Kanzlei in Richtung wissenschaftliche Forschung und juristische Publikationen aus.
+                <h2 class="gray story-bottom">Im letzten Jahr des alten Jahrtausends erfuhr die Kanzlei ihre erste personelle Erweiterung, als RA Dr. Petermann als Kanzleipartner hinzukam; womit einerseits weitere spezialisierte Fachbereiche abgedeckt werden konnten und die Kanzlei organisatorisch neu aufgestellt wurde.
                 </h2>
         </article>
         
@@ -51,6 +51,12 @@ am Falkenstein">
         <article class="column-four storystyle inview">
             <h4>2018</h4>
                 <h2 class="gray story-bottom">Im 50. Jubiläumsjahr der Kanzlei verstärken RA Debora Bilgeri als selbständige Rechtsanwältin und RA Tanja Ivanovic das Team. Das Geschäftszentrum mit dem Advokatur- und Treuhandbüro startet auf vier Geschossen mit sechs Rechtsanwälten und sechs Mitarbeitern in die nächsten 50 Jahre. Im schmuck renovierten Geschäftshaus möge dem Team und seinen Klienten und Kunden Glück und Erfolg beschieden sein, getreu der Marmortafel am Haus: &laquo;iustitia vincit&raquo;.
+                </h2>
+        </article>
+        
+        <article class="column-four storystyle storystyle-left inview">
+            <h4>2019</h4>
+                <h2 class="gray story-bottom">Am 12. April 2019, dem 20. Jahrestag seines Eintritts in die Kanzlei, hat RA Frank Th. Petermann seinen Austritt aus der Advokatur am Falkenstein angekündigt. Er wird künftig ausschliesslich beratend tätig sein. In den kommenden Jahren wird er langjährigen Klienten bei der Implementierung der neuen Kontrollparater bezgl. der Kompensationsmesstechniken von Werkzeugmaschinen behilflich sein. Daneben wird er sich künftig auch vermehrt der Fachpublizistik und der Metallbildhauerei zuwenden. Für seine wissenschaftlichen Publikationen wird er weiterhin die Infrastruktur der Kanzlei nutzen. Sein privates Sekretariat wird wie bis anhin in der Kanzlei geführt.
                 </h2>
         </article>
         

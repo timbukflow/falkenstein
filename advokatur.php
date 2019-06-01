@@ -25,15 +25,6 @@
                     <span class="line">&#x0007C;</span>Christa Rempfler
                 </h3>
             </a>
-            <a class="content-nav column-two inview" href="frank-th-petermann" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-frank-petermann.jpg" alt="falkenstein-advokatur-frank-petermann" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-frank-petermann-buch.jpg" alt="falkenstein-advokatur-frank-petermann-buch" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Frank Th. Petermann
-                </h3>
-            </a>
             <a class="content-nav column-two inview" href="rolf-w-rempfler" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >

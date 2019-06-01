@@ -50,10 +50,10 @@
             </div>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
-            <p class="accList">Schweizerischer und St.Galler Anwaltsverband</p>
+            <p class="accList">Schweizerischer und St.Galler Anwaltsverband, Asylex</p>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
-            <p class="accList">Deutsch, Serbisch und Englisch</p>
+            <p class="accList">Deutsch, Serbisch, Bosnisch, Kroatisch und Englisch</p>
             
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
             <div class="accList">

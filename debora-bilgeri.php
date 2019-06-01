@@ -19,34 +19,24 @@
             <div class="accList">
                 <table>
                 <tr>
-                    <td class="year">2000</td>
+                    <td class="year">1999</td>
                     <td>Lizenziat der Rechtswissenschaften an der Universität St.Gallen</td>
                 </tr>
                 <tr>
-                    <td class="year">2000</td>
+                    <td class="year debora">2000-2002</td>
                     <td>Juristische Mitarbeiterin und stellvertretende Schadenleiterin bei einer Rechtsschutzversicherung in St.Gallen</td>
                 </tr>
                 <tr>
-                    <td class="year">2002</td>
-                    <td>Gerichts- und Anwaltspraktikum im Thurgau und St.Gallen</td>
+                    <td class="year">2002-2003</td>
+                    <td>Gerichts- und Anwaltspraktika in den Kantonen Thurgau und St.Gallen</td>
                 </tr>
                 <tr>
-                    <td class="year">2004</td>
-                    <td>Anwaltspatent Kanton St.Gallen<br>
+                    <td class="year">2004-2018</td>
+                    <td>Rechtsanwältin und Notarin in einer Anwaltskanzlei in St.Gallen<br>
                     </td>
                 </tr>
                 <tr>
-                    <td class="year">2004</td>
-                    <td>14 Jahre Rechtsanwältin und Notarin in einer St.Galler Anwaltskanzlei<br>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="year">2016</td>
-                    <td>CAS IRP-HSG Haftpflicht- und Versicherungsrecht, Universität St.Gallen<br>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="year">2018</td>
+                    <td class="year">seit 2018</td>
                     <td>Selbständige Rechtsanwältin und Notarin in St.Gallen<br>
                     </td>
                 </tr>
@@ -57,13 +47,18 @@
             <div class="accList">
                 <table>
                 <tr>
-                    <td class="year">2007</td>
-                    <td>Mitglied der Schlichtungsbehörde in Mietsachen, Gemeinde Roggwil TG<br>
+                    <td class="year debora">seit 2007</td>
+                    <td>Schlichtungsbehörde in Mietsachen der Gemeinde Roggwil TG<br>
                     </td>
                 </tr>
                 <tr>
-                    <td class="year">2015</td>
-                    <td>Ersatzmitglied der Prüfungskommission für Rechtsanwälte, Kanton St.Gallen<br>
+                    <td class="year">seit 2015</td>
+                    <td>Prüfungskommission für Rechtsanwälte des Kanton St.Gallen<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">seit 2019</td>
+                    <td>Gemeinderat Roggwil TG<br>
                     </td>
                 </tr>
                 </table>
