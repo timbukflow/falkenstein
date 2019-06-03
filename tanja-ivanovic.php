@@ -43,7 +43,7 @@
                 </tr>
                 <tr>
                     <td class="year">2018</td>
-                    <td>Beginn Doktoratsprogramm in Rechtswissenschaften an der Universität St.Gallen<br>
+                    <td>Beginn Doktoratsprogramm in Rechtswissenschaften<br>
                     </td>
                 </tr>
                 </table>

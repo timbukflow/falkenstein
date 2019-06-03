@@ -37,6 +37,9 @@
                 </table>
             </div>
             
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
+            <p class="accList">Schweizerischer und St.Galler Anwaltsverband</p>
+            
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch, Italienisch und Englisch</p>
             

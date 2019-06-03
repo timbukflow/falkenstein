@@ -48,12 +48,12 @@
                 <table>
                 <tr>
                     <td class="year debora">seit 2007</td>
-                    <td>Schlichtungsbehörde in Mietsachen der Gemeinde Roggwil TG<br>
+                    <td>Schlichtungsbehörde für Mietsachen der Gemeinde Roggwil TG<br>
                     </td>
                 </tr>
                 <tr>
                     <td class="year">seit 2015</td>
-                    <td>Prüfungskommission für Rechtsanwälte des Kanton St.Gallen<br>
+                    <td>Prüfungskommission für Rechtsanwälte des Kantons St.Gallen<br>
                     </td>
                 </tr>
                 <tr>
