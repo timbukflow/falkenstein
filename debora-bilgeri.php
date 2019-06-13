@@ -31,6 +31,14 @@
                     <td>Gerichts- und Anwaltspraktika in den Kantonen Thurgau und St.Gallen</td>
                 </tr>
                 <tr>
+                    <td class="year">2004</td>
+                    <td>Anwaltspatent Kanton St.Gallen</td>
+                </tr>
+                <tr>
+                    <td class="year">2016</td>
+                    <td>CAS IRP-HSG Haftpflicht- und Versicherungsrecht, Universität St.Gallen</td>
+                </tr>
+                <tr>
                     <td class="year">2004-2018</td>
                     <td>Rechtsanwältin und Notarin in einer Anwaltskanzlei in St.Gallen<br>
                     </td>

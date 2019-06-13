@@ -56,7 +56,7 @@ am Falkenstein">
         
         <article class="column-four storystyle storystyle-left inview">
             <h4>2019</h4>
-                <h2 class="gray story-bottom">Am 12. April 2019, dem 20. Jahrestag seines Eintritts in die Kanzlei, hat RA Frank Th. Petermann seinen Austritt aus der Advokatur am Falkenstein angekündigt. Er wird künftig ausschliesslich beratend tätig sein. In den kommenden Jahren wird er langjährigen Klienten bei der Implementierung der neuen Kontrollparater bezgl. der Kompensationsmesstechniken von Werkzeugmaschinen behilflich sein. Daneben wird er sich künftig auch vermehrt der Fachpublizistik und der Metallbildhauerei zuwenden. Für seine wissenschaftlichen Publikationen wird er weiterhin die Infrastruktur der Kanzlei nutzen. Sein privates Sekretariat wird wie bis anhin in der Kanzlei geführt.
+                <h2 class="gray story-bottom">Am 12. April 2019, dem 20. Jahrestag seines Eintritts in die Kanzlei, hat RA Frank Th. Petermann seinen Austritt aus der Advokatur am Falkenstein angekündigt. Er wird künftig ausschliesslich beratend tätig sein. In den kommenden Jahren wird er langjährigen Klienten bei der Implementierung der neuen Kontrollparameter bzgl. der Kompensationsmesstechniken von Werkzeugmaschinen behilflich sein. Daneben wird er sich künftig auch vermehrt der Fachpublizistik und der Metallbildhauerei zuwenden. Für seine wissenschaftlichen Publikationen wird er weiterhin die Infrastruktur der Kanzlei nutzen. Sein privates Sekretariat wird wie bis anhin in der Kanzlei geführt.
                 </h2>
         </article>
         
