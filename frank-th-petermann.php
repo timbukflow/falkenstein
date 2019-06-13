@@ -1,3 +1,5 @@
+<?php header( 'Location: https://www.falkenstein.ag/advokatur' ) ; ?>
+
 <!--
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
