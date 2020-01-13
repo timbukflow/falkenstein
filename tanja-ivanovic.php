@@ -59,6 +59,10 @@
             <div class="accList">
                 <table>
                     <tr>
+                       <td class="publyear">08.11.2019</td>
+                       <td class="publ">Die Berichterstattung über aus dem Strafregister entfernte Urteile im Lichte des Persönlichkeitsschutzes des Täters, RAin MLaw Tanja Ivanovic, In: Leo Staub (Hrsg.), Beiträge zu aktuellen Themen an der Schnittstelle zwischen Recht und Betriebswirtschaft.</td>
+                    </tr>
+                    <tr>
                        <td class="publyear">15.07.2017</td>
                        <td class="publ">Genügen PDF-Dateien dem Schriftformerfordernis?, Dr. iur. Dieter Gericke, Rechtsanwalt, LL.M. und Tanja Ivanovic, MLaw, In: &laquo;Schweizerische Juristen-Zeitung&raquo; (SJZ) 113/2017.</td>
                     </tr>
