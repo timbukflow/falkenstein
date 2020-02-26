@@ -42,8 +42,24 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="year">2018</td>
+                    <td class="year">2019</td>
                     <td>Beginn Doktoratsprogramm in Rechtswissenschaften<br>
+                    </td>
+                </tr>
+                </table>
+            </div>
+            
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Weitere Tätigkeiten</h3>
+            <div class="accList">
+                <table>
+                <tr>
+                    <td class="year debora">seit 2019</td>
+                    <td>Head Legal Advisory, AsyLex<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">seit 2020</td>
+                    <td>Wissenschaftliche Assistentin von Prof. Dr. Regina Aebi-Müller, Universität Luzern<br>
                     </td>
                 </tr>
                 </table>
