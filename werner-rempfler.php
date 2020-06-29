@@ -52,6 +52,16 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch und Französisch</p>
             
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
+            <div class="accList">
+                <table>
+                    <tr>
+                       <td class="publyear">November 1993</td>
+                       <td class="publ">Was ist Weidgerechtigkeit?, in: Jagd + Hege, Nr. 11.</td>
+                    </tr>
+                </table>
+            </div>
+            
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
                 Treuhandgesellschaft <span class="respbr"></span>am Falkenstein GmbH<br>
