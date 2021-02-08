@@ -45,10 +45,9 @@
                 Treuhandgesellschaft <span class="respbr"></span>am Falkenstein GmbH<br>
                 Maria Rempfler<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426657">T: 071 242 66 57</a>
-                F: 071 242 66 56
                 <a class="nummer" href="tel:0796162680">N: 079 616 26 80</a>
                 <a class="nummer" href="mailto:rempfler@falkenstein.ag" target="_top">rempfler@falkenstein.ag</a>
             </p>

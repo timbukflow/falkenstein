@@ -56,17 +56,22 @@
                 <table>
                 <tr>
                     <td class="year debora">seit 2007</td>
-                    <td>Schlichtungsbehörde für Mietsachen der Gemeinde Roggwil TG<br>
+                    <td>Mitglied der Schlichtungsbehörde für Mietsachen der Gemeinde Roggwil TG<br>
                     </td>
                 </tr>
                 <tr>
                     <td class="year">seit 2015</td>
-                    <td>Prüfungskommission für Rechtsanwälte des Kantons St.Gallen<br>
+                    <td>Ersatzmitglied der Prüfungskommission für Rechtsanwälte des Kantons St. Gallen<br>
                     </td>
                 </tr>
                 <tr>
                     <td class="year">seit 2019</td>
-                    <td>Gemeinderat Roggwil TG<br>
+                    <td>Gemeinderätin der politischen Gemeinde Roggwil TG<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">seit 2020</td>
+                    <td>Ersatzmitglied der Steuerrekurskommission des Kantons Thurgau<br>
                     </td>
                 </tr>
                 </table>
@@ -84,10 +89,9 @@
                 Debora Bilgeri<br>
                 Rechtsanwältin und Notarin<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426654">T: 071 242 66 54</a>
-                F: 071 242 66 52
                 <a class="nummer" href="mailto:db@falkenstein.ag" target="_top">db@falkenstein.ag</a><br>
                 <span class="gray">
                     PC-Konto: 15-52520-3<br>

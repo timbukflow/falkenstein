@@ -10,9 +10,10 @@
     <?php $page = 'advokatur'; include 'include/header.php'; ?>
     
     <div class="main-container">
-        <a class="rechtsgebiete"><span class="line">&#x0007C;</span>Rechtsgebiete</a>
+        
         <article class="content-top column-five">
             <h1><span class="contact-resp">Advokatur <span class="respbr"></span>am Falkenstein</span><span class="respbr "></span><br><span class="gray">Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. <span class="wl">weiter lesen</span><span class="wl-hidden">Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.</span></span></h1>
+            <a class="rechtsgebiete"><span class="line">&#x0007C;</span>Rechtsgebiete</a>
         </article>
         
         <article>
@@ -61,6 +62,15 @@
                     <span class="line">&#x0007C;</span>Tanja Ivanovic
                 </h3>
             </a>
+            <a class="content-nav column-two inview" href="matthias-burri-kueng" target="_top">
+                <div class="container-img">
+                    <img class="img1" src="img/falkenstein-advokatur-matthias-burri-kueng.jpg" alt="falkenstein-advokatur-matthias-burri-kueng" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-matthias-burri-kueng.jpg" alt="falkenstein-advokatur-matthias-burri-kueng-passion" >
+                </div>
+                <h3 class="nav">
+                    <span class="line">&#x0007C;</span>Matthias Burri-Küng
+                </h3>
+            </a>
             
             <article class="content-left column-five inview" id="rechtsgebiete">
                 <h2><span class="gray">Aufgrund der unterschiedlichen Spezialisierungen der Anwälte können wir Ihnen in sämtlichen Lebensbereichen kompetente Beratung bieten. Wir decken umfassend sämtliche Problembereiche ab, mit denen Sie im Alltag und Beruf in Berührung kommen. Wenn Ihr Anliegen bei den Rechtsgebieten nicht aufgeführt ist, zögern Sie nicht, uns anzurufen.</span></h2>
@@ -89,7 +99,28 @@
                 <p class="accList gray">Das Pharmarecht, in der Schweiz häufig als Heilmittelrecht bezeichnet, befasst sich mit den rechtlichen Fragestellungen der Erforschung, der Herstellung, des Vertriebs und der Qualitätssicherung von Pharmazeutika und Medizinprodukten. Das Pharmarecht ist keine einheitlich geregelte Materie, sondern setzt sich aus einer Vielzahl von Gesetzen, Verordnungen und anderen Quellen zusammen. Es lässt sich nicht einfach einem der klassischen Rechtsgebiete (Privatrecht, Verwaltungsrecht oder Strafrecht) zuordnen, sondern enthält je nach Regelungsmaterie Vorschriften aus allen drei Bereichen.<br><br>Pharmarechtliche Fragestellungen, in all ihren bisweilen schillernden Ausprägungen, bearbeitet insbes. RA Dr. iur. Frank Th. Petermann. Seit rund zwei Jahrzehnten setzt er sich sowohl in der Forschung wie auch in der Praxis mit dieser Materie intensiv auseinander. Er verfügt in diesem Bereich nicht nur über besonderes Know-how, sondern auch über ein länderübergreifendes Beziehungsnetz.
                 </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Rufschädigungen und Europäische Menschenrechtskonvention (EMRK)</h3>
-                <p class="accList gray">Werden Sie bspw. im Internet mit unwahren Behauptungen angegriffen oder einfach &laquo;nur&raquo; beschimpft, so verfügt insbesondere RA lic. iur. HSG Rolf W. Rempfler über ausgewiesene langjährige Erfahrung in der Geltendmachung von sogenannten Persönlichkeits- und Ehrverletzungen. Auch EMRK-Beschwerdeverfahren gehören zu seinem Spezialgebiet.
+                <p class="accList gray">Werden Sie bspw. im Internet mit unwahren Behauptungen angegriffen oder einfach &laquo;nur&raquo; beschimpft, so verfügt insbesondere RA lic. iur. HSG Rolf W. Rempfler über ausgewiesene langjährige Erfahrung in der Geltendmachung von sogenannten Persönlichkeits- und Ehrverletzungen. Auch EMRK-Beschwerdeverfahren gehören zu seinem Spezialgebiet, mit drei Siegen gegen die Schweiz:
+                <br>
+                <br>
+                AFFAIRE KESSLER c. SUISSE / CASE OF KESSLER v. SWITZERLAND<br>
+                Verletzung des Anspruchs auf ein faires Verfahren wegen Verweigerung der Möglichkeit, zu Eingaben anderer Parteien im Verfahren Stellung nehmen zu können<br>
+                <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-81964">Link zum Fall</a><br>
+                <small>10577/04 | 26/07/2007</small><br> 
+                <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>   
+                <br>
+                <br>
+                AFFAIRE VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) c. SUISSE (N° 2) / CASE OF VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) v. SWITZERLAND (No. 2)<br>
+                Keine Verletzung des Anspruchs auf ein faires Verfahren durch Verweigerung der Möglichkeit, sich zu Stellungnahmen anderer Verfahrensbeteiligter zu äussern, wenn es sich um ein Verfahren um Revision eines früheren Urteils handelt<br>
+                Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen<br>
+                <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-82558">Link zum Fall (Chamber)</a><br>
+                <small>32772/02 | 04/10/2007</small><br> 
+                <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
+                <br>
+                <br>
+                Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen. Zur Durchsetzung eines Urteils des Gerichtshofes kann der Beschwerdeführer nicht gezwungen werden, erst einen Zivilprozess zu führen<br>
+                <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-93264">Link zum Fall (Grand)</a><br>
+                <small>32772/02 | 30/06/2009</small><br> 
+                <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
                 </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sozial- und Privatversicherungsrecht mit Haftpflichtrecht</h3>
                 <p class="accList gray">Bei einem Unfall oder einer Krankheit werden Sie rasch mit verschiedenen Versicherern konfrontiert. Wir helfen Ihnen, Ihre Ansprüche abzuklären und gegenüber den jeweiligen Sozial- und Privatversicherungen geltend zu machen und nötigenfalls gerichtlich durchzusetzen.<br><br>Falls Sie durch einen Dritten verletzt wurden oder Ihr Eigentum beschädigt wurde, prüfen wir Ihre Ansprüche gegenüber diesem Dritten oder dessen Versicherungen und unterstützen Sie bei der Durchsetzung Ihrer Forderung. Umgekehrt helfen wir Ihnen, unberechtigte Ansprüche abzuwehren.<br><br>Frau RA lic. iur. Christa Rempfler und Frau RA lic. iur. HSG Debora Bilgeri haben sich auf diesem Gebiet weitergebildet und verfügen über ausgewiesene langjährige Berufserfahrung.

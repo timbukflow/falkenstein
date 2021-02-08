@@ -15,19 +15,17 @@
                 Advokatur und Treuhand<br>
                 am Falkenstein<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St.Gallen<br>
                 <a href="https://www.google.ch/maps/dir//Falkensteinstrasse+1,+9000+St.+Gallen/@47.4299966,9.3870661,15z" target="_blank"><span class="gray" >Route mit Google berechnen</span></a><br>
                 Advokatur<br>
                 <span class="gray">
                     <a href="tel:0712426650">T: 071 242 66 50</a>
-                    F: 071 242 66 52
                     <a href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>
                 </span><br>
                 Treuhand und Immobilien<br>
                 <span class="gray">
                     <a href="tel:0712426657">T: 071 242 66 57</a>
-                    F: 071 242 66 56
                     <a href="mailto:rs@falkenstein.ag" target="_top">rs@falkenstein.ag</a>
                 </span>
             </h3>
@@ -76,8 +74,8 @@
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaMyYyCYt5gnKomtPgBPCFKkPoNTdgtK8&callback=initMap"
-    async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZFKGJ7AUYJKpts4vtPVvXgCp8XhY4GFI&callback=initMap"
+    async defer></script><!--AIzaSyCaMyYyCYt5gnKomtPgBPCFKkPoNTdgtK8&callback-->
  
 </body>
 

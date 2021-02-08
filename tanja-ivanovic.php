@@ -95,10 +95,9 @@
                 Tanja Ivanovic<br>
                 Rechtsanwältin und Notarin<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426651">T: 071 242 66 51</a>
-                F: 071 242 66 52
                 <a class="nummer" href="mailto:ti@falkenstein.ag" target="_top">ti@falkenstein.ag</a><br>
             </p>
         </article>  

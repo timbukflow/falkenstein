@@ -11,7 +11,10 @@
     
     <div class="main-container">
         <section class="content top column-three">
-            <h1 class="contact-resp">Christa Rempfler<br><span class="gray">Rechtsanwältin &#47; Notarin</span></h1>
+            <h1 class="contact-resp">Christa Rempfler<br>
+                <span class="gray">Rechtsanwältin &#47; Notarin</span>
+            </h1>
+            <a class="erbrechtsinfo gray" href="https://www.erbrechtsinfo.ch/anwalt/st-gallen/christa-rempfler/">&#62; Partnerin von erbrechtsinfo.ch</a>
         </section>
         
         <article class="column-three accordion accordion-top">
@@ -70,10 +73,9 @@
                 Christa Rempfler<br>
                 Rechtsanwältin und Notarin<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426653">T: 071 242 66 53</a>
-                F: 071 242 66 52
                 <a class="nummer" href="mailto:cr@falkenstein.ag" target="_top">cr@falkenstein.ag</a><br>
                 <span class="gray">
                     PC-Konto: 85-361451-6<br>

@@ -20,6 +20,7 @@
                 <a href="debora-bilgeri" target="_top"><span class="line">&#x0007C;</span>Debora Bilgeri</a>
                 <a href="andres-thuerlimann" target="_top"><span class="line">&#x0007C;</span>Andres Thürlimann</a>
                 <a href="tanja-ivanovic" target="_top"><span class="line">&#x0007C;</span>Tanja Ivanovic</a>
+                <a href="matthias-burri-kueng" target="_top"><span class="line">&#x0007C;</span>Matthias Burri-Küng</a>
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Treuhand</p>
                 <a href="maria-rempfler" target="_top"><span class="line">&#x0007C;</span>Maria Rempfler</a>
                 <a href="werner-rempfler" target="_top"><span class="line">&#x0007C;</span>Werner Rempfler</a>

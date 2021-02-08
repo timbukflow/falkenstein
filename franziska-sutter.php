@@ -19,20 +19,18 @@
             <p class="accList">
                 Advokatur <span class="respbr"></span>am Falkenstein<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426650">T: 071 242 66 50</a>
-                F: 071 242 66 52
                 <a class="nummer" href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>
             </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt Treuhand und Immobilien </h3>
             <p class="accList">
                 Treuhand <span class="respbr"></span>am Falkenstein<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426657">T: 071 242 66 57</a>
-                F: 071 242 66 56
                 <a class="nummer" href="mailto:rs@falkenstein.ag" target="_top">rs@falkenstein.ag</a>
             </p>
         </article>  

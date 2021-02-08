@@ -214,7 +214,7 @@ li:before {
 .content-top {
     position: relative;
     margin-top: 140px;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
     padding: 0px 32px;
 }
 
@@ -486,9 +486,18 @@ td {
 }
 
 .rechtsgebiete {
-    position: absolute;
-    top: 70px;
-    padding-left: 8px;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    position: relative;
+    top: 25px;
+    cursor: pointer;
+}
+
+.erbrechtsinfo {
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    position: relative;
+    top: 25px;
     cursor: pointer;
 }
 

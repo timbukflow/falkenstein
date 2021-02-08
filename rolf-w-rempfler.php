@@ -49,10 +49,9 @@
                 Rolf W. Rempfler<br>
                 Rechtsanwalt und Notar<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426651">T: 071 242 66 51</a>
-                F: 071 242 66 52
                 <a class="nummer" href="mailto:rr@falkenstein.ag" target="_top">rr@falkenstein.ag</a><br>
                 <span class="gray">
                     PC-Konto: 90-64927-4<br>

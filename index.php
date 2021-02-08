@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="Advokatur am Falkenstein. Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.">
+    <meta name="description" content="Advokatur am Falkenstein in St.Gallen. Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.">
 </head>
 
 <body>
@@ -12,13 +12,13 @@
     <div class="main-container">
         <article class="content-home home-top column-three">
             <a href="advokatur" target="_top">
-                <h1 class="nav-home contact-resp">Advokatur<br><span class="gray">am Falkenstein</span></h1>
+                <h1 class="nav-home contact-resp">Advokatur am Falkenstein<br><span class="gray">in St. Gallen</span></h1>
             </a>
         </article>
         
         <article class="content-home column-three">
             <a href="treuhand" target="_top">
-                <h1 class="nav-home contact-resp">Treuhand<br><span class="gray">am Falkenstein</span></h1>
+                <h1 class="nav-home contact-resp">Treuhand am Falkenstein<br><span class="gray">in St. Gallen</span></h1>
             </a>
         </article>
 

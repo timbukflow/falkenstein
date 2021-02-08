@@ -41,6 +41,18 @@
                 </table>
             </div>
             
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Weitere Tätigkeiten</h3>
+            <div class="accList">
+                <table>
+                <tr>
+                    <td class="year debora">2020</td>
+                    <td>Stellvertretender Leiter des Rechtsdienstes und des Erbschaftsamtes der Gemeinde Herisau AR
+                        <br>Stellvertretender Gemeindeschreiber der Gemeinde Herisau AR<br>
+                    </td>
+                </tr>
+                </table>
+            </div>
+            
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
             <p class="accList">Schweizerischer und St.Galler Anwaltsverband</p>
             
@@ -53,10 +65,9 @@
                 Andres Thürlimann<br>
                 Rechtsanwalt und Notar<br>
                 Falkensteinstrasse 1<br>
-                Postfach 152<br>
+                Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426658">T: 071 242 66 58</a>
-                F: 071 242 66 52
                 <a class="nummer" href="mailto:at@falkenstein.ag" target="_top">at@falkenstein.ag</a><br>
                 <span class="gray">
                     PC-Konto: 61-971096-1<br>
