@@ -14,7 +14,7 @@
             <h1 class="contact-resp">Christa Rempfler<br>
                 <span class="gray">Rechtsanwältin &#47; Notarin</span>
             </h1>
-            <a class="erbrechtsinfo gray" href="https://www.erbrechtsinfo.ch/anwalt/st-gallen/christa-rempfler/">&#62; Partnerin von erbrechtsinfo.ch</a>
+            <a class="erbrechtsinfo gray" href="https://www.erbrechtsinfo.ch/anwalt/st-gallen/christa-rempfler/" target="_blank">&#62; Partnerin von erbrechtsinfo.ch</a>
         </section>
         
         <article class="column-three accordion accordion-top">
