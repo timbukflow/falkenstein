@@ -13,7 +13,7 @@
         
         <article class="content-top column-five">
             <h1><span class="contact-resp">Advokatur <span class="respbr"></span>am Falkenstein</span><span class="respbr "></span><br><span class="gray">Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. <span class="wl">weiter lesen</span><span class="wl-hidden">Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.</span></span></h1>
-            <a class="rechtsgebiete"><span class="line">&#x0007C;</span>Rechtsgebiete</a>
+            <a class="rechtsgebiete"><span class="line rg">&#x0007C;</span>Rechtsgebiete</a>
         </article>
         
         <article>
