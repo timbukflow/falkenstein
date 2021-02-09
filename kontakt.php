@@ -43,7 +43,7 @@
                 document.getElementById('map'), {
                     zoom: 14, 
                     center: falkenstein,
-                    zoomControl: undefined,
+                    zoomControl: false,
                     mapTypeControl: false,
                     scaleControl: false,
                     streetViewControl: false,
@@ -58,14 +58,20 @@
                     ]
                 });
             
-            var marker = new google.maps.Marker({
+            var icon = { 
+                url: "img/marker.svg",
+                scaledSize: new google.maps.Size(40, 40),
+                origin: new google.maps.Point(0,0),
+                anchor: new google.maps.Point(0, 0)
+            }; 
+
+            var marker = new google.maps.Marker({ 
                 position: falkenstein, 
-                map: map,
-                icon: 'img/marker.svg',
-            });
+                map: map, 
+                icon: icon 
+            });    
         }
     </script>
-   
     
     <?php include 'include/footer.php'; ?>
 
@@ -74,8 +80,8 @@
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZFKGJ7AUYJKpts4vtPVvXgCp8XhY4GFI&callback=initMap"
-    async defer></script><!--AIzaSyCaMyYyCYt5gnKomtPgBPCFKkPoNTdgtK8&callback-->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyApYat9BIG_zCjqnDgkEpAg96BXeAQPA24&callback=initMap"
+  type="text/javascript"></script>
  
 </body>
 
