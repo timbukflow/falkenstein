@@ -99,25 +99,25 @@
                 <p class="accList gray">Das Pharmarecht, in der Schweiz häufig als Heilmittelrecht bezeichnet, befasst sich mit den rechtlichen Fragestellungen der Erforschung, der Herstellung, des Vertriebs und der Qualitätssicherung von Pharmazeutika und Medizinprodukten. Das Pharmarecht ist keine einheitlich geregelte Materie, sondern setzt sich aus einer Vielzahl von Gesetzen, Verordnungen und anderen Quellen zusammen. Es lässt sich nicht einfach einem der klassischen Rechtsgebiete (Privatrecht, Verwaltungsrecht oder Strafrecht) zuordnen, sondern enthält je nach Regelungsmaterie Vorschriften aus allen drei Bereichen.<br><br>Pharmarechtliche Fragestellungen, in all ihren bisweilen schillernden Ausprägungen, bearbeitet insbes. RA Dr. iur. Frank Th. Petermann. Seit rund zwei Jahrzehnten setzt er sich sowohl in der Forschung wie auch in der Praxis mit dieser Materie intensiv auseinander. Er verfügt in diesem Bereich nicht nur über besonderes Know-how, sondern auch über ein länderübergreifendes Beziehungsnetz.
                 </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Rufschädigungen und Europäische Menschenrechtskonvention (EMRK)</h3>
-                <p class="accList gray">Werden Sie bspw. im Internet mit unwahren Behauptungen angegriffen oder einfach &laquo;nur&raquo; beschimpft, so verfügt insbesondere RA lic. iur. HSG Rolf W. Rempfler über ausgewiesene langjährige Erfahrung in der Geltendmachung von sogenannten Persönlichkeits- und Ehrverletzungen. Auch EMRK-Beschwerdeverfahren gehören zu seinem Spezialgebiet, mit drei Siegen gegen die Schweiz:
+                <p class="accList gray">Werden Sie bspw. im Internet mit unwahren Behauptungen angegriffen oder einfach &laquo;nur&raquo; beschimpft, so verfügt insbesondere RA lic. iur. HSG Rolf W. Rempfler über ausgewiesene langjährige Erfahrung in der Verfolgung von sogenannten Persönlichkeits- und Ehrverletzungen. Auch EMRK-Beschwerdeverfahren gehören zu seinem Spezialgebiet, mit drei Siegen gegen die Schweiz:
                 <br>
                 <br>
                 AFFAIRE KESSLER c. SUISSE / CASE OF KESSLER v. SWITZERLAND<br>
-                Verletzung des Anspruchs auf ein faires Verfahren wegen Verweigerung der Möglichkeit, zu Eingaben anderer Parteien im Verfahren Stellung nehmen zu können<br>
+                Verletzung des Anspruchs auf ein faires Verfahren wegen Verweigerung der Möglichkeit, zu Eingaben anderer Parteien im Verfahren Stellung nehmen zu können.<br>
                 <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-81964">Link zum Fall</a><br>
                 <small>10577/04 | 26/07/2007</small><br> 
                 <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>   
                 <br>
                 <br>
                 AFFAIRE VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) c. SUISSE (N° 2) / CASE OF VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) v. SWITZERLAND (No. 2)<br>
-                Keine Verletzung des Anspruchs auf ein faires Verfahren durch Verweigerung der Möglichkeit, sich zu Stellungnahmen anderer Verfahrensbeteiligter zu äussern, wenn es sich um ein Verfahren um Revision eines früheren Urteils handelt<br>
-                Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen<br>
+                Keine Verletzung des Anspruchs auf ein faires Verfahren durch Verweigerung der Möglichkeit, sich zu Stellungnahmen anderer Verfahrensbeteiligter zu äussern, wenn es sich um ein Verfahren um Revision eines früheren Urteils handelt.<br>
+                Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen.<br>
                 <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-82558">Link zum Fall (Chamber)</a><br>
                 <small>32772/02 | 04/10/2007</small><br> 
                 <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
                 <br>
                 <br>
-                Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen. Zur Durchsetzung eines Urteils des Gerichtshofes kann der Beschwerdeführer nicht gezwungen werden, erst einen Zivilprozess zu führen<br>
+                Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen. Zur Durchsetzung eines Urteils des Gerichtshofes kann der Beschwerdeführer nicht gezwungen werden, erst einen Zivilprozess führen zu müssen.<br>
                 <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-93264">Link zum Fall (Grand)</a><br>
                 <small>32772/02 | 30/06/2009</small><br> 
                 <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>

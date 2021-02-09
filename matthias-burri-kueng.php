@@ -32,11 +32,11 @@
                 </tr>
                 <tr>
                     <td class="year">2009–2010</td>
-                    <td>Juristischer Mitarbeiter bei einer Rechtsschutzversicherung in St. Gallen</td>
+                    <td>Juristischer Mitarbeiter bei einer Rechtsschutzversicherung in St.Gallen</td>
                 </tr>
                 <tr>
                     <td class="year">2012</td>
-                    <td>Anwaltspatent Kanton St. Gallen</td>
+                    <td>Anwaltspatent Kanton St.Gallen</td>
                 </tr>
                 <tr>
                     <td class="year">2013–2020</td>
@@ -49,7 +49,7 @@
                 </tr>
                 <tr>
                     <td class="year">seit 2020</td>
-                    <td>Selbständiger Rechtsanwalt und Notar in St. Gallen<br></td>
+                    <td>Selbständiger Rechtsanwalt und Notar in St.Gallen<br></td>
                 </tr>
                 </table>
             </div>
