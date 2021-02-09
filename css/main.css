@@ -504,7 +504,7 @@ td {
     top: 25px;
     cursor: pointer;
     margin-top: 20px;
-    display: inline-block;
+    display: block;
 }
 
 .nomargin {
