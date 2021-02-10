@@ -62,6 +62,11 @@
                     <td>Wissenschaftliche Assistentin von Prof. Dr. Regina Aebi-Müller, Universität Luzern<br>
                     </td>
                 </tr>
+                <tr>
+                    <td class="year">seit 2021</td>
+                    <td>Lehrbeauftragte an der Universität Luzern<br>
+                </td>
+                </tr>
                 </table>
             </div>
             
