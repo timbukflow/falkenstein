@@ -6,14 +6,14 @@
 </head>
 
 <body>
-    
+
     <?php $page = 'team'; include 'include/header.php'; ?>
-    
+
     <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Matthias Burri-Küng<br><span class="gray">Rechtsanwalt &#47; Notar</span></h1>
         </section>
-        
+
         <article class="column-three accordion accordion-top">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Profil</h3>
             <div class="accList">
@@ -35,6 +35,10 @@
                     <td>Juristischer Mitarbeiter bei einer Rechtsschutzversicherung in St.Gallen</td>
                 </tr>
                 <tr>
+                    <td class="year">2010–2012</td>
+                    <td>Gerichtsschreiber am Versicherungsgericht des Kantons St.Gallen</td>
+                </tr>
+                <tr>
                     <td class="year">2012</td>
                     <td>Anwaltspatent Kanton St.Gallen</td>
                 </tr>
@@ -53,16 +57,16 @@
                 </tr>
                 </table>
             </div>
-            
+
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Weitere Tätigkeiten</h3>
             <p class="accList">Mitglied Redaktionsteam dRSK Weblaw</p>
-            
+
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
             <p class="accList">Schweizerischer und St. Galler Anwaltsverband</p>
-            
+
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch, Englisch und Französisch</p>
-            
+
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
                 Advokatur am Falkenstein<br>
@@ -79,8 +83,8 @@
                     MWST: CHE-226.843.047
                 </span>
             </p>
-        </article>  
-        
+        </article>
+
         <div class="column-three container-img content-team-img inview">
             <img class="img1" src="img/falkenstein-advokatur-matthias-burri-kueng.jpg" alt="falkenstein-advokatur-matthias-burri-kueng" >
         </div>
@@ -91,16 +95,16 @@
             <h4>&laquo;Nicht der Wind, sondern das Segel bestimmt die Richtung&raquo; <span class="respbr"></span><i>(Chinesisches Sprichwort)</i></h4>
         </article>
     </div>
-    
+
     <?php include 'include/footer.php'; ?>
-    
-    
+
+
     <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
- 
+
 </body>
 
 </html>
