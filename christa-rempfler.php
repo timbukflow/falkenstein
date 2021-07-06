@@ -6,18 +6,18 @@
 </head>
 
 <body>
-    
+
     <?php $page = 'team'; include 'include/header.php'; ?>
-    
+
     <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Christa Rempfler<br>
-                <span class="gray">Rechtsanwältin &#47; Notarin</span>
+                <span class="gray">Rechtsanwältin &#47; Notarin &#47; Mediatorin</span>
                 <a class="erbrechtsinfo gray" href="https://www.erbrechtsinfo.ch/anwalt/st-gallen/christa-rempfler/" target="_blank">Partnerin von erbrechtsinfo.ch</a>
             </h1>
-            
+
         </section>
-        
+
         <article class="column-three accordion accordion-top">
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Profil</h3>
             <div class="accList">
@@ -59,15 +59,32 @@
                     <td>Grundausbildung Mediation, Konstanzer Schule für Mediation<br>
                     </td>
                 </tr>
+                <tr>
+                    <td class="year">2020</td>
+                    <td>Partnerin von erbrechtsinfo.ch<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="year">2021</td>
+                    <td>Mediatorin SAV<br>
+                    </td>
+                </tr>
                 </table>
             </div>
-            
+
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
             <p class="accList">Schweizerischer und St.Galler Anwaltsverband</p>
-            
+
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Interview</h3>
+            <p class="accList">
+                Eine Immobilie vererben: Worauf muss ich achten?<br>
+                Lic. iur. Christa Rempfler im experten Interview<br>
+                <a class="gray nummer" target="_blank" href="https://www.erbrechtsinfo.ch/nachlassplanung/immobilie-vererben/">Link zum Interview</a>
+            </p>
+
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch</p>
-            
+
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
                 Advokatur am Falkenstein<br>
@@ -84,8 +101,8 @@
                     MWST: CHE-452.133.484
                 </span>
             </p>
-        </article>  
-        
+        </article>
+
         <div class="column-three container-img content-team-img inview">
             <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
         </div>
@@ -96,16 +113,16 @@
             <h4>&laquo;Ich spiele nach Noten – aber die Noten setze ich&raquo;</h4>
         </article>
     </div>
-    
+
     <?php include 'include/footer.php'; ?>
-    
-    
+
+
     <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
- 
+
 </body>
 
 </html>
