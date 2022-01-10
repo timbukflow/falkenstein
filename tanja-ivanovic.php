@@ -80,6 +80,10 @@
             <div class="accList">
                 <table>
                     <tr>
+                      <td class="publyear">15.11.2021</td>
+                      <td class="publ">Der Steueranteil im Barunterhalt des Kindes, Erläuterung und Würdigung des Bundesgerichtsentscheids 5A_816/2019 vom 25. Juni 2021, in: Jusletter vom 15. November 2021.</td>
+                    </tr>
+                    <tr>
                       <td class="publyear">11.02.2021</td>
                       <td class="publ">Die Sorgfalt der Medizinalpersonen nach Art. 40 lit. a MedBG: Generalklausel und Konkretisierung, in: ZBJV 157/2021, S. 126 ff.</td>
                     </tr>

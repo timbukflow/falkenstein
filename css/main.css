@@ -143,8 +143,8 @@ table,
     letter-spacing: 0.8px;
     color: #19489a;
     line-height: 1.6;
-    -webkit-hyphens: auto;
-            hyphens: auto;
+    -webkit-hyphens: none;
+            hyphens: none;
 }
 
 h4 {font-size: 34px;}
@@ -475,6 +475,10 @@ td {
 .publ {
     padding-bottom: 16px;
     font-size: 16px;
+}
+.linkpub {
+  font-size: 16px;
+  
 }
 
 .accordion-advo {
