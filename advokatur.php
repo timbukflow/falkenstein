@@ -6,16 +6,16 @@
 </head>
 
 <body>
-    
+
     <?php $page = 'advokatur'; include 'include/header.php'; ?>
-    
+
     <div class="main-container">
-        
+
         <article class="content-top column-five">
             <h1><span class="contact-resp">Advokatur <span class="respbr"></span>am Falkenstein</span><span class="respbr "></span><br><span class="gray">Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. <span class="wl">weiter lesen</span><span class="wl-hidden">Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.</span></span></h1>
             <a class="rechtsgebiete"><span class="line rg">&#x0007C;</span>Rechtsgebiete</a>
         </article>
-        
+
         <article>
             <a class="content-nav column-two inview" href="christa-rempfler" target="_top">
                 <div class="container-img">
@@ -33,15 +33,6 @@
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Rolf W. Rempfler
-                </h3>
-            </a>
-            <a class="content-nav column-two inview" href="debora-bilgeri" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-debora-bilgeri.jpg" alt="falkenstein-advokatur-debora-bilgeri" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-debora-bilgeri-trekking.jpg" alt="falkenstein-advokatur-debora-bilgeri-trekking" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Debora Bilgeri
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="andres-thuerlimann" target="_top">
@@ -71,7 +62,7 @@
                     <span class="line">&#x0007C;</span>Matthias Burri-Küng
                 </h3>
             </a>
-            
+
             <article class="content-left column-five inview" id="rechtsgebiete">
                 <h2><span class="gray">Aufgrund der unterschiedlichen Spezialisierungen der Anwälte können wir Ihnen in sämtlichen Lebensbereichen kompetente Beratung bieten. Wir decken umfassend sämtliche Problembereiche ab, mit denen Sie im Alltag und Beruf in Berührung kommen. Wenn Ihr Anliegen bei den Rechtsgebieten nicht aufgeführt ist, zögern Sie nicht, uns anzurufen.</span></h2>
             </article>
@@ -105,21 +96,21 @@
                 AFFAIRE KESSLER c. SUISSE / CASE OF KESSLER v. SWITZERLAND<br>
                 Verletzung des Anspruchs auf ein faires Verfahren wegen Verweigerung der Möglichkeit, zu Eingaben anderer Parteien im Verfahren Stellung nehmen zu können.<br>
                 <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-81964">Link zum Fall</a><br>
-                <small>10577/04 | 26/07/2007</small><br> 
-                <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>   
+                <small>10577/04 | 26/07/2007</small><br>
+                <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
                 <br>
                 <br>
                 AFFAIRE VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) c. SUISSE (N° 2) / CASE OF VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) v. SWITZERLAND (No. 2)<br>
                 Keine Verletzung des Anspruchs auf ein faires Verfahren durch Verweigerung der Möglichkeit, sich zu Stellungnahmen anderer Verfahrensbeteiligter zu äussern, wenn es sich um ein Verfahren um Revision eines früheren Urteils handelt.<br>
                 Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen.<br>
                 <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-82558">Link zum Fall (Chamber)</a><br>
-                <small>32772/02 | 04/10/2007</small><br> 
+                <small>32772/02 | 04/10/2007</small><br>
                 <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
                 <br>
                 <br>
                 Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen. Zur Durchsetzung eines Urteils des Gerichtshofes kann der Beschwerdeführer nicht gezwungen werden, erst einen Zivilprozess führen zu müssen.<br>
                 <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-93264">Link zum Fall (Grand)</a><br>
-                <small>32772/02 | 30/06/2009</small><br> 
+                <small>32772/02 | 30/06/2009</small><br>
                 <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
                 </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sozial- und Privatversicherungsrecht mit Haftpflichtrecht</h3>
@@ -142,22 +133,22 @@
                 </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Haben Sie Probleme im Kontakt mit einer Behörde?</h3>
                 <p class="accList gray">Benötigen Sie Unterstützung im Umgang mit z.B. der Migrationsbehörde oder benötigen Sie eine Bewilligung, bspw. für eine Veranstaltung? Wir beraten und vertreten Sie im ganzen Verwaltungsbereich.
-                </p>   
+                </p>
         </article>
         <article class="content-left column-four nomargin inview accordion">
             <p>Haben Sie ein anderes juristisches Problem oder möchten Sie eine unverbindliche Beratung?<br><span class="gray">Kontaktieren Sie unser Sekretariat telefonisch unter <a class="advonummer" href="tel:0712426650">071 242 66 50</a> oder auf folgender E-Mail-Adresse: <a class="advonummer" href="mailto:info@falkenstein.ag" target="_top">info@falkenstein.ag</a>. Sollten wir Ihnen nicht weiterhelfen können, so empfehlen wir Ihnen gerne einen dafür geeigneten Berufskollegen.</span></p>
         </article>
     </div>
-    
+
     <?php include 'include/footer.php'; ?>
-    
-    
+
+
     <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
- 
+
 </body>
 
 </html>
