@@ -50,7 +50,7 @@ am Falkenstein">
 
         <article class="column-four storystyle inview">
             <h4>2018</h4>
-                <h2 class="gray story-bottom">Im 50. Jubiläumsjahr der Kanzlei verstärken RA Debora Bilgeri als selbständige Rechtsanwältin und RA Tanja Ivanovic das Team. Das Geschäftszentrum mit dem Advokatur- und Treuhandbüro startet auf vier Geschossen mit sechs Rechtsanwälten und sechs Mitarbeitern in die nächsten 50 Jahre. Im schmuck renovierten Geschäftshaus möge dem Team und seinen Klienten und Kunden Glück und Erfolg beschieden sein, getreu der Marmortafel am Haus: &laquo;iustitia vincit&raquo;.
+                <h2 class="gray story-bottom">Im 50. Jubiläumsjahr der Kanzlei verstärken RA Debora Bilgeri als selbständige Rechtsanwältin und RA Tanja Coskun-Ivanovic das Team. Das Geschäftszentrum mit dem Advokatur- und Treuhandbüro startet auf vier Geschossen mit sechs Rechtsanwälten und sechs Mitarbeitern in die nächsten 50 Jahre. Im schmuck renovierten Geschäftshaus möge dem Team und seinen Klienten und Kunden Glück und Erfolg beschieden sein, getreu der Marmortafel am Haus: &laquo;iustitia vincit&raquo;.
                 </h2>
         </article>
 

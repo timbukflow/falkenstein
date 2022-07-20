@@ -44,13 +44,13 @@
                     <span class="line">&#x0007C;</span>Andres Thürlimann
                 </h3>
             </a>
-            <a class="content-nav column-two inview" href="tanja-ivanovic" target="_top">
+            <a class="content-nav column-two inview" href="tanja-coskun-ivanovic" target="_top">
                 <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-ivanovic" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
+                    <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic-welt" >
                 </div>
                 <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Tanja Ivanovic
+                    <span class="line">&#x0007C;</span>Tanja Coskun-Ivanovic
                 </h3>
             </a>
             <a class="content-nav column-two inview" href="matthias-burri-kueng" target="_top">

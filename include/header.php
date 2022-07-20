@@ -18,7 +18,7 @@
                 <a href="christa-rempfler" target="_top"><span class="line">&#x0007C;</span>Christa Rempfler</a>
                 <a href="rolf-w-rempfler" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
                 <a href="andres-thuerlimann" target="_top"><span class="line">&#x0007C;</span>Andres Thürlimann</a>
-                <a href="tanja-ivanovic" target="_top"><span class="line">&#x0007C;</span>Tanja Ivanovic</a>
+                <a href="tanja-coskun-ivanovic" target="_top"><span class="line">&#x0007C;</span>Tanja Coskun-Ivanovic</a>
                 <a href="matthias-burri-kueng" target="_top"><span class="line">&#x0007C;</span>Matthias Burri-Küng</a>
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Treuhand</p>
                 <a href="maria-rempfler" target="_top"><span class="line">&#x0007C;</span>Maria Rempfler</a>

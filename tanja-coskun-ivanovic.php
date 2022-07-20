@@ -11,7 +11,7 @@
 
     <div class="main-container">
         <section class="content top column-three">
-            <h1 class="contact-resp">Tanja Ivanovic<br><span class="gray">Rechtsanwältin &#47; Notarin</span></h1>
+            <h1 class="contact-resp">Tanja Coskun-Ivanovic<br><span class="gray">Rechtsanwältin &#47; Notarin</span></h1>
         </section>
 
         <article class="column-three accordion accordion-top">
@@ -42,8 +42,8 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="year">2019</td>
-                    <td>Beginn Doktoratsprogramm in Rechtswissenschaften<br>
+                    <td class="year">2022</td>
+                    <td>Erhalt Doktorwürde Universität Luzern<br>
                     </td>
                 </tr>
                 </table>
@@ -93,11 +93,11 @@
                     </tr>
                     <tr>
                        <td class="publyear">08.11.2019</td>
-                       <td class="publ">Die Berichterstattung über aus dem Strafregister entfernte Urteile im Lichte des Persönlichkeitsschutzes des Täters, RAin MLaw Tanja Ivanovic, In: Leo Staub (Hrsg.), Beiträge zu aktuellen Themen an der Schnittstelle zwischen Recht und Betriebswirtschaft.</td>
+                       <td class="publ">Die Berichterstattung über aus dem Strafregister entfernte Urteile im Lichte des Persönlichkeitsschutzes des Täters, RAin MLaw Tanja Coskun-Ivanovic, In: Leo Staub (Hrsg.), Beiträge zu aktuellen Themen an der Schnittstelle zwischen Recht und Betriebswirtschaft.</td>
                     </tr>
                     <tr>
                        <td class="publyear">15.07.2017</td>
-                       <td class="publ">Genügen PDF-Dateien dem Schriftformerfordernis?, Dr. iur. Dieter Gericke, Rechtsanwalt, LL.M. und Tanja Ivanovic, MLaw, In: &laquo;Schweizerische Juristen-Zeitung&raquo; (SJZ) 113/2017.</td>
+                       <td class="publ">Genügen PDF-Dateien dem Schriftformerfordernis?, Dr. iur. Dieter Gericke, Rechtsanwalt, LL.M. und Tanja Coskun-Ivanovic, MLaw, In: &laquo;Schweizerische Juristen-Zeitung&raquo; (SJZ) 113/2017.</td>
                     </tr>
                 </table>
             </div>
@@ -105,21 +105,21 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
                 Advokatur am Falkenstein<br>
-                Tanja Ivanovic<br>
+                Dr. iur. Tanja Coskun-Ivanovic<br>
                 Rechtsanwältin und Notarin<br>
                 Falkensteinstrasse 1<br>
                 Postfach<br>
                 9016 St. Gallen<br><br>
                 <a class="nummer" href="tel:0712426651">T: 071 242 66 51</a>
-                <a class="nummer" href="mailto:ti@falkenstein.ag" target="_top">ti@falkenstein.ag</a><br>
+                <a class="nummer" href="mailto:tci@falkenstein.ag" target="_top">tci@falkenstein.ag</a><br>
             </p>
         </article>
 
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-ivanovic" >
+            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-ivanovic-welt" >
+            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic-welt" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Weitsichtig, weltoffen, grenzenlos - Nur wer nicht stehen bleibt, findet neue Wege&raquo;</h4>
