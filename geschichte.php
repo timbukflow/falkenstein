@@ -60,8 +60,8 @@ am Falkenstein">
                 </h2>
         </article>
         <article class="column-four storystyle inview">
-            <h4>2021</h4>
-                <h2 class="gray story-bottom">RA Matthias Burri-Küng verstärkt als selbständiger Rechtsanwalt die Kanzleigemeinschaft.
+            <h4>2021 &#8211;<span class="gray">2022</span></h4>
+                <h2 class="gray story-bottom">RA Matthias Burri-Küng verstärkt als selbständiger Rechtsanwalt die Kanzleigemeinschaft, welche sich von RA Debora Bilgeri getrennt hat.
                 </h2>
         </article>
 

@@ -73,7 +73,7 @@
             </div>
 
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
-            <p class="accList">Schweizerischer und St.Galler Anwaltsverband</p>
+            <p class="accList">Schweizerischer und St.Galler Anwaltsverband <br>Schweizerischer Notarenverband SNV</p>
 
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Interview</h3>
             <p class="accList">
