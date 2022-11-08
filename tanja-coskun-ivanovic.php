@@ -58,14 +58,14 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="year">seit 2020</td>
-                    <td>Wissenschaftliche Assistentin von Prof. Dr. Regina Aebi-Müller, Universität Luzern<br>
+                    <td class="year">seit 2021</td>
+                    <td>Lehrbeauftragte an der Universität Luzern<br>
                     </td>
                 </tr>
                 <tr>
-                    <td class="year">seit 2021</td>
-                    <td>Lehrbeauftragte an der Universität Luzern<br>
-                </td>
+                    <td class="year">seit 2022</td>
+                    <td>Wissenschaftliche Mitarbeiterin von Prof. Dr. Regina Aebi-Müller, Universität Luzern<br>
+                    </td>
                 </tr>
                 </table>
             </div>
@@ -79,6 +79,10 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
             <div class="accList">
                 <table>
+                    <tr>
+                      <td class="publyear">31.10.2022</td>
+                      <td class="publ">Betreuungsunterhalt zu Lasten des rechtlichen Stiefelters?, in: Jusletter vom 31. Oktober 2022.</td>
+                    </tr>
                     <tr>
                       <td class="publyear">15.11.2021</td>
                       <td class="publ">Der Steueranteil im Barunterhalt des Kindes, Erläuterung und Würdigung des Bundesgerichtsentscheids 5A_816/2019 vom 25. Juni 2021, in: Jusletter vom 15. November 2021.</td>
