@@ -43,14 +43,55 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch, Italienisch und Englisch</p>
 
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen und Siege</h3>
             <div class="accList">
                 <table>
+                    <tr>
+                      <td></td>
+                      <td class="publ ptitle">
+                        Publikationen
+                      </td>
+                    </tr>
+                    <tr>
                     <tr>
                       <td class="publyear">12.2021</td>
                       <td class="publ">
                         Nachruf auf Dr. Erwin Kessler, Robin Hood der sogenannten «Nutz»-Tiere (1944-2021), in: VgT-Nachrichten VN 21-4, S. 8-26 (www.vgt.ch/vn).
                         <a class="linkpub nummer" target="_blank" href="download/nachruf-von-rr-auf-erwin-kessler-in-vn-21-4-auflage.pdf">Link zur Publikation</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td class="publ ptitle">
+                        Siege vor dem Europäischen Gerichtshof für Menschenrechte (EGMR)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">07.2007</td>
+                      <td class="publ">
+                      AFFAIRE KESSLER c. SUISSE / CASE OF KESSLER v. SWITZERLAND<br>          Verletzung des Anspruchs auf ein faires Verfahren wegen Verweigerung der Möglichkeit, zu Eingaben anderer Parteien im Verfahren Stellung nehmen zu können.<br><small>10577/04</small><br>
+                        <a class="linkpub nummer" target="_blank" href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-81964">Link zum Fall</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">10.2007</td>
+                      <td class="publ">
+                      AFFAIRE VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) c. SUISSE (N° 2) / CASE OF VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) v. SWITZERLAND (No. 2)<br> Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen.<br><small>32772/02</small><br>
+                        <a class="linkpub nummer" target="_blank" href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-82558">Link zum Fall</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">06.2009</td>
+                      <td class="publ">
+                      Verletzung des Anspruchs auf Freiheit der Äusserung durch Weigerung der Ausstrahlung eines kurzen Tierschutz-Werbespots im Fernsehen. Zur Durchsetzung eines Urteils des Gerichtshofes kann der Beschwerdeführer nicht gezwungen werden, erst einen Zivilprozess führen zu müssen.<br><small>32772/02</small><br>
+                        <a class="linkpub nummer" target="_blank" href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-93264">Link zum Fall</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">10.2022</td>
+                      <td class="publ">
+                      AFFAIRE VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) et KESSLER c. SUISSE / CASE OF VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) and KESSLER v. SWITZERLAND<br>Verletzung des Anspruchs auf Freiheit der Äusserung durch Bestrafung und Zensurierung von Äusserungen (tierschützerische Kritik) im Rahmen einer Abwahlkampagne gegen einen amtierenden Politiker. Einstufung der strittigen Äusserungen als Werturteile, deren Nachvollziehbarkeit die nationalen Instanzen anhand der vorgelegten Zeitungsausschnitte hätten prüfen und alsdann eine Interessenabwägung hätten vornehmen müssen. Die Verpflichtung des VgT, die strittigen Publikationen von seiner Internetseite zu löschen und das Dispositiv des zivilrechtlichen Urteils in drei Regional-Zeitungen zu veröffentlichen, sei angesichts des wichtigen politischen Themas, um das es gegangen sei, unverhältnismässig gewesen. Zusammen mit der Bestrafung von Erwin Kessler hätten diese Sanktionen eine abschreckende Wirkung auf die Ausübung des Rechts auf freie Meinungsäusserung gehabt und sie seien in einer demokratischen Gesellschaft nicht notwendig gewesen.<br><small>21974/16</small><br>
+                        <a class="linkpub nummer" target="_blank" href="download/falkenstein-egmr-entscheid-vom-20-09-2022-verkündet-am-11-10-2022.pdf" download="falkenstein-egmr-entscheid-vom-20-09-2022-verkündet-am-11-10-2022"">PDF Download</a>
                       </td>
                     </tr>
                 </table>
