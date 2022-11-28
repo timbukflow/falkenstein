@@ -43,7 +43,7 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch, Italienisch und Englisch</p>
 
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen und Siege</h3>
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen und Siege vor dem EGMR</h3>
             <div class="accList">
                 <table>
                     <tr>
