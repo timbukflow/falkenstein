@@ -61,6 +61,13 @@
                       </td>
                     </tr>
                     <tr>
+                      <td class="publyear">12.2022</td>
+                      <td class="publ">
+                      Erwin Kessler schreibt auch nach seinem Tod noch Rechtsgeschichte, in: VgT-Nachrichten VN 22-4, S. 11-18 (www.vgt.ch/vn).
+                        <a class="linkpub nummer" target="_blank" href="download/erwin-kessler-schreibt-auch-nach-seinem-tod-noch-rechtsgeschichte-vn-22-4.pdf">Link zur Publikation</a>
+                      </td>
+                    </tr>
+                    <tr>
                       <td></td>
                       <td class="publ ptitle">
                         Siege vor dem Europäischen Gerichtshof für Menschenrechte (EGMR)
@@ -91,7 +98,7 @@
                       <td class="publyear">10.2022</td>
                       <td class="publ">
                       AFFAIRE VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) et KESSLER c. SUISSE / CASE OF VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) and KESSLER v. SWITZERLAND<br>Verletzung des Anspruchs auf Freiheit der Äusserung durch Bestrafung und Zensurierung von Äusserungen (tierschützerische Kritik) im Rahmen einer Abwahlkampagne gegen einen amtierenden Politiker. Einstufung der strittigen Äusserungen als Werturteile, deren Nachvollziehbarkeit die nationalen Instanzen anhand der vorgelegten Zeitungsausschnitte hätten prüfen und alsdann eine Interessenabwägung hätten vornehmen müssen. Die Verpflichtung des VgT, die strittigen Publikationen von seiner Internetseite zu löschen und das Dispositiv des zivilrechtlichen Urteils in drei Regional-Zeitungen zu veröffentlichen, sei angesichts des wichtigen politischen Themas, um das es gegangen sei, unverhältnismässig gewesen. Zusammen mit der Bestrafung von Erwin Kessler hätten diese Sanktionen eine abschreckende Wirkung auf die Ausübung des Rechts auf freie Meinungsäusserung gehabt und sie seien in einer demokratischen Gesellschaft nicht notwendig gewesen.<br><small>21974/16</small><br>
-                        <a class="linkpub nummer" target="_blank" href="download/falkenstein-egmr-entscheid-vom-20-09-2022-verkündet-am-11-10-2022.pdf" download="falkenstein-egmr-entscheid-vom-20-09-2022-verkündet-am-11-10-2022"">PDF Download</a>
+                        <a class="linkpub nummer" target="_blank" href="download/falkenstein-egmr-entscheid.pdf" download="falkenstein-egmr-entscheid"">PDF Download</a>
                       </td>
                     </tr>
                 </table>

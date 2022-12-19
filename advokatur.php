@@ -115,7 +115,7 @@
                 <br>
                 AFFAIRE VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) et KESSLER c. SUISSE / CASE OF VEREIN GEGEN TIERFABRIKEN SCHWEIZ (VgT) and KESSLER v. SWITZERLAND<br>
                 Verletzung des Anspruchs auf Freiheit der Äusserung durch Bestrafung und Zensurierung von Äusserungen (tierschützerische Kritik) im Rahmen einer Abwahlkampagne gegen einen amtierenden Politiker. Einstufung der strittigen Äusserungen als Werturteile, deren Nachvollziehbarkeit die nationalen Instanzen anhand der vorgelegten Zeitungsausschnitte hätten prüfen und alsdann eine Interessenabwägung hätten vornehmen müssen. Die Verpflichtung des VgT, die strittigen Publikationen von seiner Internetseite zu löschen und das Dispositiv des zivilrechtlichen Urteils in drei Regional-Zeitungen zu veröffentlichen, sei angesichts des wichtigen politischen Themas, um das es gegangen sei, unverhältnismässig gewesen. Zusammen mit der Bestrafung von Erwin Kessler hätten diese Sanktionen eine abschreckende Wirkung auf die Ausübung des Rechts auf freie Meinungsäusserung gehabt und sie seien in einer demokratischen Gesellschaft nicht notwendig gewesen.<br>
-                <a href="download/falkenstein-egmr-entscheid-vom-20-09-2022-verkündet-am-11-10-2022.pdf" download="falkenstein-egmr-entscheid-vom-20-09-2022-verkündet-am-11-10-2022">PDF Download</a><br>
+                <a href="download/falkenstein-egmr-entscheid.pdf" download="falkenstein-egmr-entscheid">PDF Download</a><br>
                 <small>21974/16 | 11/10/2022</small><br>
                 <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
                 </p>
