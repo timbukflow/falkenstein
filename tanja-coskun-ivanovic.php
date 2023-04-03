@@ -79,6 +79,10 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
             <div class="accList">
                 <table>
+                <tr>
+                      <td class="publyear">09.01.2023</td>
+                      <td class="publ">Fortsetzungsfamilien im Recht – Recht auf Fortsetzung der Familie?, Darstellung de lege lata und Vorschläge de lege ferenda, Diss. Luzern 2022, Zürich/Genf 2023.</td>
+                    </tr>
                     <tr>
                       <td class="publyear">31.10.2022</td>
                       <td class="publ">Betreuungsunterhalt zu Lasten des rechtlichen Stiefelters?, in: Jusletter vom 31. Oktober 2022.</td>
