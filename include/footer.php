@@ -8,10 +8,10 @@
             CH-9000 St.Gallen<br><br>
 
             Design &amp; Code:<br>
-            Schwizer &amp; Schlatter GmbH<br>
-            Davidstrasse 45<br>
-            CH-9000 St.Gallen<br>
-            <a href="https://schwizerschlatter.com/" target="_top">www.schwizerschlatter.com</a><br><br>
+            Schwizer Design GmbH<br>
+            Gallusstrasse 43<br>
+            9000 St. Gallen<br>
+            <a href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a><br><br>
 
             Fotografie:<br>
             Anna-Tina Eberhard Fotografie<br>
