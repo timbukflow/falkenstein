@@ -75,7 +75,7 @@ $(document).ready(function () {
         $('.acclistFooter').not($accordion_content).fadeOut(600);
         $accordion_content.stop(true, false).slideToggle(600);
         
-        var goto = $(this).attr("data-toggle");
+        var goto = $(this).data("target");
         if ($(goto).is(":visible")) {
             $('html,body').animate({scrollTop:$(goto).offset().top}, 600);
         } 

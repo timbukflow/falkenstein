@@ -1,6 +1,6 @@
  <footer>
     <div class="column-two">
-        <p class="footer accfooter" data-toggle="#impressum"><span class="line">&#x0007C;</span>Impressum</p>
+        <p class="footer accfooter" data-target="#impressum"><span class="line">&#x0007C;</span>Impressum</p>
         <p class="footer-content acclistFooter" id="impressum">
             Copyright:<br>
             Advokatur und Treuhand am Falkenstein<br>
@@ -21,7 +21,7 @@
         </p>
     </div>
     <div class="column-three">
-        <p class="footer accfooter" data-toggle="#disclaimer"><span class="line">&#x0007C;</span>Disclaimer</p>
+        <p class="footer accfooter" data-target="#disclaimer"><span class="line">&#x0007C;</span>Disclaimer</p>
         <p class="footer-content acclistFooter" id="disclaimer">
             Die Website www.falkenstein.ag dient der Informationsvermittlung über unsere Unternehmung sowie über unsere Produkte und Dienstleistungen.<br><br>
 
