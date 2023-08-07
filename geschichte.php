@@ -59,9 +59,16 @@ am Falkenstein">
                 <h2 class="gray story-bottom">Am 12. April 2019, dem 20. Jahrestag seines Eintritts in die Kanzlei, hat RA Frank Th. Petermann seinen Austritt aus der Advokatur am Falkenstein angekündigt. Er wird künftig ausschliesslich beratend tätig sein und bleibt uns daher nicht nur als Konsiliarius in seinen bevorzugten Fachgebieten, sondern auch weiterhin als Verwaltungsratspräsident der Geschäftszentrum Falkenstein AG erhalten. Daneben wird er sich wieder vermehrt der Publizistik und der Metallbildhauerei zuwenden. Sein privates Sekretariat wird wie bis anhin in der Kanzlei geführt werden.
                 </h2>
         </article>
+
         <article class="column-four storystyle inview">
             <h4>2021 &#8211;<span class="gray">2022</span></h4>
                 <h2 class="gray story-bottom">RA Matthias Burri-Küng verstärkt als selbständiger Rechtsanwalt die Kanzleigemeinschaft, welche sich von RA Debora Bilgeri getrennt hat.
+                </h2>
+        </article>
+
+        <article class="column-four storystyle storystyle-left inview">
+            <h4>2023</h4>
+                <h2 class="gray story-bottom">RA Andres Thürlimann verlässt die Kanzleigemeinschaft. Leider war es uns nicht möglich, ihn im Team zu halten, weil er den Austritt als weiteren Karriereschritt machen will und soll.
                 </h2>
         </article>
 

@@ -35,15 +35,6 @@
                     <span class="line">&#x0007C;</span>Rolf W. Rempfler
                 </h3>
             </a>
-            <a class="content-nav column-two inview" href="andres-thuerlimann" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-andres-thuerlimann.jpg" alt="falkenstein-advokatur-andres-thuerlimann" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-andres-thuerlimann-koch.jpg" alt="falkenstein-advokatur-andres-thuerlimann-koch" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Andres Thürlimann
-                </h3>
-            </a>
             <a class="content-nav column-two inview" href="tanja-coskun-ivanovic" target="_top">
                 <div class="container-img">
                     <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic" >
