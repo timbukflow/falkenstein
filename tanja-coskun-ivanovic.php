@@ -79,7 +79,11 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
             <div class="accList">
                 <table>
-                <tr>
+                    <tr>
+                      <td class="publyear">15.08.2023</td>
+                      <td class="publ">Zwangsernährung – gestützt worauf?, in: ZKE 4/2023, S. 314 ff.</td>
+                    </tr>
+                    <tr>
                       <td class="publyear">09.01.2023</td>
                       <td class="publ">Fortsetzungsfamilien im Recht – Recht auf Fortsetzung der Familie?, Darstellung de lege lata und Vorschläge de lege ferenda, Diss. Luzern 2022, Zürich/Genf 2023.</td>
                     </tr>

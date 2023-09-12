@@ -132,6 +132,7 @@ table,
 .nav,
 .nummer,
 .advonummer,
+.link,
 .story,
 .contact h3,
 .contact h3 a {
@@ -159,7 +160,7 @@ h3,
     display: block;
 }
 
-.advonummer {
+.advonummer, .link {
     font-size: 18px;
 }
 

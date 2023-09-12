@@ -12,7 +12,7 @@
     <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Christa Rempfler<br>
-                <span class="gray">Rechtsanwältin &#47; Notarin &#47; Mediatorin</span>
+                <span class="gray">Rechtsanwältin &#47; Notarin &#47; Mediatorin SAV</span>
                 <a class="erbrechtsinfo gray" href="https://www.erbrechtsinfo.ch/anwalt/st-gallen/christa-rempfler/" target="_blank">Partnerin von erbrechtsinfo.ch</a>
             </h1>
 
@@ -69,6 +69,11 @@
                     <td>Mediatorin SAV<br>
                     </td>
                 </tr>
+                <tr>
+                    <td class="year">2023</td>
+                    <td>CAS MedLaw UZH<br>
+                    </td>
+                </tr>
                 </table>
             </div>
 
@@ -84,6 +89,19 @@
 
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch</p>
+
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
+            <div class="accList">
+                <table>
+                    <tr>
+                      <td class="publyear">01.2023</td>
+                      <td class="publ">
+                        Grundrechte haben keine Katzenklappen; Art. 18 der Standesordnung FMH und dessen Rechtmässigkeit, untersucht am Beispiel der Patientenverfügung, in: Aktuelle juristische Praxis 32 (2023), 1, Seite 62 – 77.
+                        <a class="linkpub nummer" target="_blank" href="download/christa-rempfler-grundrechte-haben-keine-katzenklappen.pdf">Link zur Publikation</a>
+                      </td>
+                    </tr>
+                </table>
+            </div>
 
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Kontakt</h3>
             <p class="accList">
@@ -107,10 +125,10 @@
             <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-noten.jpg" alt="falkenstein-advokatur-christa-rempfler-noten" >
+            <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-velo.jpg" alt="falkenstein-advokatur-christa-rempfler-velo" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Ich spiele nach Noten – aber die Noten setze ich&raquo;</h4>
+            <h4>&laquo;Mit Treten geht's vorwärts&raquo;</h4>
         </article>
     </div>
 

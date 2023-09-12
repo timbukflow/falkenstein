@@ -126,10 +126,10 @@
             <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-tennis.jpg" alt="falkenstein-advokatur-rolf-rempfler-tennis" >
+            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-fussball.jpg" alt="falkenstein-advokatur-rolf-rempfler-fussball" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Durch die Gegenwärtigkeit des Spiels kann ich mich gut von meiner denkenden Arbeit erholen&raquo;</h4>
+            <h4>&laquo;Der Ball läuft rund, ich öffne ihm den Weg zum Tor&raquo;</h4>
         </article>
     </div>
 
