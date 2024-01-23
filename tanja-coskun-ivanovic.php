@@ -80,6 +80,12 @@
             <div class="accList">
                 <table>
                     <tr>
+                      <td class="publyear">21.11.2023</td>
+                      <td class="publ">Unterhaltsrecht in Fortsetzungsfamilien, in: FamPra.ch 4/2023, S. 847 ff.
+                        <a class="linkpub nummer" target="_blank" href="https://fampra.recht.ch/de/artikel/01fampra0423auf/unterhaltsrecht-fortsetzungsfamilien">Link zur Publikation</a>
+                      </td>
+                    </tr>
+                    <tr>
                       <td class="publyear">15.08.2023</td>
                       <td class="publ">Zwangsernährung – gestützt worauf?, in: ZKE 4/2023, S. 314 ff.</td>
                     </tr>
