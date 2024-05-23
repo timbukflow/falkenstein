@@ -120,6 +120,11 @@
                     MWST: CHE-338.058.794
                 </span>
             </p>
+
+            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Link</h3>
+            <p class="accList">
+                <a class="nummer" target="_blank" href="https://www.falkensteiglegends.ch/">www.falkensteiglegends.ch</a>
+            </p>
         </article>
 
         <div class="column-three container-img content-team-img inview">
