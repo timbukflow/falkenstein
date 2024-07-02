@@ -11,7 +11,7 @@
 
     <div class="main-container">
         <section class="content top column-three">
-            <h1 class="contact-resp">Tanja Coskun-Ivanovic<br><span class="gray">Rechtsanwältin &#47; Notarin</span></h1>
+            <h1 class="contact-resp">Tanja Coskun-Ivanovic<br><span class="gray">Rechtsanwältin &#47; Notarin &#47; Konsulentin</span></h1>
         </section>
 
         <article class="column-three accordion accordion-top">
@@ -46,6 +46,11 @@
                     <td>Erhalt Doktorwürde Universität Luzern<br>
                     </td>
                 </tr>
+                <tr>
+                    <td class="year">2024</td>
+                    <td>Beginn Habilitationsprojekt, Universität Luzern (SNF finanziert)<br>
+                    </td>
+                </tr>
                 </table>
             </div>
 
@@ -53,25 +58,22 @@
             <div class="accList">
                 <table>
                 <tr>
-                    <td class="year debora">seit 2019</td>
-                    <td>Head Legal Advisory, AsyLex<br>
-                    </td>
-                </tr>
-                <tr>
                     <td class="year">seit 2021</td>
                     <td>Lehrbeauftragte an der Universität Luzern<br>
                     </td>
                 </tr>
                 <tr>
-                    <td class="year">seit 2022</td>
-                    <td>Wissenschaftliche Mitarbeiterin von Prof. Dr. Regina Aebi-Müller, Universität Luzern<br>
+                    <td class="year">seit 2024</td>
+                    <td>Oberassistentin von Prof. Dr. Regina Aebi-Müller, Universität Luzern<br>
                     </td>
                 </tr>
+                <tr>
+                    <td class="year">seit 2024</td>
+                    <td>Ersatzdelegierte SAV<br>
+                    </td>
+                </tr>   
                 </table>
             </div>
-
-            <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Mitgliedschaften</h3>
-            <p class="accList">Schweizerischer und St.Galler Anwaltsverband, Asylex</p>
 
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sprachen</h3>
             <p class="accList">Deutsch, Serbisch, Bosnisch, Kroatisch und Englisch</p>
