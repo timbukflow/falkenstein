@@ -97,7 +97,7 @@
             <img class="img1" src="img/falkenstein-advokatur-marco-baechtold-kaffee.jpg" alt="falkenstein-advokatur-marco-baechtold-kaffee" >
         </div>
         <article class="content-right column-four inview">
-            <h4>&laquo;Mit Ruhe und Besonnenheit das Ziel im Fokus.&raquo;</h4>
+            <h4>&laquo;Mit Ruhe und Besonnenheit das Ziel im Fokus&raquo;</h4>
         </article>
     </div>
 
