@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Advokatur und Treuhand am Falkenstein | Geschichte</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Geschichte der Advokatur und Treuhand
 am Falkenstein">
@@ -69,6 +70,12 @@ am Falkenstein">
         <article class="column-four storystyle storystyle-left inview">
             <h4>2023</h4>
                 <h2 class="gray story-bottom">RA Andres Thürlimann verlässt die Kanzleigemeinschaft. Leider war es uns nicht möglich, ihn im Team zu halten, weil er den Austritt als weiteren Karriereschritt machen will und soll.
+                </h2>
+        </article>
+
+        <article class="column-four storystyle inview">
+            <h4>2024</h4>
+                <h2 class="gray story-bottom">Wir freuen uns über den Eintritt von RA Marco Bächtold als selbständiger Rechtsanwalt in unsere Kanzleigemeinschaft.
                 </h2>
         </article>
 

@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Advokatur am Falkenstein</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Advokatur am Falkenstein. Als engagierte und kompetente Kanzleigemeinschaft von selbständigen Rechtsanwälten und Notaren setzen wir uns zielorientiert, effizient und diskret für Ihre Rechte ein. Sollte eine gütliche Lösung nicht möglich sein, vertreten wir Ihre Interessen vor Gerichten und Verwaltungsbehörden. Sie profitieren von der mehrjährigen Berufserfahrung, der laufenden Weiterbildung und der interdisziplinären Vernetzung der Anwälte.">
 </head>
@@ -42,6 +43,15 @@
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Tanja Coskun-Ivanovic
+                </h3>
+            </a>
+            <a class="content-nav column-three inview" href="marco-baechtold" target="_top">
+                <div class="container-img">
+                    <img class="img1" src="img/falkenstein-advokatur-marco-baechtold.jpg" alt="falkenstein-advokatur-marco-baechtold" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-marco-baechtold-kaffee.jpg" alt="falkenstein-advokatur-marco-baechtold-kaffee" >
+                </div>
+                <h3 class="nav">
+                    <span class="line">&#x0007C;</span>Marco Bächtold
                 </h3>
             </a>
             <a class="content-nav column-three inview" href="matthias-burri-kueng" target="_top">

@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Advokatur und Treuhand am Falkenstein | Kontakt</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Advokatur und Treuhand am Falkenstein, Falkensteinstrasse 1, Postfach 152, 9016 St.Gallen">
 </head>

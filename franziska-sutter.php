@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Advokatur am Falkenstein | Franziska Sutter</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Sekretariat bei der Advokatur am Falkenstein">
 </head>

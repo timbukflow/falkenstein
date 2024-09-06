@@ -1,6 +1,5 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Advokatur und Treuhand am Falkenstein</title>
     <meta name="robots" content="all">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Advokatur und Treuhand am Falkenstein">

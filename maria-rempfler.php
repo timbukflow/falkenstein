@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Treuhand am Falkenstein | Maria Rempfler</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Treuhand und Immobilien am Falkenstein, Maria Rempfler, Immobilienverwaltung">
 </head>

@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Advokatur am Falkenstein | Christa Rempfler</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Christa Rempfler ist Selbständige Rechtsanwältin und Notarin bei der Advokatur am Falkenstein in St.Gallen">
 </head>

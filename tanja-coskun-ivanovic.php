@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Advokatur am Falkenstein | Tanja Coskun-Ivanovic</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Advokatur am Falkenstein, Tanja Ivanovic, Rechtsanwältin und Notarin">
 </head>

@@ -1,6 +1,7 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
 <head>
+    <title>Treuhand am Falkenstein</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Treuhand am Falkenstein. Wir bieten Ihnen die umfassende Beratung in allen geschäftlichen Belangen an, sei dies bei der Auswahl der passenden Geschäfts- und Gesellschaftsform oder bei der Gründung oder Umstrukturierung Ihrer Firma. Wir verwalten auch Ihre Sitz- oder Holding-Gesellschaft mit Vollmacht oder als eingetragene Geschäftsführer. Ein weiterer Schwerpunkt unserer Tätigkeit liegt bei Nachfolge-Regelungen, Liquidationen und Erbteilungen.">
 </head>
