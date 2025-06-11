@@ -1,14 +1,4 @@
-/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
 
-/*
- * What follows is the result of much research on cross-browser styling.
- * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
- * Kroc Camen, and the H5BP dev community and team.
- */
-
-/* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
 * {
     box-sizing: border-box;
 }
@@ -22,16 +12,6 @@ html, body {
     line-height: 1.4;
 }
 
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * Vendor-prefixed and regular ::selection selectors cannot be combined:
- * https://stackoverflow.com/a/16982510/7133471
- *
- * Customize the background color to match your design.
- */
-
 ::-moz-selection {
     background: rgb(25, 72, 154);
     color: white;
@@ -44,10 +24,6 @@ html, body {
     text-shadow: none;
 }
 
-/*
- * A better looking default horizontal rule
- */
-
 hr {
     display: block;
     height: 1px;
@@ -56,12 +32,6 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
-
-/*
- * Remove the gap between audio, canvas, iframes,
- * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
- */
 
 audio,
 canvas,
@@ -72,9 +42,6 @@ video {
     vertical-align: middle;
 }
 
-/*
- * Remove default fieldset styles.
- */
 
 fieldset {
     border: 0;
@@ -82,17 +49,10 @@ fieldset {
     padding: 0;
 }
 
-/*
- * Allow only vertical resizing of textareas.
- */
 
 textarea {
     resize: vertical;
 }
-
-/* ==========================================================================
-   Browser Upgrade Prompt
-   ========================================================================== */
 
 .browserupgrade {
     margin: 0.2em 0;
@@ -129,6 +89,8 @@ h3,
 h4,
 p,
 table,
+li,
+.datenschutz a,
 .nav,
 .nummer,
 .advonummer,
@@ -345,6 +307,7 @@ p.subnav-titel,
 
 p.subnav-titel,
 .footer,
+.footer a,
 .footer-content {
     color: rgba(0, 0, 0, 0.4);
 }
@@ -592,6 +555,36 @@ td {
     width: 100%;
     float: left;
     padding: 8px;
+}
+
+/* ==========================================================================
+   datenschutz
+   ========================================================================== */
+
+.datenschutz {
+    margin-top: 150px;
+    padding: 0px 32px;
+}
+
+.datenschutz h2 {
+    font-size: 36px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+}
+
+.datenschutz p,
+.datenschutz li {
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.datenschutz li {
+    padding-bottom: 5px;
+}
+
+.datenschutz a {
+   font-size: 18px;
+   text-decoration: underline;
 }
 
 /* ==========================================================================

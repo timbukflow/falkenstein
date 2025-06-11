@@ -20,7 +20,7 @@
             <a href="https://at-eberhard.ch/" target="_top">www.at-eberhard.ch</a><br>
         </p>
     </div>
-    <div class="column-three">
+    <div class="column-two">
         <p class="footer accfooter" data-target="#disclaimer"><span class="line">&#x0007C;</span>Disclaimer</p>
         <p class="footer-content acclistFooter" id="disclaimer">
             Die Website www.falkenstein.ag dient der Informationsvermittlung über unsere Unternehmung sowie über unsere Produkte und Dienstleistungen.<br><br>
@@ -29,7 +29,10 @@
 
             Alle Rechte vorbehalten. Jede Art der Vervielfältigung, Verbreitung, Auswertung oder Veränderung – auch auszugsweise – ist ohne vorgängige schriftliche Genehmigung durch die Advokatur und Treuhand am Falkenstein untersagt.<br><br>
 
-            © 2024 Advokatur und Treuhand am Falkenstein. All rights reserved.
+            © 2025 Advokatur und Treuhand am Falkenstein. All rights reserved.
         </p>
+    </div>
+    <div class="column-two">
+        <p class="footer accfooter"><a href="datenschutz"><span class="line">&#x0007C;</span>Datenschutz</a></p>
     </div>
 </footer>

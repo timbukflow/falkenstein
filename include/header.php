@@ -27,6 +27,7 @@
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Sekretariat</p>
                 <a href="franziska-sutter" target="_top"><span class="line">&#x0007C;</span>Franziska Sutter</a>
                 <a href="fabienne-frei" target="_top"><span class="line">&#x0007C;</span>Fabienne Frei</a>
+                <a href="yuwaddy-rempfler" target="_top"><span class="line">&#x0007C;</span>Yuwaddy Rempfler</a>
             </div>
         </div>
 

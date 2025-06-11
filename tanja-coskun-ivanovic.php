@@ -72,6 +72,11 @@
                     <td class="year">seit 2024</td>
                     <td>Ersatzdelegierte SAV<br>
                     </td>
+                </tr> 
+                <tr>
+                    <td class="year">seit 2025</td>
+                    <td>Lehrbeauftragte an der Universität St. Gallen (HSG)<br>
+                    </td>
                 </tr>   
                 </table>
             </div>
@@ -82,6 +87,28 @@
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Publikationen</h3>
             <div class="accList">
                 <table>
+                    <tr>
+                      <td class="publyear">02.06.2025</td>
+                      <td class="publ">Unterhaltsfestsetzung in Fortsetzungsfamilien – ein Leitfaden für die Praxis, in: FamPra.ch 2025, S. 308 ff. (Co-Autorin mit Dr. iur. Philipp Maier)
+                        <a class="linkpub nummer" target="_blank" href="https://fampra.recht.ch/de/artikel/02fampra0225auf/unterhaltsfestsetzung-fortsetzungsfamilien-ein-leitfaden-fur-die-praxis">Link zur Publikation</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">19.05.2025</td>
+                      <td class="publ">Die Zahlvaterschaft – die langen Schatten der Vergangenheit, in: AJP 2025, S. 464 ff.</td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">12.05.2025</td>
+                      <td class="publ">Materiellrechtliche und prozessuale Herausforderungen bei der Unterhaltsberechnung in Fortsetzungsfamilien, in: Fankhauser Roland/Büchler Andrea (Hrsg.), 11. Schweizer Familienrecht§Tage, 5./6. September 2024 in Basel, Bern 2025, S. 183 ff. (Co-Autorin mit Dr. iur. Philipp Maier)</td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">10.0.2025</td>
+                      <td class="publ">Zur indirekten Unterhaltspflicht gegenüber faktischen Stiefkindern im Konkubinat, in: legalisbrief 1/2025, Fachdienst Familienrecht, Leitartikel, S. 1 ff.</td>
+                    </tr>
+                    <tr>
+                      <td class="publyear">18.11.2024</td>
+                      <td class="publ">Der ärztliche Behandlungsvertrag betreffend das urteilsunfähige Kind – mit dem urteilsunfähigen Kind?, in: ZBJV 2024, S. 559 ff.</td>
+                    </tr>
                     <tr>
                       <td class="publyear">21.11.2023</td>
                       <td class="publ">Unterhaltsrecht in Fortsetzungsfamilien, in: FamPra.ch 4/2023, S. 847 ff.
