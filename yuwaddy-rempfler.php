@@ -37,10 +37,10 @@
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-yuwaddy-rempfler.jpg" alt="falkenstein-advokatur-yuwaddy-rempfler" >
+            <img class="img1" src="img/falkenstein-advokatur-yuwaddy-rempfler.jpg" alt="Yuwaddy Rempfler - Sekretariat Advokatur am Falkenstein" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-yuwaddy-rempfler-buch.jpg" alt="falkenstein-advokatur-yuwaddy-rempfler-buch" >
+            <img class="img1" src="img/falkenstein-advokatur-yuwaddy-rempfler-buch.jpg" alt="Yuwaddy Rempfler - Sekretariat Advokatur am Falkenstein" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Lesen heisst lernen, lernen heisst wachsen&raquo;</h4>

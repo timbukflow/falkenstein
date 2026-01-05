@@ -19,7 +19,6 @@
                 <a href="rolf-w-rempfler" target="_top"><span class="line">&#x0007C;</span>Rolf W. Rempfler</a>
                 <a href="tanja-coskun-ivanovic" target="_top"><span class="line">&#x0007C;</span>Tanja Coskun-Ivanovic</a>
                 <a href="marco-baechtold" target="_top"><span class="line">&#x0007C;</span>Marco Bächtold</a>
-                <a href="matthias-burri-kueng" target="_top"><span class="line">&#x0007C;</span>Matthias Burri-Küng</a>
                 <p class="subnav-titel"><span class="lineactive">&#x0007C;</span>Treuhand</p>
                 <a href="maria-rempfler" target="_top"><span class="line">&#x0007C;</span>Maria Rempfler</a>
                 <a href="werner-rempfler" target="_top"><span class="line">&#x0007C;</span>Werner Rempfler</a>
@@ -41,7 +40,7 @@
 
         <div class="logo-container">
             <a href="index" target="_top">
-                <img class="logo-small" alt="advokatur-treuhand-falkenstein-logo-small" src="img/advokatur-treuhand-falkenstein-logo-small.svg">
+                <img class="logo-small" alt="Logo Advokatur und Treuhand am Falkenstein" src="img/advokatur-treuhand-falkenstein-logo-small.svg">
             </a>
         </div>
 

@@ -3,7 +3,30 @@
 <head>
     <title>Treuhand am Falkenstein | Roger Schai</title>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="Treuhand am Falkenstein, Roger Schai">
+    <meta name="description" content="Roger Schai - Treuhänder am Falkenstein in St. Gallen">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Roger Schai",
+        "jobTitle": "Treuhänder",
+        "worksFor": {
+            "@type": "LocalBusiness",
+            "name": "Treuhand am Falkenstein",
+            "url": "https://falkenstein.ag"
+        },
+        "telephone": "+41 71 242 66 57",
+        "email": "rs@falkenstein.ag",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Falkensteinstrasse 1",
+            "addressLocality": "St. Gallen",
+            "postalCode": "9016",
+            "addressCountry": "CH"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -46,10 +69,10 @@
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-treuhand-roger-schai.jpg" alt="falkenstein-treuhand-roger-schai" >
+            <img class="img1" src="img/falkenstein-treuhand-roger-schai.jpg" alt="Roger Schai - Treuhänder St. Gallen" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="falkenstein-treuhand-roger-schai-fussball" >
+            <img class="img1" src="img/falkenstein-treuhand-roger-schai-fussball.jpg" alt="Roger Schai - Treuhänder St. Gallen" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Teamplayer: Wie im Fussball so im Büro&raquo;</h4>

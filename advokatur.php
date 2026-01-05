@@ -20,8 +20,8 @@
         <article>
             <a class="content-nav column-three inview" href="christa-rempfler" target="_top">
                 <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-christa-rempfler-velo.jpg" alt="falkenstein-advokatur-christa-rempfler-velo" >
+                    <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="Christa Rempfler - Rechtsanwältin und Notarin St. Gallen" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-christa-rempfler-velo.jpg" alt="Christa Rempfler - Rechtsanwältin und Notarin St. Gallen" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Christa Rempfler
@@ -29,8 +29,8 @@
             </a>
             <a class="content-nav column-three inview" href="rolf-w-rempfler" target="_top">
                 <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-rolf-rempfler-fussball.jpg" alt="falkenstein-advokatur-rolf-rempfler-fussball" >
+                    <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="Rolf W. Rempfler - Rechtsanwalt und Notar St. Gallen" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-rolf-rempfler-fussball.jpg" alt="Rolf W. Rempfler - Rechtsanwalt und Notar St. Gallen" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Rolf W. Rempfler
@@ -38,8 +38,8 @@
             </a>
             <a class="content-nav column-three inview" href="tanja-coskun-ivanovic" target="_top">
                 <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic-welt" >
+                    <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="Tanja Coskun-Ivanovic - Rechtsanwältin St. Gallen" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="Tanja Coskun-Ivanovic - Rechtsanwältin St. Gallen" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Tanja Coskun-Ivanovic
@@ -47,20 +47,11 @@
             </a>
             <a class="content-nav column-three inview" href="marco-baechtold" target="_top">
                 <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-marco-baechtold.jpg" alt="falkenstein-advokatur-marco-baechtold" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-marco-baechtold-kaffee.jpg" alt="falkenstein-advokatur-marco-baechtold-kaffee" >
+                    <img class="img1" src="img/falkenstein-advokatur-marco-baechtold.jpg" alt="Marco Bächtold - Rechtsanwalt St. Gallen" >
+                    <img class="img2 mobile" src="img/falkenstein-advokatur-marco-baechtold-kaffee.jpg" alt="Marco Bächtold - Rechtsanwalt St. Gallen" >
                 </div>
                 <h3 class="nav">
                     <span class="line">&#x0007C;</span>Marco Bächtold
-                </h3>
-            </a>
-            <a class="content-nav column-three inview" href="matthias-burri-kueng" target="_top">
-                <div class="container-img">
-                    <img class="img1" src="img/falkenstein-advokatur-matthias-burri-kueng.jpg" alt="falkenstein-advokatur-matthias-burri-kueng" >
-                    <img class="img2 mobile" src="img/falkenstein-advokatur-matthias-burri-kueng.jpg" alt="falkenstein-advokatur-matthias-burri-kueng-passion" >
-                </div>
-                <h3 class="nav">
-                    <span class="line">&#x0007C;</span>Matthias Burri-Küng
                 </h3>
             </a>
 
@@ -116,7 +107,7 @@
                 <small>Rolf W. Rempfler, Rechtsanwalt, St. Gallen</small>
                 </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Sozial- und Privatversicherungsrecht mit Haftpflichtrecht</h3>
-                <p class="accList gray">Bei einem Unfall oder einer Krankheit werden Sie rasch mit verschiedenen Versicherern konfrontiert. Wir helfen Ihnen, Ihre Ansprüche abzuklären und gegenüber den jeweiligen Sozial- und Privatversicherungen geltend zu machen und nötigenfalls gerichtlich durchzusetzen.<br><br>Falls Sie durch einen Dritten verletzt wurden oder Ihr Eigentum beschädigt wurde, prüfen wir Ihre Ansprüche gegenüber diesem Dritten oder dessen Versicherungen und unterstützen Sie bei der Durchsetzung Ihrer Forderung. Umgekehrt helfen wir Ihnen, unberechtigte Ansprüche abzuwehren.<br><br>Frau <a class="link" href="christa-rempfler">RA lic. iur. Christa Rempfler</a> und Herr <a class="link" href="matthias-burri-kueng">RA lic. iur. Matthias Burri-Küng</a> haben sich auf diesem Gebiet weitergebildet und verfügen über ausgewiesene langjährige Berufserfahrung.
+                <p class="accList gray">Bei einem Unfall oder einer Krankheit werden Sie rasch mit verschiedenen Versicherern konfrontiert. Wir helfen Ihnen, Ihre Ansprüche abzuklären und gegenüber den jeweiligen Sozial- und Privatversicherungen geltend zu machen und nötigenfalls gerichtlich durchzusetzen.<br><br>Falls Sie durch einen Dritten verletzt wurden oder Ihr Eigentum beschädigt wurde, prüfen wir Ihre Ansprüche gegenüber diesem Dritten oder dessen Versicherungen und unterstützen Sie bei der Durchsetzung Ihrer Forderung. Umgekehrt helfen wir Ihnen, unberechtigte Ansprüche abzuwehren.<br><br>Frau <a class="link" href="christa-rempfler">RA lic. iur. Christa Rempfler</a> hat sich auf diesem Gebiet weitergebildet und verfügt über ausgewiesene langjährige Berufserfahrung.
                 </p>
             <h3 class="nav accTitle"><span class="line">&#x0007C;</span>Steuerrecht</h3>
                 <p class="accList gray">Privatpersonen wie auch die gewerblichen Betriebe werden immer intensiver mit den verfeinerten Veranlagungsmethoden unserer Steuervögte konfrontiert. Eine einlässliche Prüfung der möglichen Steueroptimierungen kann Entlastung bringen. Akzeptieren Sie fragwürdige Veranlagungen nicht aus Angst vor weiteren Retourkutschen des Steuerkommissärs. Wir helfen Ihnen gerne. Auf Wunsch können wir die Treuhand am Falkenstein beiziehen.

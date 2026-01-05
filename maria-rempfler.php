@@ -3,7 +3,30 @@
 <head>
     <title>Treuhand am Falkenstein | Maria Rempfler</title>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="Treuhand und Immobilien am Falkenstein, Maria Rempfler, Immobilienverwaltung">
+    <meta name="description" content="Maria Rempfler - Treuhand und Immobilienverwaltung am Falkenstein in St. Gallen">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Maria Rempfler",
+        "jobTitle": "Immobilienverwaltung",
+        "worksFor": {
+            "@type": "LocalBusiness",
+            "name": "Treuhand am Falkenstein",
+            "url": "https://falkenstein.ag"
+        },
+        "telephone": "+41 71 242 66 57",
+        "email": "rempfler@falkenstein.ag",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Falkensteinstrasse 1",
+            "addressLocality": "St. Gallen",
+            "postalCode": "9016",
+            "addressCountry": "CH"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -55,10 +78,10 @@
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="falkenstein-immobilien-maria-rempfler" >
+            <img class="img1" src="img/falkenstein-immobilien-maria-rempfler.jpg" alt="Maria Rempfler - Treuhand und Immobilien St. Gallen" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="falkenstein-immobilien-maria-rempfler-jass" >
+            <img class="img1" src="img/falkenstein-immobilien-maria-rempfler-jass.jpg" alt="Maria Rempfler - Treuhand und Immobilien St. Gallen" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Die richtige Karte im <span class="respbr"></span>richtigen Moment&raquo;</h4>

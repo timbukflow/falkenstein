@@ -1,4 +1,11 @@
-RewriteEngine on 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
+
+# Redirects für ehemalige Mitarbeiter
+Redirect 301 /debora-bilgeri https://falkenstein.ag
+Redirect 301 /matthias-burri-kueng https://falkenstein.ag
+Redirect 301 /frank-th-petermann https://falkenstein.ag
+Redirect 301 /tanja-ivanovic https://falkenstein.ag/tanja-coskun-ivanovic
+Redirect 301 /andres-thuerlimann https://falkenstein.ag

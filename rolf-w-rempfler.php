@@ -4,6 +4,29 @@
     <title>Advokatur am Falkenstein | Rolf W. Rempfler</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Rolf W. Rempfler ist Selbständiger Rechtsanwalt und Notar bei der Advokatur am Falkenstein in St.Gallen">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Rolf W. Rempfler",
+        "jobTitle": "Rechtsanwalt und Notar",
+        "worksFor": {
+            "@type": "LegalService",
+            "name": "Advokatur am Falkenstein",
+            "url": "https://falkenstein.ag"
+        },
+        "telephone": "+41 71 242 66 51",
+        "email": "rr@falkenstein.ag",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Falkensteinstrasse 1",
+            "addressLocality": "St. Gallen",
+            "postalCode": "9016",
+            "addressCountry": "CH"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -129,10 +152,10 @@
         </article>
 
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="falkenstein-advokatur-rolf-rempfler" >
+            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler.jpg" alt="Rolf W. Rempfler - Rechtsanwalt und Notar St. Gallen" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-fussball.jpg" alt="falkenstein-advokatur-rolf-rempfler-fussball" >
+            <img class="img1" src="img/falkenstein-advokatur-rolf-rempfler-fussball.jpg" alt="Rolf W. Rempfler - Rechtsanwalt und Notar St. Gallen" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Der Ball läuft rund, ich öffne ihm den Weg zum Tor&raquo;</h4>

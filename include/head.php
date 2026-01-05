@@ -1,6 +1,5 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="robots" content="all">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Advokatur und Treuhand am Falkenstein">
     
@@ -18,13 +17,20 @@
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="business.business">
     <meta property="og:title" content="Advokatur und Treuhand am Falkenstein">
-    <meta property="og:url" content="http://falkenstein.ag">
+    <meta property="og:url" content="https://falkenstein.ag">
+    <meta property="og:image" content="https://falkenstein.ag/img/og-image.jpg">
     <meta property="business:contact_data:street_address" content="Falkensteinstrasse 1">
     <meta property="business:contact_data:locality" content="St.Gallen">
-    <meta property="business:contact_data:region" content="9016">
+    <meta property="business:contact_data:region" content="St.Gallen">
     <meta property="business:contact_data:postal_code" content="9016">
     <meta property="business:contact_data:country_name" content="Switzerland">
-    
+
+    <?php
+    $canonical_page = basename($_SERVER['PHP_SELF'], '.php');
+    $canonical_url = ($canonical_page === 'index') ? 'https://falkenstein.ag/' : 'https://falkenstein.ag/' . $canonical_page;
+    ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">

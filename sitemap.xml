@@ -6,88 +6,83 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.falkenstein.ag/</loc>
-  <lastmod>2025-06-10T14:00:00+00:00</lastmod>
+  <loc>https://falkenstein.ag/</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/advokatur</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/advokatur</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/treuhand</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/treuhand</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/marco-baechtold</loc>
- <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/marco-baechtold</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/matthias-burri-kueng</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/christa-rempfler</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/christa-rempfler</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/rolf-w-rempfler</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/rolf-w-rempfler</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/tanja-coskun-ivanovic</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/tanja-coskun-ivanovic</loc>
-  <lastmod>2025-06-10T14:00:00+00:00</lastmod>
+  <loc>https://falkenstein.ag/maria-rempfler</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/maria-rempfler</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/werner-rempfler</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/werner-rempfler</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/roger-schai</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/roger-schai</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/franziska-sutter</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/franziska-sutter</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/fabienne-frei</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/fabienne-frei</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/yuwaddy-rempfler</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/geschichte</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
+  <loc>https://falkenstein.ag/geschichte</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://falkenstein.ag/kontakt</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.falkenstein.ag/kontakt</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.falkenstein.ag/index</loc>
-  <lastmod>2024-09-06T07:23:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.falkenstein.ag/yuwaddy-rempfler</loc>
-  <lastmod>2025-06-10T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://falkenstein.ag/datenschutz</loc>
+  <lastmod>2026-01-05T12:00:00+00:00</lastmod>
+  <priority>0.40</priority>
 </url>
 </urlset>

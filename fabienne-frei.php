@@ -37,10 +37,10 @@
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei.jpg" alt="falkenstein-sekretariat-fabienne-frei" >
+            <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei.jpg" alt="Fabienne Frei - Sekretariat Advokatur am Falkenstein" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="falkenstein-sekretariat-fabienne-frei-fotografie" >
+            <img class="img1" src="img/falkenstein-sekretariat-fabienne-frei-fotografie.jpg" alt="Fabienne Frei - Sekretariat Advokatur am Falkenstein" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Richte Deinen Fokus auf die Lösung und nicht auf das Problem&raquo;</h4>

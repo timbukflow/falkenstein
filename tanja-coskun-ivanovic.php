@@ -3,7 +3,30 @@
 <head>
     <title>Advokatur am Falkenstein | Tanja Coskun-Ivanovic</title>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="Advokatur am Falkenstein, Tanja Ivanovic, Rechtsanwältin und Notarin">
+    <meta name="description" content="Tanja Coskun-Ivanovic ist Rechtsanwältin bei der Advokatur am Falkenstein in St.Gallen">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tanja Coskun-Ivanovic",
+        "jobTitle": "Rechtsanwältin",
+        "worksFor": {
+            "@type": "LegalService",
+            "name": "Advokatur am Falkenstein",
+            "url": "https://falkenstein.ag"
+        },
+        "telephone": "+41 71 242 66 51",
+        "email": "tci@falkenstein.ag",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Falkensteinstrasse 1",
+            "addressLocality": "St. Gallen",
+            "postalCode": "9016",
+            "addressCountry": "CH"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -164,10 +187,10 @@
         </article>
 
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic" >
+            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic.jpg" alt="Tanja Coskun-Ivanovic - Rechtsanwältin St. Gallen" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="falkenstein-advokatur-tanja-coskun-ivanovic-welt" >
+            <img class="img1" src="img/falkenstein-advokatur-tanja-ivanovic-welt.jpg" alt="Tanja Coskun-Ivanovic - Rechtsanwältin St. Gallen" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Weitsichtig, weltoffen, grenzenlos - Nur wer nicht stehen bleibt, findet neue Wege&raquo;</h4>

@@ -37,10 +37,10 @@
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter.jpg" alt="falkenstein-sekretariat-franziska-sutter" >
+            <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter.jpg" alt="Franziska Sutter - Sekretariat Advokatur am Falkenstein" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter-wandern.jpg" alt="falkenstein-sekretariat-franziska-sutter-wandern" >
+            <img class="img1" src="img/falkenstein-sekretariat-franziska-sutter-wandern.jpg" alt="Franziska Sutter - Sekretariat Advokatur am Falkenstein" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Aus den Papierbergen hinaus über Stock und Stein&raquo;</h4>

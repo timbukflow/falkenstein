@@ -4,6 +4,29 @@
     <title>Advokatur am Falkenstein | Marco Bächtold</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Marco Bächtold ist Selbständiger Rechtsanwalt und Notar bei der Advokatur am Falkenstein in St.Gallen">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Marco Bächtold",
+        "jobTitle": "Rechtsanwalt",
+        "worksFor": {
+            "@type": "LegalService",
+            "name": "Advokatur am Falkenstein",
+            "url": "https://falkenstein.ag"
+        },
+        "telephone": "+41 71 242 66 58",
+        "email": "mb@falkenstein.ag",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Falkensteinstrasse 1",
+            "addressLocality": "St. Gallen",
+            "postalCode": "9016",
+            "addressCountry": "CH"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -91,10 +114,10 @@
         </article>
 
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-marco-baechtold.jpg" alt="falkenstein-advokatur-marco-baechtold" >
+            <img class="img1" src="img/falkenstein-advokatur-marco-baechtold.jpg" alt="Marco Bächtold - Rechtsanwalt St. Gallen" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-marco-baechtold-kaffee.jpg" alt="falkenstein-advokatur-marco-baechtold-kaffee" >
+            <img class="img1" src="img/falkenstein-advokatur-marco-baechtold-kaffee.jpg" alt="Marco Bächtold - Rechtsanwalt St. Gallen" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Mit Ruhe und Besonnenheit das Ziel im Fokus&raquo;</h4>

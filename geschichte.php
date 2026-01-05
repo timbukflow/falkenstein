@@ -26,8 +26,8 @@ am Falkenstein">
 
         <div class="column-six content-story-img">
             <div class="container-img inview">
-                <img class="img1" src="img/falkenstein-advokatur-geschichte-a.jpg" alt="falkenstein-advokatur-treuhand-home" >
-                <img class="img2 mobile" src="img/falkenstein-advokatur-geschichte-b.jpg" alt="falkenstein-advokatur-treuhand-home" >
+                <img class="img1" src="img/falkenstein-advokatur-geschichte-a.jpg" alt="Geschichte der Advokatur am Falkenstein - Historisches Kanzleigebäude" >
+                <img class="img2 mobile" src="img/falkenstein-advokatur-geschichte-b.jpg" alt="Geschichte der Advokatur am Falkenstein - Historisches Kanzleigebäude" >
             </div>
         </div>
 
@@ -79,10 +79,16 @@ am Falkenstein">
                 </h2>
         </article>
 
+         <article class="column-four storystyle storystyle-left inview">
+            <h4>2025</h4>
+                <h2 class="gray story-bottom">Im Zuge einer beruflichen und persönlichen Neuorientierung hat sich Rechtsanwalt Matthias Burri-Küng entschieden, unsere Kanzlei per Ende Jahr 2025 zu verlassen. Wir bedauern seinen Weggang sehr und wünschen ihm alles Gute.
+                </h2>
+        </article>
+
         <div class="column-six content-story-img">
             <div class="container-img inview">
-                <img class="img1" src="img/falkenstein-advokatur-haus-a.jpg" alt="falkenstein-advokatur-iustitia-vincit" >
-                <img class="img2 mobile" src="img/falkenstein-advokatur-haus-b.jpg" alt="falkenstein-advokatur-iustitia-vincit" >
+                <img class="img1" src="img/falkenstein-advokatur-haus-a.jpg" alt="Kanzleigebäude Falkensteinstrasse 1 St. Gallen - Iustitia Vincit" >
+                <img class="img2 mobile" src="img/falkenstein-advokatur-haus-b.jpg" alt="Kanzleigebäude Falkensteinstrasse 1 St. Gallen - Iustitia Vincit" >
             </div>
         </div>
 

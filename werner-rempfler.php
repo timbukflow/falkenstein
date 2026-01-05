@@ -3,7 +3,30 @@
 <head>
     <title>Treuhand am Falkenstein | Werner Rempfler</title>
     <?php include 'include/head.php'; ?>
-    <meta name="description" content="Treuhand und Immobilien am Falkenstein, Werner Rempfler, Treuhand und Immobilien">
+    <meta name="description" content="Werner Rempfler - Treuhand und Immobilien am Falkenstein in St. Gallen">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Werner Rempfler",
+        "jobTitle": "Treuhänder",
+        "worksFor": {
+            "@type": "LocalBusiness",
+            "name": "Treuhand am Falkenstein",
+            "url": "https://falkenstein.ag"
+        },
+        "telephone": "+41 71 242 66 57",
+        "email": "rempfler@falkenstein.ag",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Falkensteinstrasse 1",
+            "addressLocality": "St. Gallen",
+            "postalCode": "9016",
+            "addressCountry": "CH"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -77,10 +100,10 @@
         </article>  
         
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-treuhand-werner-rempfler.jpg" alt="falkenstein-treuhand-werner-rempfler" >
+            <img class="img1" src="img/falkenstein-treuhand-werner-rempfler.jpg" alt="Werner Rempfler - Treuhänder St. Gallen" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="falkenstein-treuhand-werner-rempfler-jagd" >
+            <img class="img1" src="img/falkenstein-treuhand-werner-rempfler-jagd.jpg" alt="Werner Rempfler - Treuhänder St. Gallen" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Lauschen – Pirschen – <span class="respbr"></span>Beobachten – Begutachten – Treffen&raquo;</h4>

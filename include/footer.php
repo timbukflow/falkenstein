@@ -29,7 +29,7 @@
 
             Alle Rechte vorbehalten. Jede Art der Vervielfältigung, Verbreitung, Auswertung oder Veränderung – auch auszugsweise – ist ohne vorgängige schriftliche Genehmigung durch die Advokatur und Treuhand am Falkenstein untersagt.<br><br>
 
-            © 2025 Advokatur und Treuhand am Falkenstein. All rights reserved.
+            © <?php echo date("Y"); ?> Advokatur und Treuhand am Falkenstein. All rights reserved.
         </p>
     </div>
     <div class="column-two">

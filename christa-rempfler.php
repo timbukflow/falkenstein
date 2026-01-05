@@ -4,6 +4,29 @@
     <title>Advokatur am Falkenstein | Christa Rempfler</title>
     <?php include 'include/head.php'; ?>
     <meta name="description" content="Christa Rempfler ist Selbständige Rechtsanwältin und Notarin bei der Advokatur am Falkenstein in St.Gallen">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Christa Rempfler",
+        "jobTitle": "Rechtsanwältin und Notarin",
+        "worksFor": {
+            "@type": "LegalService",
+            "name": "Advokatur am Falkenstein",
+            "url": "https://falkenstein.ag"
+        },
+        "telephone": "+41 71 242 66 53",
+        "email": "cr@falkenstein.ag",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Falkensteinstrasse 1",
+            "addressLocality": "St. Gallen",
+            "postalCode": "9016",
+            "addressCountry": "CH"
+        }
+    }
+    </script>
 </head>
 
 <body>
@@ -123,10 +146,10 @@
         </article>
 
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="falkenstein-advokatur-christa-rempfler" >
+            <img class="img1" src="img/falkenstein-advokatur-christa-rempfler.jpg" alt="Christa Rempfler - Rechtsanwältin und Notarin St. Gallen" >
         </div>
         <div class="column-three container-img content-team-img inview">
-            <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-velo.jpg" alt="falkenstein-advokatur-christa-rempfler-velo" >
+            <img class="img1" src="img/falkenstein-advokatur-christa-rempfler-velo.jpg" alt="Christa Rempfler - Rechtsanwältin und Notarin St. Gallen" >
         </div>
         <article class="content-right column-four inview">
             <h4>&laquo;Mit Treten geht's vorwärts&raquo;</h4>
