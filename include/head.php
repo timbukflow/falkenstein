@@ -9,7 +9,7 @@
 
     <meta name="keywords" content="Advokatur, Treuhand, Immobilien, Falkenstein, Frank Th. Petermann, Rolf W. Rempfler, Christa Rempfler, Tanja Ivanovic, Werner Rempfler, Maria Rempfler, Roger Schai, Betreibungs- und Konkursrecht, Erbrecht und Vorsorge, Exportkontrollrecht, Familienrecht mit Kindes- und Erwachsenenschutzrecht, Firmengründung und -führung, Medizinalrecht, Pharmarecht, Rufschädigungen und Europäische Menschenrechtskonvention (EMRK), Sozial- und Privatversicherungsrecht mit Haftpflichtrecht, Steuerrecht, Strafrecht, Strassenverkehrsrecht, Vertragsrecht, Verwaltungs-, Bau- und Planungsrecht, Sachenrecht (Dienstbarkeiten, etc.),">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="Falkenstein.ag">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">

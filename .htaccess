@@ -1,4 +1,9 @@
 RewriteEngine on
+
+# www nach non-www umleiten
+RewriteCond %{HTTP_HOST} ^www\.falkenstein\.ag$ [NC]
+RewriteRule ^(.*)$ https://falkenstein.ag/$1 [R=301,L]
+
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
