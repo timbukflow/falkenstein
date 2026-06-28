@@ -10,8 +10,8 @@
         "@context": "https://schema.org",
         "@type": "LegalService",
         "name": "Advokatur und Treuhand am Falkenstein",
-        "image": "https://falkenstein.ag/img/og-image.jpg",
-        "url": "https://falkenstein.ag",
+        "image": "https://www.falkenstein.ag/img/og-image.jpg",
+        "url": "https://www.falkenstein.ag",
         "telephone": "+41 71 242 66 50",
         "email": "info@falkenstein.ag",
         "address": {

@@ -14,7 +14,7 @@
         "worksFor": {
             "@type": "LocalBusiness",
             "name": "Treuhand am Falkenstein",
-            "url": "https://falkenstein.ag"
+            "url": "https://www.falkenstein.ag"
         },
         "telephone": "+41 71 242 66 57",
         "email": "rs@falkenstein.ag",

@@ -14,7 +14,7 @@
         "worksFor": {
             "@type": "LegalService",
             "name": "Advokatur am Falkenstein",
-            "url": "https://falkenstein.ag"
+            "url": "https://www.falkenstein.ag"
         },
         "telephone": "+41 71 242 66 58",
         "email": "mb@falkenstein.ag",

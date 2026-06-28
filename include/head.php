@@ -5,7 +5,7 @@
     <meta name="author" content="Advokatur und Treuhand am Falkenstein">
 
     <meta name="google-site-verification" content="a1HQiYpPonscftm-7z0OYnCmVsOfnUlEfpR6gpgd0fg" />
-    <base href="https://falkenstein.ag/">
+    <base href="https://www.falkenstein.ag/">
 
     <meta name="keywords" content="Advokatur, Treuhand, Immobilien, Falkenstein, Frank Th. Petermann, Rolf W. Rempfler, Christa Rempfler, Tanja Ivanovic, Werner Rempfler, Maria Rempfler, Roger Schai, Betreibungs- und Konkursrecht, Erbrecht und Vorsorge, Exportkontrollrecht, Familienrecht mit Kindes- und Erwachsenenschutzrecht, Firmengründung und -führung, Medizinalrecht, Pharmarecht, Rufschädigungen und Europäische Menschenrechtskonvention (EMRK), Sozial- und Privatversicherungsrecht mit Haftpflichtrecht, Steuerrecht, Strafrecht, Strassenverkehrsrecht, Vertragsrecht, Verwaltungs-, Bau- und Planungsrecht, Sachenrecht (Dienstbarkeiten, etc.),">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -15,8 +15,8 @@
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="business.business">
     <meta property="og:title" content="Advokatur und Treuhand am Falkenstein">
-    <meta property="og:url" content="https://falkenstein.ag">
-    <meta property="og:image" content="https://falkenstein.ag/img/og-image.jpg">
+    <meta property="og:url" content="https://www.falkenstein.ag">
+    <meta property="og:image" content="https://www.falkenstein.ag/img/og-image.jpg">
     <meta property="business:contact_data:street_address" content="Falkensteinstrasse 1">
     <meta property="business:contact_data:locality" content="St.Gallen">
     <meta property="business:contact_data:region" content="St.Gallen">
@@ -25,7 +25,7 @@
 
     <?php
     $canonical_page = basename($_SERVER['PHP_SELF'], '.php');
-    $canonical_url = ($canonical_page === 'index') ? 'https://falkenstein.ag/' : 'https://falkenstein.ag/' . $canonical_page;
+    $canonical_url = ($canonical_page === 'index') ? 'https://www.falkenstein.ag/' : 'https://www.falkenstein.ag/' . $canonical_page;
     ?>
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
 
