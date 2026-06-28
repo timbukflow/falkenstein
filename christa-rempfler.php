@@ -10,7 +10,7 @@
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Christa Rempfler",
-        "jobTitle": "Rechtsanwältin und Notarin",
+        "jobTitle": "Rechtsanwältin, Notarin und Mediatorin KSFM",
         "worksFor": {
             "@type": "LegalService",
             "name": "Advokatur am Falkenstein",
@@ -36,7 +36,7 @@
     <div class="main-container">
         <section class="content top column-three">
             <h1 class="contact-resp">Christa Rempfler<br>
-                <span class="gray">Rechtsanwältin &#47; Notarin &#47; Mediatorin SAV</span>
+                <span class="gray">Rechtsanwältin &#47; Notarin &#47; Mediatorin KSFM</span>
                 <a class="erbrechtsinfo gray" href="https://www.erbrechtsinfo.ch/anwalt/st-gallen/christa-rempfler/" target="_blank">Partnerin von erbrechtsinfo.ch</a>
             </h1>
 
